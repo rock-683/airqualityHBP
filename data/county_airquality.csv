@@ -1,0 +1,3109 @@
+FIPS,COUNTY_NAME,STATE_NAME,STATE_ABBR,AIRQUALTY_MEAN
+06105,"Trinity County",California,CA,17.7568407444
+06063,"Plumas County",California,CA,17.029498468
+41035,"Klamath County",Oregon,OR,15.5650628901
+06035,"Lassen County",California,CA,15.2332136596
+06089,"Shasta County",California,CA,14.4512267643
+06107,"Tulare County",California,CA,14.0991865499
+06031,"Kings County",California,CA,13.8326266188
+06091,"Sierra County",California,CA,13.5133047402
+41029,"Jackson County",Oregon,OR,13.1531621647
+06103,"Tehama County",California,CA,13.0209671259
+06049,"Modoc County",California,CA,12.7633364044
+32031,"Washoe County",Nevada,NV,12.6982826158
+06093,"Siskiyou County",California,CA,12.5993517747
+20021,"Cherokee County",Kansas,KS,12.2231915792
+32029,"Storey County",Nevada,NV,11.6317423582
+06099,"Stanislaus County",California,CA,11.6307863605
+06029,"Kern County",California,CA,11.6152001196
+32027,"Pershing County",Nevada,NV,11.493480864
+41037,"Lake County",Oregon,OR,11.4831458619
+32510,"Carson City",Nevada,NV,11.4082895915
+06019,"Fresno County",California,CA,11.4049358341
+27005,"Becker County",Minnesota,MN,11.3510652889
+06039,"Madera County",California,CA,11.3299705444
+06077,"San Joaquin County",California,CA,11.3100446029
+32005,"Douglas County",Nevada,NV,11.1925414562
+06101,"Sutter County",California,CA,11.1832015514
+40115,"Ottawa County",Oklahoma,OK,11.1663205624
+06007,"Butte County",California,CA,11.1514164547
+32013,"Humboldt County",Nevada,NV,11.1350490744
+06059,"Orange County",California,CA,11.1331367907
+27057,"Hubbard County",Minnesota,MN,11.1179600377
+06037,"Los Angeles County",California,CA,11.0145751746
+06115,"Yuba County",California,CA,10.9926487418
+27087,"Mahnomen County",Minnesota,MN,10.889079321
+18097,"Marion County",Indiana,IN,10.8620880445
+30053,"Lincoln County",Montana,MT,10.8575551755
+06057,"Nevada County",California,CA,10.8224007818
+32001,"Churchill County",Nevada,NV,10.7801034878
+13245,"Richmond County",Georgia,GA,10.707903756
+27027,"Clay County",Minnesota,MN,10.6514928201
+27111,"Otter Tail County",Minnesota,MN,10.6149395977
+20173,"Sedgwick County",Kansas,KS,10.5479896069
+06047,"Merced County",California,CA,10.523113828
+27107,"Norman County",Minnesota,MN,10.5220715702
+32019,"Lyon County",Nevada,NV,10.5191600002
+40035,"Craig County",Oklahoma,OK,10.5141533852
+20099,"Labette County",Kansas,KS,10.5078002453
+18063,"Hendricks County",Indiana,IN,10.4333862464
+20037,"Crawford County",Kansas,KS,10.4086281776
+06061,"Placer County",California,CA,10.3813257651
+06011,"Colusa County",California,CA,10.3789040334
+48215,"Hidalgo County",Texas,TX,10.3276987741
+06021,"Glenn County",California,CA,10.243289989
+32009,"Esmeralda County",Nevada,NV,10.2362772043
+18081,"Johnson County",Indiana,IN,10.1944462458
+20079,"Harvey County",Kansas,KS,10.1772590001
+48427,"Starr County",Texas,TX,10.1690756699
+53047,"Okanogan County",Washington,WA,10.1687507333
+27167,"Wilkin County",Minnesota,MN,10.1603343646
+16079,"Shoshone County",Idaho,ID,10.1563444539
+29145,"Newton County",Missouri,MO,10.1498970985
+18011,"Boone County",Indiana,IN,10.132396253
+30063,"Missoula County",Montana,MT,10.127917218
+29097,"Jasper County",Missouri,MO,10.1099983516
+30061,"Mineral County",Montana,MT,10.1095656265
+38097,"Traill County","North Dakota",ND,10.0974134557
+38017,"Cass County","North Dakota",ND,10.0917864504
+13073,"Columbia County",Georgia,GA,10.0725775957
+18109,"Morgan County",Indiana,IN,10.0574206572
+27119,"Polk County",Minnesota,MN,10.0447524165
+48489,"Willacy County",Texas,TX,10.0158573297
+48201,"Harris County",Texas,TX,9.99711663382
+41025,"Harney County",Oregon,OR,9.95389877926
+20191,"Sumner County",Kansas,KS,9.93205144405
+06067,"Sacramento County",California,CA,9.92048656023
+27125,"Red Lake County",Minnesota,MN,9.9142308602
+13303,"Washington County",Georgia,GA,9.89633460045
+48505,"Zapata County",Texas,TX,9.88411887487
+29510,"St. Louis city",Missouri,MO,9.87864780426
+26163,"Wayne County",Michigan,MI,9.87206110954
+20133,"Neosho County",Kansas,KS,9.86192200979
+39113,"Montgomery County",Ohio,OH,9.85834862204
+13033,"Burke County",Georgia,GA,9.85646303495
+48247,"Jim Hogg County",Texas,TX,9.83917781285
+13163,"Jefferson County",Georgia,GA,9.83572796413
+17119,"Madison County",Illinois,IL,9.82068288326
+48061,"Cameron County",Texas,TX,9.81914014402
+32015,"Lander County",Nevada,NV,9.81893580225
+20035,"Cowley County",Kansas,KS,9.8140460968
+31067,"Gage County",Nebraska,NE,9.80840911865
+40027,"Cleveland County",Oklahoma,OK,9.80744845072
+17115,"Macon County",Illinois,IL,9.80217855117
+13095,"Dougherty County",Georgia,GA,9.79926522573
+18133,"Putnam County",Indiana,IN,9.79626259437
+27159,"Wadena County",Minnesota,MN,9.78730840683
+13125,"Glascock County",Georgia,GA,9.77616047859
+21013,"Bell County",Kentucky,KY,9.76624600093
+32021,"Mineral County",Nevada,NV,9.76090708425
+16021,"Boundary County",Idaho,ID,9.74912440777
+48047,"Brooks County",Texas,TX,9.74386095118
+27029,"Clearwater County",Minnesota,MN,9.73641486168
+42071,"Lancaster County",Pennsylvania,PA,9.73618822098
+54009,"Brooke County","West Virginia",WV,9.73606109619
+13177,"Lee County",Georgia,GA,9.73551664352
+13189,"McDuffie County",Georgia,GA,9.73168706894
+38035,"Grand Forks County","North Dakota",ND,9.73081010183
+20125,"Montgomery County",Kansas,KS,9.72875237465
+18163,"Vanderburgh County",Indiana,IN,9.72736345019
+40105,"Nowata County",Oklahoma,OK,9.72133984566
+22015,"Bossier Parish",Louisiana,LA,9.72104914983
+13167,"Johnson County",Georgia,GA,9.71297634972
+48479,"Webb County",Texas,TX,9.7094326516
+05091,"Miller County",Arkansas,AR,9.70930234124
+48261,"Kenedy County",Texas,TX,9.70724480493
+17031,"Cook County",Illinois,IL,9.69322699885
+18089,"Lake County",Indiana,IN,9.6923357813
+27113,"Pennington County",Minnesota,MN,9.68782801377
+54051,"Marshall County","West Virginia",WV,9.68701064587
+40109,"Oklahoma County",Oklahoma,OK,9.68254160881
+16009,"Benewah County",Idaho,ID,9.68095111847
+17043,"DuPage County",Illinois,IL,9.67953411738
+18043,"Floyd County",Indiana,IN,9.67596467336
+17005,"Bond County",Illinois,IL,9.67338879903
+18107,"Montgomery County",Indiana,IN,9.67258501053
+39057,"Greene County",Ohio,OH,9.66620574679
+20205,"Wilson County",Kansas,KS,9.66274242401
+39023,"Clark County",Ohio,OH,9.66055576007
+38077,"Richland County","North Dakota",ND,9.65667431443
+17135,"Montgomery County",Illinois,IL,9.65475218113
+06027,"Inyo County",California,CA,9.65238439566
+21111,"Jefferson County",Kentucky,KY,9.65043926239
+18121,"Parke County",Indiana,IN,9.64889951186
+06023,"Humboldt County",California,CA,9.64253922745
+20015,"Butler County",Kansas,KS,9.64155410585
+17197,"Will County",Illinois,IL,9.64144797759
+06043,"Mariposa County",California,CA,9.63603323064
+13301,"Warren County",Georgia,GA,9.63521698543
+39109,"Miami County",Ohio,OH,9.62926125526
+17051,"Fayette County",Illinois,IL,9.62766144492
+40113,"Osage County",Oklahoma,OK,9.6217017631
+18057,"Hamilton County",Indiana,IN,9.62028384209
+40087,"McClain County",Oklahoma,OK,9.61729443073
+26077,"Kalamazoo County",Michigan,MI,9.61559658051
+48407,"San Jacinto County",Texas,TX,9.61225313299
+18145,"Shelby County",Indiana,IN,9.60917204618
+48339,"Montgomery County",Texas,TX,9.60536017241
+18167,"Vigo County",Indiana,IN,9.60251113347
+06005,"Amador County",California,CA,9.59744797813
+39017,"Butler County",Ohio,OH,9.59604138136
+38091,"Steele County","North Dakota",ND,9.58975121071
+18061,"Harrison County",Indiana,IN,9.58704144614
+20019,"Chautauqua County",Kansas,KS,9.58590216107
+40041,"Delaware County",Oklahoma,OK,9.58573285739
+17027,"Clinton County",Illinois,IL,9.58465781579
+19113,"Linn County",Iowa,IA,9.58370633125
+22017,"Caddo Parish",Louisiana,LA,9.58040948348
+31095,"Jefferson County",Nebraska,NE,9.57927932739
+20155,"Reno County",Kansas,KS,9.5723195182
+13141,"Hancock County",Georgia,GA,9.57218681063
+18111,"Newton County",Indiana,IN,9.57167133918
+48481,"Wharton County",Texas,TX,9.56939442952
+27051,"Grant County",Minnesota,MN,9.56890215874
+17121,"Marion County",Illinois,IL,9.56154537201
+06003,"Alpine County",California,CA,9.560738605
+27089,"Marshall County",Minnesota,MN,9.55999408135
+17143,"Peoria County",Illinois,IL,9.55952107279
+06009,"Calaveras County",California,CA,9.55730625788
+17163,"St. Clair County",Illinois,IL,9.55702130935
+29119,"McDonald County",Missouri,MO,9.55156416052
+21101,"Henderson County",Kentucky,KY,9.55137983958
+42003,"Allegheny County",Pennsylvania,PA,9.54861679944
+20049,"Elk County",Kansas,KS,9.54830937915
+27021,"Cass County",Minnesota,MN,9.54708589416
+27007,"Beltrami County",Minnesota,MN,9.54470545107
+48473,"Waller County",Texas,TX,9.5432686011
+20177,"Shawnee County",Kansas,KS,9.54151045481
+48455,"Trinity County",Texas,TX,9.53871164322
+42043,"Dauphin County",Pennsylvania,PA,9.53552129534
+48089,"Colorado County",Texas,TX,9.53348644257
+05119,"Pulaski County",Arkansas,AR,9.53075106939
+20001,"Allen County",Kansas,KS,9.52745485306
+17093,"Kendall County",Illinois,IL,9.52604146437
+18129,"Posey County",Indiana,IN,9.52517679759
+40147,"Washington County",Oklahoma,OK,9.51730720202
+13165,"Jenkins County",Georgia,GA,9.51648302078
+42133,"York County",Pennsylvania,PA,9.50993524749
+48321,"Matagorda County",Texas,TX,9.50257087476
+27069,"Kittson County",Minnesota,MN,9.49977842967
+48291,"Liberty County",Texas,TX,9.49863965171
+18021,"Clay County",Indiana,IN,9.49321688139
+40117,"Pawnee County",Oklahoma,OK,9.48793888092
+17091,"Kankakee County",Illinois,IL,9.48699760437
+40125,"Pottawatomie County",Oklahoma,OK,9.48387384415
+17179,"Tazewell County",Illinois,IL,9.48272336613
+18141,"St. Joseph County",Indiana,IN,9.48219935099
+48157,"Fort Bend County",Texas,TX,9.48177631378
+48015,"Austin County",Texas,TX,9.48015694869
+38067,"Pembina County","North Dakota",ND,9.47686048654
+16035,"Clearwater County",Idaho,ID,9.47668738942
+40071,"Kay County",Oklahoma,OK,9.47658238266
+18051,"Gibson County",Indiana,IN,9.47602040427
+47025,"Claiborne County",Tennessee,TN,9.47527322769
+48037,"Bowie County",Texas,TX,9.47470626125
+18023,"Clinton County",Indiana,IN,9.46973601255
+38099,"Walsh County","North Dakota",ND,9.46894821466
+01073,"Jefferson County",Alabama,AL,9.46786789596
+39021,"Champaign County",Ohio,OH,9.46734633813
+17117,"Macoupin County",Illinois,IL,9.46689084371
+18165,"Vermillion County",Indiana,IN,9.46624522739
+18045,"Fountain County",Indiana,IN,9.46413027445
+13321,"Worth County",Georgia,GA,9.4628495574
+40097,"Mayes County",Oklahoma,OK,9.46104817641
+06045,"Mendocino County",California,CA,9.45753497993
+18073,"Jasper County",Indiana,IN,9.45661724938
+21029,"Bullitt County",Kentucky,KY,9.45592519972
+48067,"Cass County",Texas,TX,9.45480489731
+13273,"Terrell County",Georgia,GA,9.45461683273
+48039,"Brazoria County",Texas,TX,9.45129029344
+16017,"Bonner County",Idaho,ID,9.45121354323
+18059,"Hancock County",Indiana,IN,9.44995617867
+48471,"Walker County",Texas,TX,9.44980450471
+01117,"Shelby County",Alabama,AL,9.44906246662
+39027,"Clinton County",Ohio,OH,9.44739580154
+20207,"Woodson County",Kansas,KS,9.44640860558
+17099,"LaSalle County",Illinois,IL,9.44529366493
+20095,"Kingman County",Kansas,KS,9.44048041389
+17123,"Marshall County",Illinois,IL,9.43891207377
+48373,"Polk County",Texas,TX,9.43802932001
+06051,"Mono County",California,CA,9.43220513932
+17037,"DeKalb County",Illinois,IL,9.43207359314
+19103,"Johnson County",Iowa,IA,9.42708778381
+27041,"Douglas County",Minnesota,MN,9.42690403121
+21059,"Daviess County",Kentucky,KY,9.42614313761
+13021,"Bibb County",Georgia,GA,9.42458724976
+55079,"Milwaukee County",Wisconsin,WI,9.42052006721
+16027,"Canyon County",Idaho,ID,9.41878875097
+13089,"DeKalb County",Georgia,GA,9.41828131676
+17021,"Christian County",Illinois,IL,9.41382493973
+22119,"Webster Parish",Louisiana,LA,9.41361522675
+17155,"Putnam County",Illinois,IL,9.41288166046
+21215,"Spencer County",Kentucky,KY,9.41099532445
+22031,"De Soto Parish",Louisiana,LA,9.39954463641
+40083,"Logan County",Oklahoma,OK,9.39903128147
+17173,"Shelby County",Illinois,IL,9.3960343429
+41019,"Douglas County",Oregon,OR,9.39575803834
+17189,"Washington County",Illinois,IL,9.39515638351
+13225,"Peach County",Georgia,GA,9.39429060618
+05073,"Lafayette County",Arkansas,AR,9.39096159094
+13319,"Wilkinson County",Georgia,GA,9.38894293858
+40131,"Rogers County",Oklahoma,OK,9.38820695877
+21073,"Franklin County",Kentucky,KY,9.38517824809
+26125,"Oakland County",Michigan,MI,9.38371921308
+17089,"Kane County",Illinois,IL,9.38355368376
+21225,"Union County",Kentucky,KY,9.38087081909
+40081,"Lincoln County",Oklahoma,OK,9.37965423584
+20209,"Wyandotte County",Kansas,KS,9.37801437378
+21015,"Boone County",Kentucky,KY,9.37786115919
+39165,"Warren County",Ohio,OH,9.37730849873
+48239,"Jackson County",Texas,TX,9.37682120005
+30093,"Silver Bow County",Montana,MT,9.37443881989
+13009,"Baldwin County",Georgia,GA,9.37362837791
+21211,"Shelby County",Kentucky,KY,9.3714884758
+17203,"Woodford County",Illinois,IL,9.37011497899
+13261,"Sumter County",Georgia,GA,9.36972767115
+13153,"Houston County",Georgia,GA,9.36360142448
+17081,"Jefferson County",Illinois,IL,9.36164690653
+13265,"Taliaferro County",Georgia,GA,9.36130444209
+18115,"Ohio County",Indiana,IN,9.3594121933
+40017,"Canadian County",Oklahoma,OK,9.35714891979
+21117,"Kenton County",Kentucky,KY,9.35562682152
+20113,"McPherson County",Kansas,KS,9.35384257634
+18161,"Union County",Indiana,IN,9.35282468796
+13051,"Chatham County",Georgia,GA,9.35232335871
+17185,"Wabash County",Illinois,IL,9.34900951385
+21233,"Webster County",Kentucky,KY,9.347871607
+17047,"Edwards County",Illinois,IL,9.34508657455
+20011,"Bourbon County",Kansas,KS,9.34469676018
+17175,"Stark County",Illinois,IL,9.34451328624
+17195,"Whiteside County",Illinois,IL,9.34433992285
+17011,"Bureau County",Illinois,IL,9.34310495853
+21103,"Henry County",Kentucky,KY,9.3386177063
+48365,"Panola County",Texas,TX,9.33731029345
+18173,"Warrick County",Indiana,IN,9.33437648186
+39151,"Stark County",Ohio,OH,9.33213490248
+21041,"Carroll County",Kentucky,KY,9.33014074961
+42007,"Beaver County",Pennsylvania,PA,9.32794698079
+13107,"Emanuel County",Georgia,GA,9.32711453438
+17103,"Lee County",Illinois,IL,9.32626047589
+26081,"Kent County",Michigan,MI,9.32447547913
+13133,"Greene County",Georgia,GA,9.32441347296
+48315,"Marion County",Texas,TX,9.32430560248
+39061,"Hamilton County",Ohio,OH,9.32366752625
+42075,"Lebanon County",Pennsylvania,PA,9.3220689947
+16045,"Gem County",Idaho,ID,9.32166017186
+48203,"Harrison County",Texas,TX,9.32110316413
+13307,"Webster County",Georgia,GA,9.31823885441
+40119,"Payne County",Oklahoma,OK,9.31812580109
+21081,"Grant County",Kentucky,KY,9.31778785161
+13249,"Schley County",Georgia,GA,9.31776650747
+17075,"Iroquois County",Illinois,IL,9.31671582328
+13081,"Crisp County",Georgia,GA,9.31667009989
+21145,"McCracken County",Kentucky,KY,9.31562185287
+13193,"Macon County",Georgia,GA,9.31429131826
+17171,"Scott County",Illinois,IL,9.31176269054
+18155,"Switzerland County",Indiana,IN,9.30872106552
+17137,"Morgan County",Illinois,IL,9.30450725555
+21005,"Anderson County",Kentucky,KY,9.30403677622
+17193,"White County",Illinois,IL,9.30231874129
+18025,"Crawford County",Indiana,IN,9.3018024618
+13037,"Calhoun County",Georgia,GA,9.29917757852
+17017,"Cass County",Illinois,IL,9.29757881165
+39135,"Preble County",Ohio,OH,9.29716873169
+17039,"De Witt County",Illinois,IL,9.29459870656
+01113,"Russell County",Alabama,AL,9.29279899597
+13053,"Chattahoochee County",Georgia,GA,9.29238367081
+21149,"McLean County",Kentucky,KY,9.29164731503
+21077,"Gallatin County",Kentucky,KY,9.28979420662
+17191,"Wayne County",Illinois,IL,9.28777468204
+17127,"Massac County",Illinois,IL,9.2853730917
+40133,"Seminole County",Oklahoma,OK,9.28386573792
+26115,"Monroe County",Michigan,MI,9.28371980455
+47093,"Knox County",Tennessee,TN,9.28259378321
+39081,"Jefferson County",Ohio,OH,9.28157789057
+17055,"Franklin County",Illinois,IL,9.28115158081
+21163,"Meade County",Kentucky,KY,9.28098158403
+17063,"Grundy County",Illinois,IL,9.27985882759
+13181,"Lincoln County",Georgia,GA,9.27953611101
+48131,"Duval County",Texas,TX,9.27862071991
+49035,"Salt Lake County",Utah,UT,9.27859622955
+18175,"Washington County",Indiana,IN,9.27789407618
+13079,"Crawford County",Georgia,GA,9.27653278004
+13059,"Clarke County",Georgia,GA,9.27495884895
+21139,"Livingston County",Kentucky,KY,9.2705537796
+13175,"Laurens County",Georgia,GA,9.26998241742
+21055,"Crittenden County",Kentucky,KY,9.2681388855
+42019,"Butler County",Pennsylvania,PA,9.26594209671
+18029,"Dearborn County",Indiana,IN,9.26530869802
+17111,"McHenry County",Illinois,IL,9.26322307587
+18037,"Dubois County",Indiana,IN,9.26188317935
+18007,"Benton County",Indiana,IN,9.26119499207
+13023,"Bleckley County",Georgia,GA,9.26112815312
+13259,"Stewart County",Georgia,GA,9.26022413799
+22081,"Red River Parish",Louisiana,LA,9.26013159752
+21187,"Owen County",Kentucky,KY,9.2598369305
+13093,"Dooly County",Georgia,GA,9.25776767731
+17059,"Gallatin County",Illinois,IL,9.25729031033
+13197,"Marion County",Georgia,GA,9.25633831024
+21107,"Hopkins County",Kentucky,KY,9.25042178896
+17073,"Henry County",Illinois,IL,9.25038994683
+17125,"Mason County",Illinois,IL,9.25026332631
+47173,"Union County",Tennessee,TN,9.25024819374
+18127,"Porter County",Indiana,IN,9.2483291626
+17149,"Pike County",Illinois,IL,9.24750705866
+21121,"Knox County",Kentucky,KY,9.24567872828
+19045,"Clinton County",Iowa,IA,9.24450819309
+21185,"Oldham County",Kentucky,KY,9.24329109192
+18125,"Pike County",Indiana,IN,9.24286863539
+21223,"Trimble County",Kentucky,KY,9.24206423759
+17107,"Logan County",Illinois,IL,9.24117499904
+18149,"Starke County",Indiana,IN,9.24090854327
+48273,"Kleberg County",Texas,TX,9.24048463504
+05081,"Little River County",Arkansas,AR,9.2400559818
+39037,"Darke County",Ohio,OH,9.23845186688
+18143,"Scott County",Indiana,IN,9.23638900121
+26015,"Barry County",Michigan,MI,9.23525060018
+13219,"Oconee County",Georgia,GA,9.23280906677
+13289,"Twiggs County",Georgia,GA,9.23267355832
+17069,"Hardin County",Illinois,IL,9.23253941536
+18013,"Brown County",Indiana,IN,9.23141723209
+47037,"Davidson County",Tennessee,TN,9.23134427912
+17199,"Williamson County",Illinois,IL,9.23024559021
+13317,"Wilkes County",Georgia,GA,9.22888322977
+18119,"Owen County",Indiana,IN,9.22651932456
+17025,"Clay County",Illinois,IL,9.22562667302
+26149,"St. Joseph County",Michigan,MI,9.22446784973
+13243,"Randolph County",Georgia,GA,9.22432716688
+42129,"Westmoreland County",Pennsylvania,PA,9.22224174846
+13269,"Taylor County",Georgia,GA,9.22212247849
+13083,"Dade County",Georgia,GA,9.22170257568
+48225,"Houston County",Texas,TX,9.21831422103
+18153,"Sullivan County",Indiana,IN,9.2169955327
+21157,"Marshall County",Kentucky,KY,9.21370382309
+29073,"Gasconade County",Missouri,MO,9.21369743347
+13007,"Baker County",Georgia,GA,9.21280565262
+13221,"Oglethorpe County",Georgia,GA,9.21181752132
+17061,"Greene County",Illinois,IL,9.21160236158
+17159,"Richland County",Illinois,IL,9.21086416245
+39097,"Madison County",Ohio,OH,9.21039544619
+20077,"Harper County",Kansas,KS,9.20719885826
+18015,"Carroll County",Indiana,IN,9.20638198853
+17105,"Livingston County",Illinois,IL,9.20540187359
+21239,"Woodford County",Kentucky,KY,9.20388412476
+17013,"Calhoun County",Illinois,IL,9.20323395729
+17045,"Edgar County",Illinois,IL,9.20213543741
+17145,"Perry County",Illinois,IL,9.2018772761
+42101,"Philadelphia County",Pennsylvania,PA,9.20071792603
+18123,"Perry County",Indiana,IN,9.19963653882
+13237,"Putnam County",Georgia,GA,9.19950904846
+13235,"Pulaski County",Georgia,GA,9.19821166992
+17141,"Ogle County",Illinois,IL,9.19788674513
+48283,"La Salle County",Texas,TX,9.19724814097
+17101,"Lawrence County",Illinois,IL,9.19702566587
+17151,"Pope County",Illinois,IL,9.19504785538
+18019,"Clark County",Indiana,IN,9.19482175509
+18171,"Warren County",Indiana,IN,9.19446452459
+38063,"Nelson County","North Dakota",ND,9.19291230404
+13205,"Mitchell County",Georgia,GA,9.1920722127
+17023,"Clark County",Illinois,IL,9.1913864272
+18131,"Pulaski County",Indiana,IN,9.19074058533
+21191,"Pendleton County",Kentucky,KY,9.19053888321
+18047,"Franklin County",Indiana,IN,9.18983732859
+28121,"Rankin County",Mississippi,MS,9.18981777538
+19011,"Benton County",Iowa,IA,9.18973078728
+55133,"Waukesha County",Wisconsin,WI,9.18800516129
+17007,"Boone County",Illinois,IL,9.1872104009
+26021,"Berrien County",Michigan,MI,9.18701177485
+21097,"Harrison County",Kentucky,KY,9.18578643799
+39047,"Fayette County",Ohio,OH,9.18464271839
+45003,"Aiken County","South Carolina",SC,9.18457294913
+40123,"Pontotoc County",Oklahoma,OK,9.18342499984
+39123,"Ottawa County",Ohio,OH,9.1827493906
+18159,"Tipton County",Indiana,IN,9.18156433105
+21091,"Hancock County",Kentucky,KY,9.18146165212
+18077,"Jefferson County",Indiana,IN,9.17925028367
+18083,"Knox County",Indiana,IN,9.17910022736
+17049,"Effingham County",Illinois,IL,9.17829052607
+17139,"Moultrie County",Illinois,IL,9.17674980164
+26099,"Macomb County",Michigan,MI,9.1755435607
+21179,"Nelson County",Kentucky,KY,9.17545788105
+48325,"Medina County",Texas,TX,9.17262826315
+54029,"Hancock County","West Virginia",WV,9.17239761353
+18139,"Rush County",Indiana,IN,9.17101915677
+29219,"Warren County",Missouri,MO,9.1699262619
+26027,"Cass County",Michigan,MI,9.16755835215
+17165,"Saline County",Illinois,IL,9.16675662994
+48005,"Angelina County",Texas,TX,9.1647600091
+30089,"Sanders County",Montana,MT,9.1642794265
+19163,"Scott County",Iowa,IA,9.1635462443
+13287,"Turner County",Georgia,GA,9.16326627731
+42031,"Clarion County",Pennsylvania,PA,9.16320571899
+05125,"Saline County",Arkansas,AR,9.16268310547
+16055,"Kootenai County",Idaho,ID,9.16266422272
+13169,"Jones County",Georgia,GA,9.16259730946
+18099,"Marshall County",Indiana,IN,9.16172027588
+18095,"Madison County",Indiana,IN,9.16158040365
+21033,"Caldwell County",Kentucky,KY,9.16138068112
+27135,"Roseau County",Minnesota,MN,9.16118235058
+53003,"Asotin County",Washington,WA,9.16073458535
+13239,"Quitman County",Georgia,GA,9.16064786911
+17033,"Crawford County",Illinois,IL,9.1585298885
+27155,"Traverse County",Minnesota,MN,9.15562790632
+21167,"Mercer County",Kentucky,KY,9.15449492137
+17065,"Hamilton County",Illinois,IL,9.15425610542
+13283,"Treutlen County",Georgia,GA,9.15308990479
+17161,"Rock Island County",Illinois,IL,9.15267504179
+01115,"St. Clair County",Alabama,AL,9.15122773912
+48057,"Calhoun County",Texas,TX,9.14948250697
+05027,"Columbia County",Arkansas,AR,9.14934071251
+21143,"Lyon County",Kentucky,KY,9.14807660239
+17097,"Lake County",Illinois,IL,9.14795002571
+29183,"St. Charles County",Missouri,MO,9.14768748813
+21209,"Scott County",Kentucky,KY,9.14736223221
+13295,"Walker County",Georgia,GA,9.14697154363
+20201,"Washington County",Kansas,KS,9.14662685394
+26025,"Calhoun County",Michigan,MI,9.14436268806
+17015,"Carroll County",Illinois,IL,9.14371585846
+39035,"Cuyahoga County",Ohio,OH,9.14088975682
+17113,"McLean County",Illinois,IL,9.14034034267
+28049,"Hinds County",Mississippi,MS,9.13768994808
+19097,"Jackson County",Iowa,IA,9.13368797302
+48419,"Shelby County",Texas,TX,9.13325678784
+29071,"Franklin County",Missouri,MO,9.13142052403
+21113,"Jessamine County",Kentucky,KY,9.13141708374
+40121,"Pittsburg County",Oklahoma,OK,9.13098547459
+13211,"Morgan County",Georgia,GA,9.13060061137
+40029,"Coal County",Oklahoma,OK,9.12776115206
+40143,"Tulsa County",Oklahoma,OK,9.12722369244
+48185,"Grimes County",Texas,TX,9.12713734309
+16001,"Ada County",Idaho,ID,9.12696089889
+40063,"Hughes County",Oklahoma,OK,9.12682573001
+17079,"Jasper County",Illinois,IL,9.12600949605
+18117,"Orange County",Indiana,IN,9.12516458829
+29055,"Crawford County",Missouri,MO,9.12428470453
+17087,"Johnson County",Illinois,IL,9.12402613958
+20159,"Rice County",Kansas,KS,9.12244669596
+13251,"Screven County",Georgia,GA,9.12238663121
+21229,"Washington County",Kentucky,KY,9.12103233337
+31151,"Saline County",Nebraska,NE,9.11985826492
+41023,"Grant County",Oregon,OR,9.11955563552
+13263,"Talbot County",Georgia,GA,9.11751184464
+18181,"White County",Indiana,IN,9.11652914683
+21177,"Muhlenberg County",Kentucky,KY,9.11614370346
+19105,"Jones County",Iowa,IA,9.1160334905
+29139,"Montgomery County",Missouri,MO,9.11554728056
+55127,"Walworth County",Wisconsin,WI,9.11493854523
+17095,"Knox County",Illinois,IL,9.11457584381
+13103,"Effingham County",Georgia,GA,9.11279828208
+29113,"Lincoln County",Missouri,MO,9.11236163548
+19055,"Delaware County",Iowa,IA,9.1117606163
+18147,"Spencer County",Indiana,IN,9.10813008822
+13121,"Fulton County",Georgia,GA,9.10805273056
+17057,"Fulton County",Illinois,IL,9.10775936567
+40073,"Kingfisher County",Oklahoma,OK,9.10632060369
+48343,"Morris County",Texas,TX,9.10599470139
+17129,"Menard County",Illinois,IL,9.1055508852
+13061,"Clay County",Georgia,GA,9.10546016693
+21067,"Fayette County",Kentucky,KY,9.09821414948
+29221,"Washington County",Missouri,MO,9.09671374162
+17077,"Jackson County",Illinois,IL,9.09385466576
+17201,"Winnebago County",Illinois,IL,9.09234815836
+26147,"St. Clair County",Michigan,MI,9.09182577548
+21023,"Bracken County",Kentucky,KY,9.09050559998
+22013,"Bienville Parish",Louisiana,LA,9.09047031403
+05053,"Grant County",Arkansas,AR,9.08946609497
+26023,"Branch County",Michigan,MI,9.08934822083
+13215,"Muscogee County",Georgia,GA,9.08753623962
+42005,"Armstrong County",Pennsylvania,PA,9.08615245819
+38073,"Ransom County","North Dakota",ND,9.08473357558
+13047,"Catoosa County",Georgia,GA,9.08421063423
+13207,"Monroe County",Georgia,GA,9.08344078064
+55101,"Racine County",Wisconsin,WI,9.0823969841
+39143,"Sandusky County",Ohio,OH,9.08160800934
+49011,"Davis County",Utah,UT,9.07974233627
+26093,"Livingston County",Michigan,MI,9.07767796516
+18071,"Jackson County",Indiana,IN,9.0772023201
+17133,"Monroe County",Illinois,IL,9.07566341987
+19095,"Iowa County",Iowa,IA,9.07225160599
+21201,"Robertson County",Kentucky,KY,9.07202100754
+48019,"Bandera County",Texas,TX,9.07162604125
+39149,"Shelby County",Ohio,OH,9.07061568173
+17085,"Jo Daviess County",Illinois,IL,9.0704469314
+20003,"Anderson County",Kansas,KS,9.06922674179
+13135,"Gwinnett County",Georgia,GA,9.0690379824
+18053,"Grant County",Indiana,IN,9.06631418864
+40051,"Grady County",Oklahoma,OK,9.06561982291
+21037,"Campbell County",Kentucky,KY,9.06495990753
+39029,"Columbiana County",Ohio,OH,9.06388780049
+19019,"Buchanan County",Iowa,IA,9.06315236092
+01009,"Blount County",Alabama,AL,9.06286229028
+19061,"Dubuque County",Iowa,IA,9.06264037178
+48183,"Gregg County",Texas,TX,9.06203889847
+29151,"Osage County",Missouri,MO,9.06125178337
+38019,"Cavalier County","North Dakota",ND,9.05776740565
+48141,"El Paso County",Texas,TX,9.05721855164
+48401,"Rusk County",Texas,TX,9.05697076971
+40049,"Garvin County",Oklahoma,OK,9.05619709015
+16015,"Boise County",Idaho,ID,9.05582288595
+13063,"Clayton County",Georgia,GA,9.05261516571
+17035,"Cumberland County",Illinois,IL,9.05139741898
+26161,"Washtenaw County",Michigan,MI,9.05125788848
+47115,"Marion County",Tennessee,TN,9.05124007954
+06113,"Yolo County",California,CA,9.05030270546
+34007,"Camden County","New Jersey",NJ,9.04994360606
+28089,"Madison County",Mississippi,MS,9.04804511504
+21235,"Whitley County",Kentucky,KY,9.04624141966
+16075,"Payette County",Idaho,ID,9.04070129395
+22027,"Claiborne Parish",Louisiana,LA,9.04049359197
+18091,"LaPorte County",Indiana,IN,9.03723502159
+08031,"Denver County",Colorado,CO,9.03579082489
+18079,"Jennings County",Indiana,IN,9.03504816691
+39015,"Brown County",Ohio,OH,9.03419393301
+53065,"Stevens County",Washington,WA,9.03197742136
+20139,"Osage County",Kansas,KS,9.02934371948
+29163,"Pike County",Missouri,MO,9.02666392326
+39159,"Union County",Ohio,OH,9.02513051033
+18017,"Cass County",Indiana,IN,9.0251044035
+49029,"Morgan County",Utah,UT,9.02476712277
+20031,"Coffey County",Kansas,KS,9.02452316284
+42107,"Schuylkill County",Pennsylvania,PA,9.02271912648
+48259,"Kendall County",Texas,TX,9.02243493733
+13297,"Walton County",Georgia,GA,9.02103729248
+21017,"Bourbon County",Kentucky,KY,9.02018557654
+13195,"Madison County",Georgia,GA,9.0193598611
+48163,"Frio County",Texas,TX,9.01846629551
+48347,"Nacogdoches County",Texas,TX,9.01814586886
+53051,"Pend Oreille County",Washington,WA,9.01755683367
+13315,"Wilcox County",Georgia,GA,9.01725345188
+20117,"Marshall County",Kansas,KS,9.01684830983
+29186,"Ste. Genevieve County",Missouri,MO,9.01617486136
+17167,"Sangamon County",Illinois,IL,9.01449524915
+48249,"Jim Wells County",Texas,TX,9.01339744386
+18137,"Ripley County",Indiana,IN,9.01224366824
+39071,"Highland County",Ohio,OH,9.00887321023
+20085,"Jackson County",Kansas,KS,9.00724195397
+21079,"Garrard County",Kentucky,KY,9.00528935024
+21047,"Christian County",Kentucky,KY,9.00514253817
+38039,"Griggs County","North Dakota",ND,9.00499417232
+17177,"Stephenson County",Illinois,IL,9.00469293594
+16061,"Lewis County",Idaho,ID,9.00444399516
+01021,"Chilton County",Alabama,AL,9.00285035088
+18087,"LaGrange County",Indiana,IN,9.00284976959
+48127,"Dimmit County",Texas,TX,9.00227880478
+48029,"Bexar County",Texas,TX,9.00029704065
+13293,"Upson County",Georgia,GA,8.99952446331
+13159,"Jasper County",Georgia,GA,8.99881232869
+18135,"Randolph County",Indiana,IN,8.99711952209
+18157,"Tippecanoe County",Indiana,IN,8.99689084291
+39091,"Logan County",Ohio,OH,8.99529435084
+13199,"Meriwether County",Georgia,GA,8.99449689048
+48477,"Washington County",Texas,TX,8.99448601405
+17009,"Brown County",Illinois,IL,8.99368494207
+18031,"Decatur County",Indiana,IN,8.99327078733
+17083,"Jersey County",Illinois,IL,8.9932352066
+39019,"Carroll County",Ohio,OH,8.9902613163
+26159,"Van Buren County",Michigan,MI,8.99008183252
+13013,"Barrow County",Georgia,GA,8.98868052165
+47065,"Hamilton County",Tennessee,TN,8.98501947191
+13099,"Early County",Georgia,GA,8.98452359438
+17183,"Vermilion County",Illinois,IL,8.98451519012
+13097,"Douglas County",Georgia,GA,8.98433903285
+21027,"Breckinridge County",Kentucky,KY,8.98159127486
+40069,"Johnston County",Oklahoma,OK,8.98108488321
+13145,"Harris County",Georgia,GA,8.98068618774
+18177,"Wayne County",Indiana,IN,8.98062102
+29187,"St. Francois County",Missouri,MO,8.97903953899
+13043,"Candler County",Georgia,GA,8.97878944874
+01005,"Barbour County",Alabama,AL,8.97849482756
+53019,"Ferry County",Washington,WA,8.97801199512
+13113,"Fayette County",Georgia,GA,8.97707128525
+21021,"Boyle County",Kentucky,KY,8.97627210617
+40107,"Okfuskee County",Oklahoma,OK,8.97623596191
+13029,"Bryan County",Georgia,GA,8.9744162993
+21083,"Graves County",Kentucky,KY,8.97340882619
+20073,"Greenwood County",Kansas,KS,8.97195449997
+48311,"McMullen County",Texas,TX,8.97177788417
+01081,"Lee County",Alabama,AL,8.9684603074
+18041,"Fayette County",Indiana,IN,8.96806716919
+13031,"Bulloch County",Georgia,GA,8.96698625464
+42065,"Jefferson County",Pennsylvania,PA,8.9665186882
+18183,"Whitley County",Indiana,IN,8.96606445312
+21049,"Clark County",Kentucky,KY,8.96534742628
+05099,"Nevada County",Arkansas,AR,8.96487494076
+18101,"Martin County",Indiana,IN,8.96358132362
+21183,"Ohio County",Kentucky,KY,8.96292834812
+45065,"McCormick County","South Carolina",SC,8.96226511002
+16059,"Lemhi County",Idaho,ID,8.96134946591
+18027,"Daviess County",Indiana,IN,8.96042340597
+05103,"Ouachita County",Arkansas,AR,8.96014222645
+17181,"Union County",Illinois,IL,8.95987165891
+42091,"Montgomery County",Pennsylvania,PA,8.95958355495
+13077,"Coweta County",Georgia,GA,8.95930848803
+46029,"Codington County","South Dakota",SD,8.95903126399
+05057,"Hempstead County",Arkansas,AR,8.95819213174
+18085,"Kosciusko County",Indiana,IN,8.95419436693
+48285,"Lavaca County",Texas,TX,8.95416302151
+45011,"Barnwell County","South Carolina",SC,8.95320555743
+18009,"Blackford County",Indiana,IN,8.95315718651
+20045,"Douglas County",Kansas,KS,8.95297459995
+45053,"Jasper County","South Carolina",SC,8.94845912331
+18035,"Delaware County",Indiana,IN,8.94735590617
+13067,"Cobb County",Georgia,GA,8.94597868486
+27149,"Stevens County",Minnesota,MN,8.94536991119
+48313,"Madison County",Texas,TX,8.94118905067
+05045,"Faulkner County",Arkansas,AR,8.9400370121
+29027,"Callaway County",Missouri,MO,8.9397611618
+47153,"Sequatchie County",Tennessee,TN,8.93893456459
+21155,"Marion County",Kentucky,KY,8.93792872959
+06017,"El Dorado County",California,CA,8.93751529411
+26151,"Sanilac County",Michigan,MI,8.9335769724
+21007,"Ballard County",Kentucky,KY,8.93264687061
+48265,"Kerr County",Texas,TX,8.93243888572
+26067,"Ionia County",Michigan,MI,8.93055872917
+27153,"Todd County",Minnesota,MN,8.93025779724
+21151,"Madison County",Kentucky,KY,8.9285563689
+26087,"Lapeer County",Michigan,MI,8.92850619868
+06109,"Tuolumne County",California,CA,8.92838741385
+19031,"Cedar County",Iowa,IA,8.927937603
+48149,"Fayette County",Texas,TX,8.92768034568
+18093,"Lawrence County",Indiana,IN,8.92708829244
+48459,"Upshur County",Texas,TX,8.92558972041
+17053,"Ford County",Illinois,IL,8.92501366933
+18169,"Wabash County",Indiana,IN,8.92360699177
+42011,"Berks County",Pennsylvania,PA,8.9226407638
+21219,"Todd County",Kentucky,KY,8.92147572835
+39153,"Summit County",Ohio,OH,8.92079456647
+54069,"Ohio County","West Virginia",WV,8.92061758041
+16085,"Valley County",Idaho,ID,8.92018454075
+29011,"Barton County",Missouri,MO,8.9185401013
+40145,"Wagoner County",Oklahoma,OK,8.91686317656
+17029,"Coles County",Illinois,IL,8.91522379482
+18049,"Fulton County",Indiana,IN,8.9147164481
+01067,"Henry County",Alabama,AL,8.91153945923
+18075,"Jay County",Indiana,IN,8.91129716237
+42077,"Lehigh County",Pennsylvania,PA,8.91045995192
+19013,"Black Hawk County",Iowa,IA,8.91017394066
+27121,"Pope County",Minnesota,MN,8.9100703739
+55105,"Rock County",Wisconsin,WI,8.9086420536
+47013,"Campbell County",Tennessee,TN,8.90860298702
+18069,"Huntington County",Indiana,IN,8.90847714742
+42017,"Bucks County",Pennsylvania,PA,8.90761170387
+05139,"Union County",Arkansas,AR,8.90644922564
+05007,"Benton County",Arkansas,AR,8.90542562803
+40037,"Creek County",Oklahoma,OK,8.90529211106
+22019,"Calcasieu Parish",Louisiana,LA,8.90131327685
+13091,"Dodge County",Georgia,GA,8.89941199621
+18113,"Noble County",Indiana,IN,8.89656705123
+17187,"Warren County",Illinois,IL,8.8935457468
+48063,"Camp County",Texas,TX,8.89088233312
+29099,"Jefferson County",Missouri,MO,8.89033759268
+40099,"Murray County",Oklahoma,OK,8.88915419579
+45005,"Allendale County","South Carolina",SC,8.88894685109
+13157,"Jackson County",Georgia,GA,8.8885134697
+13247,"Rockdale County",Georgia,GA,8.88410396576
+20169,"Saline County",Kansas,KS,8.88390175502
+42099,"Perry County",Pennsylvania,PA,8.88237501446
+55059,"Kenosha County",Wisconsin,WI,8.88136456229
+05039,"Dallas County",Arkansas,AR,8.87898445129
+05059,"Hot Spring County",Arkansas,AR,8.87887149387
+48385,"Real County",Texas,TX,8.87878057692
+20087,"Jefferson County",Kansas,KS,8.87865552448
+13201,"Miller County",Georgia,GA,8.8772521019
+01007,"Bibb County",Alabama,AL,8.87546515465
+13285,"Troup County",Georgia,GA,8.87522484706
+48463,"Uvalde County",Texas,TX,8.87395999545
+40005,"Atoka County",Oklahoma,OK,8.87292175908
+42001,"Adams County",Pennsylvania,PA,8.8723385334
+19183,"Washington County",Iowa,IA,8.87220892906
+42125,"Washington County",Pennsylvania,PA,8.87175606037
+17157,"Randolph County",Illinois,IL,8.87149338722
+28163,"Yazoo County",Mississippi,MS,8.8703427996
+17147,"Piatt County",Illinois,IL,8.86906043688
+38003,"Barnes County","North Dakota",ND,8.86463853146
+28127,"Simpson County",Mississippi,MS,8.86391599555
+08001,"Adams County",Colorado,CO,8.85922569978
+21181,"Nicholas County",Kentucky,KY,8.85631020864
+48091,"Comal County",Texas,TX,8.85615526835
+05013,"Calhoun County",Arkansas,AR,8.85582216162
+21221,"Trigg County",Kentucky,KY,8.85527873039
+29157,"Perry County",Missouri,MO,8.85488541921
+39107,"Mercer County",Ohio,OH,8.8546482722
+20151,"Pratt County",Kansas,KS,8.85450757345
+21035,"Calloway County",Kentucky,KY,8.85356467111
+17169,"Schuyler County",Illinois,IL,8.84992701667
+18151,"Steuben County",Indiana,IN,8.84974899292
+26075,"Jackson County",Michigan,MI,8.84852583068
+48171,"Gillespie County",Texas,TX,8.84802901745
+28029,"Copiah County",Mississippi,MS,8.84800960707
+26045,"Eaton County",Michigan,MI,8.84564685822
+18039,"Elkhart County",Indiana,IN,8.84497517347
+48449,"Titus County",Texas,TX,8.84435176849
+47051,"Franklin County",Tennessee,TN,8.8442142711
+20059,"Franklin County",Kansas,KS,8.84416338603
+46109,"Roberts County","South Dakota",SD,8.84412968159
+13231,"Pike County",Georgia,GA,8.84257164001
+21039,"Carlisle County",Kentucky,KY,8.84070655278
+16049,"Idaho County",Idaho,ID,8.83886940471
+41045,"Malheur County",Oregon,OR,8.83818337412
+13117,"Forsyth County",Georgia,GA,8.83292620523
+42041,"Cumberland County",Pennsylvania,PA,8.83257753709
+16069,"Nez Perce County",Idaho,ID,8.83254441907
+47061,"Grundy County",Tennessee,TN,8.83196229935
+48013,"Atascosa County",Texas,TX,8.82680951848
+20185,"Stafford County",Kansas,KS,8.82540063063
+01069,"Houston County",Alabama,AL,8.82249949529
+13223,"Paulding County",Georgia,GA,8.8195640564
+29189,"St. Louis County",Missouri,MO,8.81956189871
+55065,"Lafayette County",Wisconsin,WI,8.81953439258
+22085,"Sabine Parish",Louisiana,LA,8.81627810796
+12059,"Holmes County",Florida,FL,8.81618895897
+48405,"San Augustine County",Texas,TX,8.81549326579
+17131,"Mercer County",Illinois,IL,8.81349198023
+47057,"Grainger County",Tennessee,TN,8.81248802609
+26065,"Ingham County",Michigan,MI,8.81137173516
+01097,"Mobile County",Alabama,AL,8.81132134524
+01011,"Bullock County",Alabama,AL,8.80977609422
+47031,"Coffee County",Tennessee,TN,8.80951668666
+29093,"Iron County",Missouri,MO,8.80878459083
+20053,"Ellsworth County",Kansas,KS,8.80874093374
+48469,"Victoria County",Texas,TX,8.80872554779
+17153,"Pulaski County",Illinois,IL,8.80632514954
+48453,"Travis County",Texas,TX,8.80573358536
+48297,"Live Oak County",Texas,TX,8.80363447326
+12133,"Washington County",Florida,FL,8.80321496725
+48439,"Tarrant County",Texas,TX,8.80246426264
+48209,"Hays County",Texas,TX,8.80063591003
+13217,"Newton County",Georgia,GA,8.80002343655
+42121,"Venango County",Pennsylvania,PA,8.79611324129
+26091,"Lenawee County",Michigan,MI,8.79414098603
+28035,"Forrest County",Mississippi,MS,8.79302779111
+26059,"Hillsdale County",Michigan,MI,8.79287709688
+01061,"Geneva County",Alabama,AL,8.79246611595
+21137,"Lincoln County",Kentucky,KY,8.79138105566
+48073,"Cherokee County",Texas,TX,8.78948549791
+47149,"Rutherford County",Tennessee,TN,8.78484025002
+48267,"Kimble County",Texas,TX,8.78354872976
+17109,"McDonough County",Illinois,IL,8.77983512878
+40103,"Noble County",Oklahoma,OK,8.7784690104
+05019,"Clark County",Arkansas,AR,8.77685256626
+55055,"Jefferson County",Wisconsin,WI,8.77643003464
+48507,"Zavala County",Texas,TX,8.77547255925
+48031,"Blanco County",Texas,TX,8.77454406337
+21051,"Clay County",Kentucky,KY,8.77364768982
+18103,"Miami County",Indiana,IN,8.77281067588
+18105,"Monroe County",Indiana,IN,8.77187526226
+48055,"Caldwell County",Texas,TX,8.7712520957
+13071,"Colquitt County",Georgia,GA,8.77098967234
+20131,"Nemaha County",Kansas,KS,8.76904727936
+01045,"Dale County",Alabama,AL,8.76465530396
+20107,"Linn County",Kansas,KS,8.76443595886
+21125,"Laurel County",Kentucky,KY,8.76197338104
+21161,"Mason County",Kentucky,KY,8.76156727473
+39049,"Franklin County",Ohio,OH,8.759497915
+20149,"Pottawatomie County",Kansas,KS,8.75895257791
+18179,"Wells County",Indiana,IN,8.75841632256
+26037,"Clinton County",Michigan,MI,8.75826649666
+48007,"Aransas County",Texas,TX,8.75672075484
+01089,"Madison County",Alabama,AL,8.75644852898
+20007,"Barber County",Kansas,KS,8.75451839331
+19171,"Tama County",Iowa,IA,8.7531917572
+20103,"Leavenworth County",Kansas,KS,8.75021076202
+40091,"McIntosh County",Oklahoma,OK,8.74949982292
+55045,"Green County",Wisconsin,WI,8.74725691477
+20091,"Johnson County",Kansas,KS,8.74717296494
+26113,"Missaukee County",Michigan,MI,8.74561314583
+29173,"Ralls County",Missouri,MO,8.74555234909
+21203,"Rockcastle County",Kentucky,KY,8.74521361457
+12063,"Jackson County",Florida,FL,8.74514737622
+39157,"Tuscarawas County",Ohio,OH,8.74436500337
+45037,"Edgefield County","South Carolina",SC,8.74199240548
+01087,"Macon County",Alabama,AL,8.74131833182
+42073,"Lawrence County",Pennsylvania,PA,8.74022658666
+31133,"Pawnee County",Nebraska,NE,8.73942820231
+05051,"Garland County",Arkansas,AR,8.73746339898
+21217,"Taylor County",Kentucky,KY,8.73689422607
+28123,"Scott County",Mississippi,MS,8.73450333732
+48071,"Chambers County",Texas,TX,8.73400702477
+39041,"Delaware County",Ohio,OH,8.73351600435
+26117,"Montcalm County",Michigan,MI,8.73324761024
+39051,"Fulton County",Ohio,OH,8.73259032856
+20143,"Ottawa County",Kansas,KS,8.7320227623
+13171,"Lamar County",Georgia,GA,8.73135961805
+13109,"Evans County",Georgia,GA,8.73131923676
+18033,"DeKalb County",Indiana,IN,8.72918393062
+42063,"Indiana County",Pennsylvania,PA,8.727582407
+05085,"Lonoke County",Arkansas,AR,8.72673584067
+22053,"Jefferson Davis Parish",Louisiana,LA,8.72529421355
+49051,"Wasatch County",Utah,UT,8.72446472505
+13149,"Heard County",Georgia,GA,8.72197234631
+55043,"Grant County",Wisconsin,WI,8.72044197718
+20157,"Republic County",Kansas,KS,8.72029928366
+48021,"Bastrop County",Texas,TX,8.71853817426
+47021,"Cheatham County",Tennessee,TN,8.71751393212
+29125,"Maries County",Missouri,MO,8.71714895422
+47001,"Anderson County",Tennessee,TN,8.71644544601
+18055,"Greene County",Indiana,IN,8.71585639318
+40095,"Marshall County",Oklahoma,OK,8.71357413701
+48457,"Tyler County",Texas,TX,8.71347417831
+28149,"Warren County",Mississippi,MS,8.70935855192
+54103,"Wetzel County","West Virginia",WV,8.70882819249
+47127,"Moore County",Tennessee,TN,8.7086224556
+48319,"Mason County",Texas,TX,8.70844794964
+20029,"Cloud County",Kansas,KS,8.70687707265
+47147,"Robertson County",Tennessee,TN,8.70650456746
+47189,"Wilson County",Tennessee,TN,8.70603504181
+39055,"Geauga County",Ohio,OH,8.70316688831
+20027,"Clay County",Kansas,KS,8.7026844422
+01103,"Morgan County",Alabama,AL,8.70115034204
+21045,"Casey County",Kentucky,KY,8.69376676733
+38071,"Ramsey County","North Dakota",ND,8.69328109078
+55131,"Washington County",Wisconsin,WI,8.69232624769
+17071,"Henderson County",Illinois,IL,8.69106769562
+48403,"Sabine County",Texas,TX,8.69011469448
+31043,"Dakota County",Nebraska,NE,8.68826760186
+41017,"Deschutes County",Oregon,OR,8.6880042683
+19157,"Poweshiek County",Iowa,IA,8.68605742455
+13253,"Seminole County",Georgia,GA,8.68566526685
+27077,"Lake of the Woods County",Minnesota,MN,8.68484914026
+48123,"DeWitt County",Texas,TX,8.68422965209
+05025,"Cleveland County",Arkansas,AR,8.68416649955
+17001,"Adams County",Illinois,IL,8.68285945366
+26143,"Roscommon County",Michigan,MI,8.68231983185
+31169,"Thayer County",Nebraska,NE,8.68198471069
+48137,"Edwards County",Texas,TX,8.68084496039
+21141,"Logan County",Kentucky,KY,8.68002838559
+30023,"Deer Lodge County",Montana,MT,8.67990553379
+48367,"Parker County",Texas,TX,8.67941871643
+01031,"Coffee County",Alabama,AL,8.67887365818
+29007,"Audrain County",Missouri,MO,8.67668385939
+18001,"Adams County",Indiana,IN,8.675684611
+19017,"Bremer County",Iowa,IA,8.67508487701
+39099,"Mahoning County",Ohio,OH,8.67428315481
+18065,"Henry County",Indiana,IN,8.67307480176
+48175,"Goliad County",Texas,TX,8.67212748528
+12005,"Bay County",Florida,FL,8.67202892303
+42109,"Snyder County",Pennsylvania,PA,8.66964777311
+45049,"Hampton County","South Carolina",SC,8.6694057689
+42067,"Juniata County",Pennsylvania,PA,8.66929955916
+26005,"Allegan County",Michigan,MI,8.66827652852
+48177,"Gonzales County",Texas,TX,8.66643123627
+39101,"Marion County",Ohio,OH,8.66569805145
+49033,"Rich County",Utah,UT,8.66536976951
+13045,"Carroll County",Georgia,GA,8.66510391235
+13209,"Montgomery County",Georgia,GA,8.66272844587
+40019,"Carter County",Oklahoma,OK,8.66143378505
+39095,"Lucas County",Ohio,OH,8.66125046123
+21109,"Jackson County",Kentucky,KY,8.66002585671
+13105,"Elbert County",Georgia,GA,8.65967281659
+48025,"Bee County",Texas,TX,8.65735176086
+47187,"Williamson County",Tennessee,TN,8.65689384937
+22005,"Ascension Parish",Louisiana,LA,8.65640094545
+39173,"Wood County",Ohio,OH,8.65540280342
+48299,"Llano County",Texas,TX,8.65537797251
+18003,"Allen County",Indiana,IN,8.65406007767
+08087,"Morgan County",Colorado,CO,8.65299565451
+34021,"Mercer County","New Jersey",NJ,8.65104579926
+20105,"Lincoln County",Kansas,KS,8.6502934032
+17067,"Hancock County",Illinois,IL,8.649934732
+29179,"Reynolds County",Missouri,MO,8.64837734516
+28067,"Jones County",Mississippi,MS,8.64784784317
+12131,"Walton County",Florida,FL,8.64598671595
+42097,"Northumberland County",Pennsylvania,PA,8.6457554377
+49057,"Weber County",Utah,UT,8.6456200963
+27011,"Big Stone County",Minnesota,MN,8.64540462494
+22061,"Lincoln Parish",Louisiana,LA,8.64487465223
+01109,"Pike County",Alabama,AL,8.64419488907
+48391,"Refugio County",Texas,TX,8.64248128371
+48159,"Franklin County",Texas,TX,8.64181435108
+19107,"Keokuk County",Iowa,IA,8.64092063904
+48187,"Guadalupe County",Texas,TX,8.6395544529
+37057,"Davidson County","North Carolina",NC,8.63942615802
+01037,"Coosa County",Alabama,AL,8.63894870064
+01071,"Jackson County",Alabama,AL,8.63611838222
+39025,"Clermont County",Ohio,OH,8.63462495804
+01043,"Cullman County",Alabama,AL,8.63446998596
+48307,"McCulloch County",Texas,TX,8.63415661454
+39043,"Erie County",Ohio,OH,8.63405151367
+28079,"Leake County",Mississippi,MS,8.63383507729
+39171,"Williams County",Ohio,OH,8.63326600882
+08005,"Arapahoe County",Colorado,CO,8.63221016637
+13057,"Cherokee County",Georgia,GA,8.63176441193
+48255,"Karnes County",Texas,TX,8.62972855568
+19057,"Des Moines County",Iowa,IA,8.62934626066
+29161,"Phelps County",Missouri,MO,8.62718160947
+49045,"Tooele County",Utah,UT,8.62687564665
+42045,"Delaware County",Pennsylvania,PA,8.62594334284
+29165,"Platte County",Missouri,MO,8.62540245056
+30111,"Yellowstone County",Montana,MT,8.61682946267
+13179,"Liberty County",Georgia,GA,8.61474074258
+34005,"Burlington County","New Jersey",NJ,8.61381009773
+26035,"Clare County",Michigan,MI,8.61362012227
+17041,"Douglas County",Illinois,IL,8.61281622781
+01047,"Dallas County",Alabama,AL,8.61279567719
+17003,"Alexander County",Illinois,IL,8.61164506276
+47015,"Cannon County",Tennessee,TN,8.60974438985
+39075,"Holmes County",Ohio,OH,8.60768318176
+01121,"Talladega County",Alabama,AL,8.60705208778
+20161,"Riley County",Kansas,KS,8.60681804021
+47003,"Bedford County",Tennessee,TN,8.60581596692
+48387,"Red River County",Texas,TX,8.60460783641
+40003,"Alfalfa County",Oklahoma,OK,8.60335191091
+13139,"Hall County",Georgia,GA,8.60277591433
+49005,"Cache County",Utah,UT,8.59782291103
+13277,"Tift County",Georgia,GA,8.5977091108
+48327,"Menard County",Texas,TX,8.59750350316
+42051,"Fayette County",Pennsylvania,PA,8.59522574881
+26121,"Muskegon County",Michigan,MI,8.59516974056
+22069,"Natchitoches Parish",Louisiana,LA,8.59388988018
+47177,"Warren County",Tennessee,TN,8.59357627233
+12013,"Calhoun County",Florida,FL,8.59202659831
+40013,"Bryan County",Oklahoma,OK,8.59173419952
+22011,"Beauregard Parish",Louisiana,LA,8.59096552432
+42021,"Cambria County",Pennsylvania,PA,8.58961623648
+28073,"Lamar County",Mississippi,MS,8.58958200975
+45013,"Beaufort County","South Carolina",SC,8.58835917711
+18067,"Howard County",Indiana,IN,8.58666915894
+01127,"Walker County",Alabama,AL,8.5843941982
+29065,"Dent County",Missouri,MO,8.58275471563
+48355,"Nueces County",Texas,TX,8.58222297827
+19139,"Muscatine County",Iowa,IA,8.58173116048
+05069,"Jefferson County",Arkansas,AR,8.57959426683
+19075,"Grundy County",Iowa,IA,8.5778315862
+27009,"Benton County",Minnesota,MN,8.57770955563
+49003,"Box Elder County",Utah,UT,8.57747333359
+19115,"Louisa County",Iowa,IA,8.57652549744
+06013,"Contra Costa County",California,CA,8.57613013188
+49043,"Summit County",Utah,UT,8.57475323947
+40111,"Okmulgee County",Oklahoma,OK,8.57467092787
+20013,"Brown County",Kansas,KS,8.57275495529
+39147,"Seneca County",Ohio,OH,8.57246112823
+27141,"Sherburne County",Minnesota,MN,8.57126108805
+42029,"Chester County",Pennsylvania,PA,8.57025046971
+19087,"Henry County",Iowa,IA,8.56986991564
+21105,"Hickman County",Kentucky,KY,8.56775697072
+48411,"San Saba County",Texas,TX,8.5669708252
+31097,"Johnson County",Nebraska,NE,8.56638288498
+27145,"Stearns County",Minnesota,MN,8.5652140379
+19111,"Lee County",Iowa,IA,8.56515224163
+01017,"Chambers County",Alabama,AL,8.56435161478
+39129,"Pickaway County",Ohio,OH,8.56432191949
+21147,"McCreary County",Kentucky,KY,8.56016027927
+48113,"Dallas County",Texas,TX,8.56009838104
+28129,"Smith County",Mississippi,MS,8.55793380737
+28051,"Holmes County",Mississippi,MS,8.55786887082
+39169,"Wayne County",Ohio,OH,8.55726146698
+13015,"Bartow County",Georgia,GA,8.55632479986
+28021,"Claiborne County",Mississippi,MS,8.55479233082
+19193,"Woodbury County",Iowa,IA,8.55412032686
+42053,"Forest County",Pennsylvania,PA,8.55349915368
+01039,"Covington County",Alabama,AL,8.55346615174
+13143,"Haralson County",Georgia,GA,8.55346536636
+01105,"Perry County",Alabama,AL,8.55338424185
+48199,"Hardin County",Texas,TX,8.55334072528
+39077,"Huron County",Ohio,OH,8.55313818078
+19149,"Plymouth County",Iowa,IA,8.55054248174
+05105,"Perry County",Arkansas,AR,8.54696655273
+13035,"Butts County",Georgia,GA,8.54516372681
+13011,"Banks County",Georgia,GA,8.54421315874
+39069,"Henry County",Ohio,OH,8.54352628268
+47165,"Sumner County",Tennessee,TN,8.54271989399
+20115,"Marion County",Kansas,KS,8.54259486632
+55025,"Dane County",Wisconsin,WI,8.54220350054
+29127,"Marion County",Missouri,MO,8.54144465129
+13087,"Decatur County",Georgia,GA,8.54132854237
+12033,"Escambia County",Florida,FL,8.53807254065
+20123,"Mitchell County",Kansas,KS,8.53632207712
+40085,"Love County",Oklahoma,OK,8.53584504128
+01001,"Autauga County",Alabama,AL,8.53534833123
+46051,"Grant County","South Dakota",SD,8.5337838393
+13279,"Toombs County",Georgia,GA,8.53265571594
+48435,"Sutton County",Texas,TX,8.53158926964
+39013,"Belmont County",Ohio,OH,8.53074941039
+38081,"Sargent County","North Dakota",ND,8.53069332874
+26139,"Ottawa County",Michigan,MI,8.52928606669
+28031,"Covington County",Mississippi,MS,8.52918834686
+40137,"Stephens County",Oklahoma,OK,8.52680909634
+28125,"Sharkey County",Mississippi,MS,8.52576788266
+48287,"Lee County",Texas,TX,8.52468698165
+08121,"Washington County",Colorado,CO,8.52271045783
+39175,"Wyandot County",Ohio,OH,8.51991279309
+48083,"Coleman County",Texas,TX,8.51946502262
+01095,"Marshall County",Alabama,AL,8.51710595025
+48095,"Concho County",Texas,TX,8.51247895997
+40011,"Blaine County",Oklahoma,OK,8.5108354275
+26063,"Huron County",Michigan,MI,8.50944865983
+47079,"Henry County",Tennessee,TN,8.50788424565
+31147,"Richardson County",Nebraska,NE,8.50715558669
+12113,"Santa Rosa County",Florida,FL,8.50709370204
+48423,"Smith County",Texas,TX,8.50680566717
+13131,"Grady County",Georgia,GA,8.50589553515
+20009,"Barton County",Kansas,KS,8.50224994024
+29137,"Monroe County",Missouri,MO,8.50180280776
+34015,"Gloucester County","New Jersey",NJ,8.49789021232
+45081,"Saluda County","South Carolina",SC,8.4976606369
+20033,"Comanche County",Kansas,KS,8.49705557028
+17019,"Champaign County",Illinois,IL,8.49643519719
+48221,"Hood County",Texas,TX,8.49536122216
+12091,"Okaloosa County",Florida,FL,8.49523319517
+12045,"Gulf County",Florida,FL,8.49498765609
+27171,"Wright County",Minnesota,MN,8.49443011814
+39067,"Harrison County",Ohio,OH,8.49430616697
+31173,"Thurston County",Nebraska,NE,8.49419960609
+48499,"Wood County",Texas,TX,8.49090735118
+40101,"Muskogee County",Oklahoma,OK,8.48733375549
+26107,"Mecosta County",Michigan,MI,8.4866830349
+21199,"Pulaski County",Kentucky,KY,8.48591173263
+21001,"Adair County",Kentucky,KY,8.4851474762
+28007,"Attala County",Mississippi,MS,8.48482871056
+54003,"Berkeley County","West Virginia",WV,8.48311462402
+13309,"Wheeler County",Georgia,GA,8.48025524616
+40067,"Jefferson County",Oklahoma,OK,8.47921065489
+21123,"Larue County",Kentucky,KY,8.47845172882
+42055,"Franklin County",Pennsylvania,PA,8.47804346952
+26155,"Shiawassee County",Michigan,MI,8.47774284026
+20197,"Wabaunsee County",Kansas,KS,8.47648841143
+42095,"Northampton County",Pennsylvania,PA,8.47574367523
+20097,"Kiowa County",Kansas,KS,8.47572449843
+21093,"Hardin County",Kentucky,KY,8.47274955114
+45047,"Greenwood County","South Carolina",SC,8.47245464325
+48053,"Burnet County",Texas,TX,8.47127176214
+01041,"Crenshaw County",Alabama,AL,8.47023029327
+13055,"Chattooga County",Georgia,GA,8.46967334747
+48271,"Kinney County",Texas,TX,8.46956560088
+29123,"Madison County",Missouri,MO,8.46769869328
+28055,"Issaquena County",Mississippi,MS,8.46760515066
+30039,"Granite County",Montana,MT,8.46669910871
+21173,"Montgomery County",Kentucky,KY,8.46656649453
+29217,"Vernon County",Missouri,MO,8.4663888216
+47103,"Lincoln County",Tennessee,TN,8.46624909507
+20005,"Atchison County",Kansas,KS,8.46576793377
+13233,"Polk County",Georgia,GA,8.46325912476
+48491,"Williamson County",Texas,TX,8.46242165565
+31059,"Fillmore County",Nebraska,NE,8.46226434708
+19123,"Mahaska County",Iowa,IA,8.46173758507
+22063,"Livingston Parish",Louisiana,LA,8.46158186595
+39039,"Defiance County",Ohio,OH,8.46131383456
+47161,"Stewart County",Tennessee,TN,8.46058111924
+48409,"San Patricio County",Texas,TX,8.46044697762
+13267,"Tattnall County",Georgia,GA,8.45883369446
+01057,"Fayette County",Alabama,AL,8.45807832479
+37119,"Mecklenburg County","North Carolina",NC,8.45708050447
+01085,"Lowndes County",Alabama,AL,8.45611011281
+19043,"Clayton County",Iowa,IA,8.45539820636
+05035,"Crittenden County",Arkansas,AR,8.45530649821
+40077,"Latimer County",Oklahoma,OK,8.45522106261
+22003,"Allen Parish",Louisiana,LA,8.45338362142
+31127,"Nemaha County",Nebraska,NE,8.45189030965
+48167,"Galveston County",Texas,TX,8.45088723728
+39005,"Ashland County",Ohio,OH,8.44847480456
+05145,"White County",Arkansas,AR,8.44664974213
+05011,"Bradley County",Arkansas,AR,8.44637745077
+48399,"Runnels County",Texas,TX,8.44285682042
+39139,"Richland County",Ohio,OH,8.44169315925
+39117,"Morrow County",Ohio,OH,8.43616397564
+28111,"Perry County",Mississippi,MS,8.43494766951
+26039,"Crawford County",Michigan,MI,8.43419961929
+29111,"Lewis County",Missouri,MO,8.43329456117
+27151,"Swift County",Minnesota,MN,8.43300122228
+48147,"Fannin County",Texas,TX,8.43255718895
+28053,"Humphreys County",Mississippi,MS,8.43246531487
+29013,"Bates County",Missouri,MO,8.43163276854
+48049,"Brown County",Texas,TX,8.43156150535
+48497,"Wise County",Texas,TX,8.42987184525
+06095,"Solano County",California,CA,8.42826105998
+26057,"Gratiot County",Michigan,MI,8.42548985481
+21031,"Butler County",Kentucky,KY,8.42269643148
+01131,"Wilcox County",Alabama,AL,8.42249798775
+18005,"Bartholomew County",Indiana,IN,8.42076840767
+13255,"Spalding County",Georgia,GA,8.42044226329
+01013,"Butler County",Alabama,AL,8.41986921559
+21065,"Estill County",Kentucky,KY,8.41985917091
+39155,"Trumbull County",Ohio,OH,8.41604952812
+45063,"Lexington County","South Carolina",SC,8.41536981409
+55049,"Iowa County",Wisconsin,WI,8.41326202665
+48223,"Hopkins County",Texas,TX,8.41065692902
+39133,"Portage County",Ohio,OH,8.40998509526
+29031,"Cape Girardeau County",Missouri,MO,8.40838947296
+48119,"Delta County",Texas,TX,8.40813265906
+26073,"Isabella County",Michigan,MI,8.40527335803
+01053,"Escambia County",Alabama,AL,8.40497120944
+26123,"Newaygo County",Michigan,MI,8.40407161713
+40127,"Pushmataha County",Oklahoma,OK,8.40297408634
+48333,"Mills County",Texas,TX,8.40296259381
+19023,"Butler County",Iowa,IA,8.40010967255
+21213,"Simpson County",Kentucky,KY,8.39880673091
+48337,"Montague County",Texas,TX,8.39843119746
+28065,"Jefferson Davis County",Mississippi,MS,8.39639105116
+45001,"Abbeville County","South Carolina",SC,8.3953608733
+48363,"Palo Pinto County",Texas,TX,8.39304539136
+29095,"Jackson County",Missouri,MO,8.39267049517
+48181,"Grayson County",Texas,TX,8.39200697274
+22033,"East Baton Rouge Parish",Louisiana,LA,8.39157485962
+21189,"Owsley County",Kentucky,KY,8.39063898722
+31051,"Dixon County",Nebraska,NE,8.39043596813
+01055,"Etowah County",Alabama,AL,8.39035819559
+37059,"Davie County","North Carolina",NC,8.38829982281
+38027,"Eddy County","North Dakota",ND,8.38824055745
+47151,"Scott County",Tennessee,TN,8.38700655528
+26079,"Kalkaska County",Michigan,MI,8.38610312939
+21087,"Green County",Kentucky,KY,8.38525411818
+20121,"Miami County",Kansas,KS,8.3850631396
+28077,"Lawrence County",Mississippi,MS,8.38409519196
+46057,"Hamlin County","South Dakota",SD,8.3837123447
+54095,"Tyler County","West Virginia",WV,8.38139545918
+47043,"Dickson County",Tennessee,TN,8.38103191669
+48277,"Lamar County",Texas,TX,8.3810272898
+48251,"Johnson County",Texas,TX,8.3782995769
+39033,"Crawford County",Ohio,OH,8.37667576472
+21095,"Harlan County",Kentucky,KY,8.37649038434
+22121,"West Baton Rouge Parish",Louisiana,LA,8.3756149292
+01125,"Tuscaloosa County",Alabama,AL,8.37419429639
+01015,"Calhoun County",Alabama,AL,8.37267689956
+54037,"Jefferson County","West Virginia",WV,8.37241595132
+12039,"Gadsden County",Florida,FL,8.37094064859
+38065,"Oliver County","North Dakota",ND,8.37031548956
+20041,"Dickinson County",Kansas,KS,8.36927733819
+37035,"Catawba County","North Carolina",NC,8.36863598457
+16057,"Latah County",Idaho,ID,8.36856049299
+46127,"Union County","South Dakota",SD,8.36835300922
+12047,"Hamilton County",Florida,FL,8.36729982921
+48051,"Burleson County",Texas,TX,8.36673572328
+45009,"Bamberg County","South Carolina",SC,8.36472077803
+45071,"Newberry County","South Carolina",SC,8.3635825634
+21207,"Russell County",Kentucky,KY,8.36238360405
+22093,"St. James Parish",Louisiana,LA,8.36235972813
+47067,"Hancock County",Tennessee,TN,8.35951976776
+22023,"Cameron Parish",Louisiana,LA,8.35830129065
+19065,"Fayette County",Iowa,IA,8.3578269577
+21231,"Wayne County",Kentucky,KY,8.35764562167
+48237,"Jack County",Texas,TX,8.35737190247
+29101,"Johnson County",Missouri,MO,8.35351769129
+01035,"Conecuh County",Alabama,AL,8.35321098825
+31179,"Wayne County",Nebraska,NE,8.35267883539
+13085,"Dawson County",Georgia,GA,8.35189621789
+31153,"Sarpy County",Nebraska,NE,8.3515869379
+16039,"Elmore County",Idaho,ID,8.35133081216
+51105,"Lee County",Virginia,VA,8.35126934052
+39125,"Paulding County",Ohio,OH,8.34835783641
+13275,"Thomas County",Georgia,GA,8.34667265415
+48425,"Somervell County",Texas,TX,8.34525127411
+48085,"Collin County",Texas,TX,8.34411482016
+28063,"Jefferson County",Mississippi,MS,8.3436431249
+05079,"Lincoln County",Arkansas,AR,8.34243382348
+20047,"Edwards County",Kansas,KS,8.34128626188
+20089,"Jewell County",Kansas,KS,8.33608334859
+28085,"Lincoln County",Mississippi,MS,8.33491241231
+42025,"Carbon County",Pennsylvania,PA,8.33433416912
+13017,"Ben Hill County",Georgia,GA,8.3332289287
+49049,"Utah County",Utah,UT,8.33217990037
+38031,"Foster County","North Dakota",ND,8.33030720552
+55027,"Dodge County",Wisconsin,WI,8.32857109706
+55039,"Fond du Lac County",Wisconsin,WI,8.32825760408
+13187,"Lumpkin County",Georgia,GA,8.32775503397
+04013,"Maricopa County",Arizona,AZ,8.32551197137
+47157,"Shelby County",Tennessee,TN,8.32550862857
+38015,"Burleigh County","North Dakota",ND,8.32439288758
+22049,"Jackson Parish",Louisiana,LA,8.32432228327
+47169,"Trousdale County",Tennessee,TN,8.32304739952
+27123,"Ramsey County",Minnesota,MN,8.32240097863
+31131,"Otoe County",Nebraska,NE,8.32238497053
+05143,"Washington County",Arkansas,AR,8.32094593971
+40023,"Choctaw County",Oklahoma,OK,8.32089215233
+19129,"Mills County",Iowa,IA,8.31921075185
+13115,"Floyd County",Georgia,GA,8.3188419342
+46091,"Marshall County","South Dakota",SD,8.31562216465
+01083,"Limestone County",Alabama,AL,8.31431869098
+28015,"Carroll County",Mississippi,MS,8.31374953775
+39161,"Van Wert County",Ohio,OH,8.31354966164
+48281,"Lampasas County",Texas,TX,8.3124833107
+29205,"Shelby County",Missouri,MO,8.311815389
+19127,"Marshall County",Iowa,IA,8.31175969442
+49007,"Carbon County",Utah,UT,8.31155689863
+39007,"Ashtabula County",Ohio,OH,8.31114097075
+48413,"Schleicher County",Texas,TX,8.3107054366
+21131,"Leslie County",Kentucky,KY,8.31017329476
+27093,"Meeker County",Minnesota,MN,8.31000037627
+13075,"Cook County",Georgia,GA,8.30884876251
+22111,"Union Parish",Louisiana,LA,8.3083092983
+47083,"Houston County",Tennessee,TN,8.30814225333
+38095,"Towner County","North Dakota",ND,8.30630947749
+05123,"St. Francis County",Arkansas,AR,8.30624211918
+13185,"Lowndes County",Georgia,GA,8.30605282102
+22127,"Winn Parish",Louisiana,LA,8.30484975618
+30043,"Jefferson County",Montana,MT,8.30381704228
+48097,"Cooke County",Texas,TX,8.30380943843
+48077,"Clay County",Texas,TX,8.30334068067
+31039,"Cuming County",Nebraska,NE,8.30299797058
+47007,"Bledsoe County",Tennessee,TN,8.30254754153
+27053,"Hennepin County",Minnesota,MN,8.30225413496
+47005,"Benton County",Tennessee,TN,8.30152879442
+37071,"Gaston County","North Carolina",NC,8.30117257436
+48241,"Jasper County",Texas,TX,8.30079381943
+48093,"Comanche County",Texas,TX,8.29977648599
+29045,"Clark County",Missouri,MO,8.29918982188
+42085,"Mercer County",Pennsylvania,PA,8.29704496384
+48143,"Erath County",Texas,TX,8.295853846
+40151,"Woods County",Oklahoma,OK,8.29299278259
+55047,"Green Lake County",Wisconsin,WI,8.29028272629
+01099,"Monroe County",Alabama,AL,8.29025307408
+29083,"Henry County",Missouri,MO,8.288798968
+32023,"Nye County",Nevada,NV,8.28827026333
+22115,"Vernon Parish",Louisiana,LA,8.28812019642
+42087,"Mifflin County",Pennsylvania,PA,8.28809063251
+16087,"Washington County",Idaho,ID,8.28771890478
+28097,"Montgomery County",Mississippi,MS,8.28768332799
+48323,"Maverick County",Texas,TX,8.28733049857
+37197,"Yadkin County","North Carolina",NC,8.28676501187
+08063,"Kit Carson County",Colorado,CO,8.28575750854
+24025,"Harford County",Maryland,MD,8.28456724607
+48133,"Eastland County",Texas,TX,8.2836702281
+24005,"Baltimore County",Maryland,MD,8.28357296898
+19135,"Monroe County",Iowa,IA,8.28032677968
+31167,"Stanton County",Nebraska,NE,8.28005129099
+47175,"Van Buren County",Tennessee,TN,8.2791917589
+42033,"Clearfield County",Pennsylvania,PA,8.27823547756
+08123,"Weld County",Colorado,CO,8.27822479488
+28041,"Greene County",Mississippi,MS,8.27685728073
+01019,"Cherokee County",Alabama,AL,8.27525364725
+01075,"Lamar County",Alabama,AL,8.27428781986
+22065,"Madison Parish",Louisiana,LA,8.27407477884
+22035,"East Carroll Parish",Louisiana,LA,8.27391560872
+45087,"Union County","South Carolina",SC,8.27342230082
+16003,"Adams County",Idaho,ID,8.27279364333
+05043,"Drew County",Arkansas,AR,8.27155549186
+37067,"Forsyth County","North Carolina",NC,8.2679986318
+28143,"Tunica County",Mississippi,MS,8.26754995982
+31025,"Cass County",Nebraska,NE,8.26682546404
+01049,"DeKalb County",Alabama,AL,8.26560535431
+47085,"Humphreys County",Tennessee,TN,8.26555018955
+01107,"Pickens County",Alabama,AL,8.26511199386
+12077,"Liberty County",Florida,FL,8.2646835049
+37109,"Lincoln County","North Carolina",NC,8.26362895966
+01003,"Baldwin County",Alabama,AL,8.26353325163
+39065,"Hardin County",Ohio,OH,8.26226733526
+16071,"Oneida County",Idaho,ID,8.2613227708
+05037,"Cross County",Arkansas,AR,8.25801971224
+42093,"Montour County",Pennsylvania,PA,8.25800538063
+29133,"Mississippi County",Missouri,MO,8.25788664818
+01129,"Washington County",Alabama,AL,8.257520891
+19035,"Cherokee County",Iowa,IA,8.25502557755
+13027,"Brooks County",Georgia,GA,8.25450523694
+48289,"Leon County",Texas,TX,8.2542309761
+05077,"Lee County",Arkansas,AR,8.25368843079
+27059,"Isanti County",Minnesota,MN,8.25186824799
+08039,"Elbert County",Colorado,CO,8.25165828637
+04027,"Yuma County",Arizona,AZ,8.25059178207
+19133,"Monona County",Iowa,IA,8.25034853991
+55139,"Winnebago County",Wisconsin,WI,8.2497941494
+20025,"Clark County",Kansas,KS,8.24921973546
+22107,"Tensas Parish",Louisiana,LA,8.24911604987
+28037,"Franklin County",Mississippi,MS,8.24849236806
+19101,"Jefferson County",Iowa,IA,8.24767983754
+48493,"Wilson County",Texas,TX,8.24654462337
+20145,"Pawnee County",Kansas,KS,8.24628786087
+19071,"Fremont County",Iowa,IA,8.24626929419
+01065,"Hale County",Alabama,AL,8.24614362717
+42057,"Fulton County",Pennsylvania,PA,8.24544313976
+47167,"Tipton County",Tennessee,TN,8.24475643852
+21075,"Fulton County",Kentucky,KY,8.24471431308
+42059,"Greene County",Pennsylvania,PA,8.24363035905
+48041,"Brazos County",Texas,TX,8.24208702761
+29103,"Knox County",Missouri,MO,8.24018591642
+19093,"Ida County",Iowa,IA,8.23927468061
+01051,"Elmore County",Alabama,AL,8.23821616173
+30077,"Powell County",Montana,MT,8.23724212145
+55021,"Columbia County",Wisconsin,WI,8.23668101526
+47183,"Weakley County",Tennessee,TN,8.23635078879
+12031,"Duval County",Florida,FL,8.23632433198
+46027,"Clay County","South Dakota",SD,8.23627211253
+27163,"Washington County",Minnesota,MN,8.23616339944
+06001,"Alameda County",California,CA,8.23541765213
+19099,"Jasper County",Iowa,IA,8.23493540287
+29019,"Boone County",Missouri,MO,8.23427967592
+28087,"Lowndes County",Mississippi,MS,8.23187834876
+01029,"Cleburne County",Alabama,AL,8.23116457462
+49023,"Juab County",Utah,UT,8.22998526313
+42119,"Union County",Pennsylvania,PA,8.2270204756
+37097,"Iredell County","North Carolina",NC,8.22675916884
+22037,"East Feliciana Parish",Louisiana,LA,8.22671413422
+13191,"McIntosh County",Georgia,GA,8.22617331418
+28161,"Yalobusha County",Mississippi,MS,8.22560794013
+55015,"Calumet County",Wisconsin,WI,8.22521268404
+28107,"Panola County",Mississippi,MS,8.22502166748
+26133,"Osceola County",Michigan,MI,8.22475083669
+39093,"Lorain County",Ohio,OH,8.22448694005
+19167,"Sioux County",Iowa,IA,8.22421812128
+31119,"Madison County",Nebraska,NE,8.22253923416
+01123,"Tallapoosa County",Alabama,AL,8.22222792475
+28033,"DeSoto County",Mississippi,MS,8.22196213404
+12073,"Leon County",Florida,FL,8.22004283799
+31139,"Pierce County",Nebraska,NE,8.21990609169
+19179,"Wapello County",Iowa,IA,8.21893749237
+05093,"Mississippi County",Arkansas,AR,8.2188657478
+31027,"Cedar County",Nebraska,NE,8.21639392687
+27085,"McLeod County",Minnesota,MN,8.21638651455
+39111,"Monroe County",Ohio,OH,8.21603247098
+24013,"Carroll County",Maryland,MD,8.2151288305
+19155,"Pottawattamie County",Iowa,IA,8.21434904547
+47041,"DeKalb County",Tennessee,TN,8.21333609687
+22125,"West Feliciana Parish",Louisiana,LA,8.2122895901
+42037,"Columbia County",Pennsylvania,PA,8.2120722362
+05023,"Cleburne County",Arkansas,AR,8.21199304179
+31159,"Seward County",Nebraska,NE,8.2118834734
+39011,"Auglaize County",Ohio,OH,8.21131208965
+31037,"Colfax County",Nebraska,NE,8.21059544881
+28039,"George County",Mississippi,MS,8.20756258283
+34013,"Essex County","New Jersey",NJ,8.20731798808
+05017,"Chicot County",Arkansas,AR,8.20689864781
+31185,"York County",Nebraska,NE,8.20601966381
+20167,"Russell County",Kansas,KS,8.20552096764
+06033,"Lake County",California,CA,8.20535854101
+21197,"Powell County",Kentucky,KY,8.20521918933
+05111,"Poinsett County",Arkansas,AR,8.20485277971
+28137,"Tate County",Mississippi,MS,8.2025841713
+13183,"Long County",Georgia,GA,8.20206598135
+28061,"Jasper County",Mississippi,MS,8.20174869537
+13119,"Franklin County",Georgia,GA,8.20109966066
+13271,"Telfair County",Georgia,GA,8.20090675354
+39083,"Knox County",Ohio,OH,8.19976626502
+42013,"Blair County",Pennsylvania,PA,8.19966581133
+05147,"Woodruff County",Arkansas,AR,8.19850406647
+29009,"Barry County",Missouri,MO,8.19769606767
+21011,"Bath County",Kentucky,KY,8.19662517309
+22077,"Pointe Coupee Parish",Louisiana,LA,8.19556662911
+48503,"Young County",Texas,TX,8.19515895844
+47131,"Obion County",Tennessee,TN,8.19472259283
+13127,"Glynn County",Georgia,GA,8.19463643161
+38005,"Benson County","North Dakota",ND,8.19445313964
+47117,"Marshall County",Tennessee,TN,8.19305315885
+28043,"Grenada County",Mississippi,MS,8.19270478762
+48397,"Rockwall County",Texas,TX,8.19213008881
+06025,"Imperial County",California,CA,8.19187361244
+45083,"Spartanburg County","South Carolina",SC,8.19134996248
+46037,"Day County","South Dakota",SD,8.19097364866
+39141,"Ross County",Ohio,OH,8.19071946825
+48351,"Newton County",Texas,TX,8.18935343071
+24043,"Washington County",Maryland,MD,8.18926817179
+37159,"Rowan County","North Carolina",NC,8.18921317373
+08059,"Jefferson County",Colorado,CO,8.18869475661
+29107,"Lafayette County",Missouri,MO,8.18761964278
+13155,"Irwin County",Georgia,GA,8.18718709946
+31021,"Burt County",Nebraska,NE,8.18672813688
+27067,"Kandiyohi County",Minnesota,MN,8.18642336528
+19085,"Harrison County",Iowa,IA,8.18590194529
+47047,"Fayette County",Tennessee,TN,8.18571292877
+51600,"Fairfax city",Virginia,VA,8.18559837341
+48451,"Tom Green County",Texas,TX,8.18360643971
+31141,"Platte County",Nebraska,NE,8.18335453669
+01101,"Montgomery County",Alabama,AL,8.18334636688
+28099,"Neshoba County",Mississippi,MS,8.18295814991
+39063,"Hancock County",Ohio,OH,8.18286762739
+31055,"Douglas County",Nebraska,NE,8.18276604017
+48429,"Stephens County",Texas,TX,8.18213534355
+38059,"Morton County","North Dakota",ND,8.18000000545
+26001,"Alcona County",Michigan,MI,8.1796810627
+51099,"King George County",Virginia,VA,8.17840369542
+29087,"Holt County",Missouri,MO,8.17818843617
+28093,"Marshall County",Mississippi,MS,8.17809261995
+30001,"Beaverhead County",Montana,MT,8.17770508253
+19083,"Hardin County",Iowa,IA,8.17732810974
+47097,"Lauderdale County",Tennessee,TN,8.17586312975
+48009,"Archer County",Texas,TX,8.1749806722
+42061,"Huntingdon County",Pennsylvania,PA,8.17476042679
+12121,"Suwannee County",Florida,FL,8.1735542197
+05029,"Conway County",Arkansas,AR,8.17285877116
+28071,"Lafayette County",Mississippi,MS,8.17035847618
+21085,"Grayson County",Kentucky,KY,8.16941230437
+47159,"Smith County",Tennessee,TN,8.16874292162
+31129,"Nuckolls County",Nebraska,NE,8.16866814295
+27003,"Anoka County",Minnesota,MN,8.16820326973
+20061,"Geary County",Kansas,KS,8.16785838387
+55087,"Outagamie County",Wisconsin,WI,8.16767665318
+24017,"Charles County",Maryland,MD,8.16759048809
+28119,"Quitman County",Mississippi,MS,8.16464273135
+08017,"Cheyenne County",Colorado,CO,8.16435849667
+40059,"Harper County",Oklahoma,OK,8.1636805921
+48231,"Hunt County",Texas,TX,8.16328118064
+19047,"Crawford County",Iowa,IA,8.16328006321
+28157,"Wilkinson County",Mississippi,MS,8.16269768609
+19125,"Marion County",Iowa,IA,8.16203398705
+31053,"Dodge County",Nebraska,NE,8.16181331873
+37003,"Alexander County","North Carolina",NC,8.16171741486
+29121,"Macon County",Missouri,MO,8.16083049774
+22007,"Assumption Parish",Louisiana,LA,8.16059563377
+47017,"Carroll County",Tennessee,TN,8.16030428145
+20057,"Ford County",Kansas,KS,8.16023382119
+05107,"Phillips County",Arkansas,AR,8.15970955724
+29005,"Atchison County",Missouri,MO,8.15751831872
+34017,"Hudson County","New Jersey",NJ,8.15743350983
+19007,"Appanoose County",Iowa,IA,8.15688826243
+28001,"Adams County",Mississippi,MS,8.15665853941
+34041,"Warren County","New Jersey",NJ,8.15458379473
+28153,"Wayne County",Mississippi,MS,8.15396337076
+21069,"Fleming County",Kentucky,KY,8.15250201225
+28151,"Washington County",Mississippi,MS,8.15200963228
+51043,"Clarke County",Virginia,VA,8.15091363589
+19161,"Sac County",Iowa,IA,8.14669532776
+40015,"Caddo County",Oklahoma,OK,8.14660318436
+45029,"Colleton County","South Carolina",SC,8.14608832995
+47081,"Hickman County",Tennessee,TN,8.14517988477
+26135,"Oscoda County",Michigan,MI,8.14511270523
+28135,"Tallahatchie County",Mississippi,MS,8.14489034017
+37171,"Surry County","North Carolina",NC,8.14446442468
+31143,"Polk County",Nebraska,NE,8.1435214792
+37151,"Randolph County","North Carolina",NC,8.14210132758
+51059,"Fairfax County",Virginia,VA,8.14156106313
+21129,"Lee County",Kentucky,KY,8.1411722047
+13313,"Whitfield County",Georgia,GA,8.1404902339
+37025,"Cabarrus County","North Carolina",NC,8.13846321901
+29051,"Cole County",Missouri,MO,8.13808664909
+34039,"Union County","New Jersey",NJ,8.13692116737
+47045,"Dyer County",Tennessee,TN,8.13623410463
+40061,"Haskell County",Oklahoma,OK,8.13615113497
+31023,"Butler County",Nebraska,NE,8.1361112833
+22123,"West Carroll Parish",Louisiana,LA,8.13213133812
+55009,"Brown County",Wisconsin,WI,8.12994718552
+05031,"Craighead County",Arkansas,AR,8.12978011912
+42047,"Elk County",Pennsylvania,PA,8.12768318035
+22047,"Iberville Parish",Louisiana,LA,8.12737208919
+27025,"Chisago County",Minnesota,MN,8.12714326382
+29037,"Cass County",Missouri,MO,8.12538874149
+19165,"Shelby County",Iowa,IA,8.12472066879
+48193,"Hamilton County",Texas,TX,8.12328126214
+45059,"Laurens County","South Carolina",SC,8.12285800602
+45021,"Cherokee County","South Carolina",SC,8.12189908461
+55035,"Eau Claire County",Wisconsin,WI,8.12166311344
+37169,"Stokes County","North Carolina",NC,8.12158501943
+29001,"Adair County",Missouri,MO,8.12011851205
+29171,"Putnam County",Missouri,MO,8.11979448795
+27097,"Morrison County",Minnesota,MN,8.11809016409
+27143,"Sibley County",Minnesota,MN,8.11674463749
+29159,"Pettis County",Missouri,MO,8.11432843208
+13151,"Henry County",Georgia,GA,8.11377837441
+11001,"District of Columbia","District of Columbia",DC,8.11367988586
+27103,"Nicollet County",Minnesota,MN,8.11294616352
+08073,"Lincoln County",Colorado,CO,8.11206706976
+26137,"Otsego County",Michigan,MI,8.11148281097
+28013,"Calhoun County",Mississippi,MS,8.1101978302
+48465,"Val Verde County",Texas,TX,8.11004282017
+13101,"Echols County",Georgia,GA,8.10977497101
+55109,"St. Croix County",Wisconsin,WI,8.10907257928
+29175,"Randolph County",Missouri,MO,8.10889038444
+55071,"Manitowoc County",Wisconsin,WI,8.10873784517
+19141,"O'Brien County",Iowa,IA,8.10871415138
+47095,"Lake County",Tennessee,TN,8.10654354095
+55089,"Ozaukee County",Wisconsin,WI,8.10637145572
+51179,"Stafford County",Virginia,VA,8.10563187599
+05041,"Desha County",Arkansas,AR,8.10516915498
+51153,"Prince William County",Virginia,VA,8.10404253006
+12023,"Columbia County",Florida,FL,8.10399532318
+38093,"Stutsman County","North Dakota",ND,8.10373852192
+19037,"Chickasaw County",Iowa,IA,8.10303080877
+26119,"Montmorency County",Michigan,MI,8.10286808014
+28019,"Choctaw County",Mississippi,MS,8.10204692987
+48379,"Rains County",Texas,TX,8.10176563263
+28101,"Newton County",Mississippi,MS,8.10009524028
+28009,"Benton County",Mississippi,MS,8.09970731002
+28027,"Coahoma County",Mississippi,MS,8.09905542268
+46025,"Clark County","South Dakota",SD,8.09739650488
+46083,"Lincoln County","South Dakota",SD,8.09736913443
+39045,"Fairfield County",Ohio,OH,8.09731702805
+48001,"Anderson County",Texas,TX,8.09549151697
+05109,"Pike County",Arkansas,AR,8.09510359168
+40047,"Garfield County",Oklahoma,OK,8.09369805881
+47049,"Fentress County",Tennessee,TN,8.09309794108
+29197,"Schuyler County",Missouri,MO,8.0926044782
+47075,"Haywood County",Tennessee,TN,8.09244238536
+39103,"Medina County",Ohio,OH,8.0917360442
+21227,"Warren County",Kentucky,KY,8.09143975377
+13019,"Berrien County",Georgia,GA,8.09118725459
+28083,"Leflore County",Mississippi,MS,8.08936184331
+42089,"Monroe County",Pennsylvania,PA,8.08867188504
+40093,"Major County",Oklahoma,OK,8.08748836517
+28005,"Amite County",Mississippi,MS,8.08708696365
+34019,"Hunterdon County","New Jersey",NJ,8.0841893783
+19185,"Wayne County",Iowa,IA,8.08285077413
+37167,"Stanly County","North Carolina",NC,8.0818400383
+29115,"Linn County",Missouri,MO,8.0812412262
+19119,"Lyon County",Iowa,IA,8.08115437826
+29185,"St. Clair County",Missouri,MO,8.08102504067
+37051,"Cumberland County","North Carolina",NC,8.08076527539
+19021,"Buena Vista County",Iowa,IA,8.08028001785
+29211,"Sullivan County",Missouri,MO,8.07992005348
+34023,"Middlesex County","New Jersey",NJ,8.07875622643
+05117,"Prairie County",Arkansas,AR,8.07781002257
+29041,"Chariton County",Missouri,MO,8.07613435158
+45075,"Orangeburg County","South Carolina",SC,8.07524039668
+20119,"Meade County",Kansas,KS,8.07480599085
+55077,"Marquette County",Wisconsin,WI,8.07412304197
+48059,"Callahan County",Texas,TX,8.07315267563
+39085,"Lake County",Ohio,OH,8.07201242447
+54039,"Kanawha County","West Virginia",WV,8.07198463953
+46135,"Yankton County","South Dakota",SD,8.07192182541
+21053,"Clinton County",Kentucky,KY,8.07049393654
+37093,"Hoke County","North Carolina",NC,8.07045104769
+49039,"Sanpete County",Utah,UT,8.06989019005
+28155,"Webster County",Mississippi,MS,8.06960936955
+05095,"Monroe County",Arkansas,AR,8.06864513291
+20141,"Osborne County",Kansas,KS,8.06804448764
+51760,"Richmond city",Virginia,VA,8.06726694107
+19117,"Lucas County",Iowa,IA,8.06696446737
+24033,"Prince George's County",Maryland,MD,8.06643408537
+20043,"Doniphan County",Kansas,KS,8.06581254439
+39001,"Adams County",Ohio,OH,8.06581250827
+30031,"Gallatin County",Montana,MT,8.0655921936
+47111,"Macon County",Tennessee,TN,8.06526036263
+24021,"Frederick County",Maryland,MD,8.0648876826
+38103,"Wells County","North Dakota",ND,8.06264320016
+29033,"Carroll County",Missouri,MO,8.05920083182
+28103,"Noxubee County",Mississippi,MS,8.05901503563
+48121,"Denton County",Texas,TX,8.05885210404
+54065,"Morgan County","West Virginia",WV,8.05603320258
+54017,"Doddridge County","West Virginia",WV,8.0552983284
+05003,"Ashley County",Arkansas,AR,8.0551921463
+27165,"Watonwan County",Minnesota,MN,8.05443992615
+28159,"Winston County",Mississippi,MS,8.05401159468
+19027,"Carroll County",Iowa,IA,8.05115242004
+38083,"Sheridan County","North Dakota",ND,8.05103235496
+19025,"Calhoun County",Iowa,IA,8.05095746517
+06055,"Napa County",California,CA,8.05075527274
+19069,"Franklin County",Iowa,IA,8.05057026943
+29061,"Daviess County",Missouri,MO,8.05054707527
+47033,"Crockett County",Tennessee,TN,8.05046142851
+22113,"Vermilion Parish",Louisiana,LA,8.05030802677
+51013,"Arlington County",Virginia,VA,8.04931926727
+29117,"Livingston County",Missouri,MO,8.0466103187
+29075,"Gentry County",Missouri,MO,8.04654334573
+06073,"San Diego County",California,CA,8.04455541973
+40089,"McCurtain County",Oklahoma,OK,8.04333198512
+26129,"Ogemaw County",Michigan,MI,8.04268705845
+28095,"Monroe County",Mississippi,MS,8.041160206
+29155,"Pemiscot County",Missouri,MO,8.04010568346
+29079,"Grundy County",Missouri,MO,8.03946560621
+21019,"Boyd County",Kentucky,KY,8.03845767975
+29081,"Harrison County",Missouri,MO,8.03813934326
+28105,"Oktibbeha County",Mississippi,MS,8.03813676039
+27013,"Blue Earth County",Minnesota,MN,8.03483535625
+26051,"Gladwin County",Michigan,MI,8.03475964069
+08125,"Yuma County",Colorado,CO,8.0334420734
+48023,"Baylor County",Texas,TX,8.0327645874
+29195,"Saline County",Missouri,MO,8.03190561295
+40053,"Grant County",Oklahoma,OK,8.03188941138
+22101,"St. Mary Parish",Louisiana,LA,8.0300062404
+31155,"Saunders County",Nebraska,NE,8.02859953175
+27015,"Brown County",Minnesota,MN,8.02812315169
+16005,"Bannock County",Idaho,ID,8.02781506589
+05067,"Jackson County",Arkansas,AR,8.02748200893
+22045,"Iberia Parish",Louisiana,LA,8.02723177274
+51193,"Westmoreland County",Virginia,VA,8.02705510457
+47053,"Gibson County",Tennessee,TN,8.02630497428
+19051,"Davis County",Iowa,IA,8.02577726658
+27023,"Chippewa County",Minnesota,MN,8.02503263383
+29015,"Benton County",Missouri,MO,8.02482341766
+29201,"Scott County",Missouri,MO,8.02316294398
+42009,"Bedford County",Pennsylvania,PA,8.02274809462
+12079,"Madison County",Florida,FL,8.02196811494
+47069,"Hardeman County",Tennessee,TN,8.02143265072
+28091,"Marion County",Mississippi,MS,8.02109788259
+37123,"Montgomery County","North Carolina",NC,8.02097539341
+21193,"Perry County",Kentucky,KY,8.02091758901
+05063,"Independence County",Arkansas,AR,8.02081140605
+19169,"Story County",Iowa,IA,8.02026672363
+27129,"Renville County",Minnesota,MN,8.02006292343
+21003,"Allen County",Kentucky,KY,8.01991724968
+13173,"Lanier County",Georgia,GA,8.01954817772
+29063,"DeKalb County",Missouri,MO,8.01821533839
+19073,"Greene County",Iowa,IA,8.01809625626
+47089,"Jefferson County",Tennessee,TN,8.01753325896
+08035,"Douglas County",Colorado,CO,8.01691572754
+22029,"Concordia Parish",Louisiana,LA,8.01555258578
+26007,"Alpena County",Michigan,MI,8.0149687767
+21169,"Metcalfe County",Kentucky,KY,8.01225719452
+20069,"Gray County",Kansas,KS,8.01221904755
+55061,"Kewaunee County",Wisconsin,WI,8.01122705142
+29109,"Lawrence County",Missouri,MO,8.01107928753
+29147,"Nodaway County",Missouri,MO,8.01098140081
+48447,"Throckmorton County",Texas,TX,8.01083015442
+27073,"Lac qui Parle County",Minnesota,MN,8.01074792658
+19143,"Osceola County",Iowa,IA,8.01043944359
+47137,"Pickett County",Tennessee,TN,8.00813259397
+21057,"Cumberland County",Kentucky,KY,8.00724682808
+05075,"Lawrence County",Arkansas,AR,8.0061467886
+29089,"Howard County",Missouri,MO,8.00544435637
+29227,"Worth County",Missouri,MO,8.0049132771
+01025,"Clarke County",Alabama,AL,8.00377845764
+29035,"Carter County",Missouri,MO,8.00316923005
+12057,"Hillsborough County",Florida,FL,8.00150565001
+42039,"Crawford County",Pennsylvania,PA,8.00128889084
+37125,"Moore County","North Carolina",NC,8.00064937274
+27037,"Dakota County",Minnesota,MN,8.00005256562
+47143,"Rhea County",Tennessee,TN,7.99998048941
+29129,"Mercer County",Missouri,MO,7.99860103314
+38055,"McLean County","North Dakota",ND,7.99775645974
+19039,"Clarke County",Iowa,IA,7.9950064977
+48331,"Milam County",Texas,TX,7.99459652747
+51069,"Frederick County",Virginia,VA,7.99401264924
+22099,"St. Martin Parish",Louisiana,LA,7.99331651415
+26141,"Presque Isle County",Michigan,MI,7.99303867267
+19015,"Boone County",Iowa,IA,7.99290647507
+38043,"Kidder County","North Dakota",ND,7.98916256163
+01093,"Marion County",Alabama,AL,7.98826869329
+39089,"Licking County",Ohio,OH,7.9879269827
+19053,"Decatur County",Iowa,IA,7.98781073888
+19159,"Ringgold County",Iowa,IA,7.98768405914
+19009,"Audubon County",Iowa,IA,7.9876254797
+37105,"Lee County","North Carolina",NC,7.98461859567
+16073,"Owyhee County",Idaho,ID,7.98318381252
+19079,"Hamilton County",Iowa,IA,7.98184273243
+19187,"Webster County",Iowa,IA,7.98171895981
+05055,"Greene County",Arkansas,AR,7.98171544075
+47011,"Bradley County",Tennessee,TN,7.9792096138
+47035,"Cumberland County",Tennessee,TN,7.97916257381
+28145,"Union County",Mississippi,MS,7.97898214514
+12037,"Franklin County",Florida,FL,7.97884890011
+28131,"Stone County",Mississippi,MS,7.97875541051
+31177,"Washington County",Nebraska,NE,7.97811941306
+48417,"Shackelford County",Texas,TX,7.97660561403
+28047,"Harrison County",Mississippi,MS,7.97654765844
+29025,"Caldwell County",Missouri,MO,7.97493386269
+26157,"Tuscola County",Michigan,MI,7.97492830215
+40039,"Custer County",Oklahoma,OK,7.97483178973
+46125,"Turner County","South Dakota",SD,7.97436788347
+37085,"Harnett County","North Carolina",NC,7.97423663735
+27091,"Martin County",Minnesota,MN,7.97228391965
+54005,"Boone County","West Virginia",WV,7.96929472685
+28139,"Tippah County",Mississippi,MS,7.96702612363
+22041,"Franklin Parish",Louisiana,LA,7.96648948193
+20199,"Wallace County",Kansas,KS,7.96601438522
+39031,"Coshocton County",Ohio,OH,7.96311098596
+27095,"Mille Lacs County",Minnesota,MN,7.96278572083
+35001,"Bernalillo County","New Mexico",NM,7.96235803656
+01063,"Greene County",Alabama,AL,7.96207695537
+19041,"Clay County",Iowa,IA,7.96178300381
+19077,"Guthrie County",Iowa,IA,7.96125547509
+31003,"Antelope County",Nebraska,NE,7.96035175323
+12081,"Manatee County",Florida,FL,7.95815436045
+27079,"Le Sueur County",Minnesota,MN,7.95808296937
+22001,"Acadia Parish",Louisiana,LA,7.95575538434
+13129,"Gordon County",Georgia,GA,7.95518726773
+55137,"Waushara County",Wisconsin,WI,7.95452272892
+37183,"Wake County","North Carolina",NC,7.95452150932
+47077,"Henderson County",Tennessee,TN,7.95080236026
+40021,"Cherokee County",Oklahoma,OK,7.94831274174
+45007,"Anderson County","South Carolina",SC,7.94797195088
+54087,"Roane County","West Virginia",WV,7.94724535942
+27131,"Rice County",Minnesota,MN,7.94596891403
+22025,"Catahoula Parish",Louisiana,LA,7.9457338055
+19049,"Dallas County",Iowa,IA,7.9450602293
+27133,"Rock County",Minnesota,MN,7.94502928853
+19181,"Warren County",Iowa,IA,7.94464693069
+28057,"Itawamba County",Mississippi,MS,7.94423328127
+54079,"Putnam County","West Virginia",WV,7.94389681816
+19151,"Pocahontas County",Iowa,IA,7.94351708889
+19175,"Union County",Iowa,IA,7.94265165329
+47039,"Decatur County",Tennessee,TN,7.94236326218
+21171,"Monroe County",Kentucky,KY,7.94224208593
+45039,"Fairfield County","South Carolina",SC,7.94222613743
+54049,"Marion County","West Virginia",WV,7.94162082672
+31011,"Boone County",Nebraska,NE,7.94144301414
+47135,"Perry County",Tennessee,TN,7.93938684464
+41013,"Crook County",Oregon,OR,7.93880188465
+26069,"Iosco County",Michigan,MI,7.93831861019
+55023,"Crawford County",Wisconsin,WI,7.93817606568
+19153,"Polk County",Iowa,IA,7.93811559677
+13227,"Pickens County",Georgia,GA,7.93727743626
+28025,"Clay County",Mississippi,MS,7.93704322668
+45091,"York County","South Carolina",SC,7.93616535353
+48485,"Wichita County",Texas,TX,7.9330499032
+20183,"Smith County",Kansas,KS,7.93188886642
+47121,"Meigs County",Tennessee,TN,7.93173408508
+01111,"Randolph County",Alabama,AL,7.93163439807
+54073,"Pleasants County","West Virginia",WV,7.93090605736
+54015,"Clay County","West Virginia",WV,7.93073949814
+22091,"St. Helena Parish",Louisiana,LA,7.93067240715
+48467,"Van Zandt County",Texas,TX,7.93041366339
+37037,"Chatham County","North Carolina",NC,7.93000359005
+27019,"Carver County",Minnesota,MN,7.92782219251
+37001,"Alamance County","North Carolina",NC,7.92694543203
+48395,"Robertson County",Texas,TX,7.92691657941
+39087,"Lawrence County",Ohio,OH,7.92691233953
+34025,"Monmouth County","New Jersey",NJ,7.92603319032
+55117,"Sheboygan County",Wisconsin,WI,7.92594707012
+29003,"Andrew County",Missouri,MO,7.92434186202
+38069,"Pierce County","North Dakota",ND,7.9231528869
+45017,"Calhoun County","South Carolina",SC,7.92213106155
+19197,"Wright County",Iowa,IA,7.92202651501
+29177,"Ray County",Missouri,MO,7.92162823677
+28133,"Sunflower County",Mississippi,MS,7.91966088613
+40033,"Cotton County",Oklahoma,OK,7.91892754404
+08061,"Kiowa County",Colorado,CO,7.91849498581
+45035,"Dorchester County","South Carolina",SC,7.91825596491
+48081,"Coke County",Texas,TX,7.91763929526
+51159,"Richmond County",Virginia,VA,7.91711702347
+31107,"Knox County",Nebraska,NE,7.91622119631
+42027,"Centre County",Pennsylvania,PA,7.91590685998
+38079,"Rolette County","North Dakota",ND,7.9157844498
+54043,"Lincoln County","West Virginia",WV,7.91550225478
+22067,"Morehouse Parish",Louisiana,LA,7.91494198279
+47125,"Montgomery County",Tennessee,TN,7.91468140658
+27161,"Waseca County",Minnesota,MN,7.91464567184
+22059,"LaSalle Parish",Louisiana,LA,7.91351050597
+19081,"Hancock County",Iowa,IA,7.91246461868
+29199,"Scotland County",Missouri,MO,7.9120768706
+37153,"Richmond County","North Carolina",NC,7.9117029735
+12109,"St. Johns County",Florida,FL,7.91142778397
+47129,"Morgan County",Tennessee,TN,7.91019208615
+40045,"Ellis County",Oklahoma,OK,7.9099965368
+19067,"Floyd County",Iowa,IA,7.90781211853
+22097,"St. Landry Parish",Louisiana,LA,7.90737697813
+27043,"Faribault County",Minnesota,MN,7.9052405698
+37165,"Scotland County","North Carolina",NC,7.90519738197
+13311,"White County",Georgia,GA,7.90429053988
+47113,"Madison County",Tennessee,TN,7.90378787782
+05133,"Sevier County",Arkansas,AR,7.90147426393
+30075,"Powder River County",Montana,MT,7.90117902204
+13039,"Camden County",Georgia,GA,7.90115139219
+29203,"Shannon County",Missouri,MO,7.90108357706
+37135,"Orange County","North Carolina",NC,7.89973046563
+27105,"Nobles County",Minnesota,MN,7.89951726913
+38045,"LaMoure County","North Dakota",ND,7.89923273433
+19121,"Madison County",Iowa,IA,7.89906277657
+08019,"Clear Creek County",Colorado,CO,7.8987194208
+19189,"Winnebago County",Iowa,IA,7.89722151756
+13147,"Hart County",Georgia,GA,7.89719050271
+21025,"Breathitt County",Kentucky,KY,7.89661639077
+22021,"Caldwell Parish",Louisiana,LA,7.89588077863
+47063,"Hamblen County",Tennessee,TN,7.8953473568
+54011,"Cabell County","West Virginia",WV,7.89504639308
+26009,"Antrim County",Michigan,MI,7.89368257523
+51057,"Essex County",Virginia,VA,7.89021001543
+22043,"Grant Parish",Louisiana,LA,7.88854381773
+05001,"Arkansas County",Arkansas,AR,7.88788665136
+19033,"Cerro Gordo County",Iowa,IA,7.88762334983
+16041,"Franklin County",Idaho,ID,7.88576859236
+55093,"Pierce County",Wisconsin,WI,7.88547774724
+37155,"Robeson County","North Carolina",NC,7.88275200745
+04023,"Santa Cruz County",Arizona,AZ,7.88256080449
+37081,"Guilford County","North Carolina",NC,7.88226595379
+54085,"Ritchie County","West Virginia",WV,7.88154851473
+38057,"Mercer County","North Dakota",ND,7.88093590125
+55033,"Dunn County",Wisconsin,WI,7.88020679156
+12035,"Flagler County",Florida,FL,7.87977777209
+47023,"Chester County",Tennessee,TN,7.87947225571
+47055,"Giles County",Tennessee,TN,7.87925361332
+41069,"Wheeler County",Oregon,OR,7.87895678652
+12049,"Hardee County",Florida,FL,7.87894592285
+48139,"Ellis County",Texas,TX,7.87873877012
+42035,"Clinton County",Pennsylvania,PA,7.87758207321
+54061,"Monongalia County","West Virginia",WV,7.877207626
+19059,"Dickinson County",Iowa,IA,7.87587127686
+37045,"Cleveland County","North Carolina",NC,7.87443934954
+27063,"Jackson County",Minnesota,MN,7.87384630133
+29057,"Dade County",Missouri,MO,7.87329804103
+19091,"Humboldt County",Iowa,IA,7.87311900457
+37179,"Union County","North Carolina",NC,7.87227033433
+47185,"White County",Tennessee,TN,7.87025187566
+12105,"Polk County",Florida,FL,7.86972658157
+48035,"Bosque County",Texas,TX,7.86877531841
+54013,"Calhoun County","West Virginia",WV,7.86745882034
+24037,"St. Mary's County",Maryland,MD,7.86659570841
+19063,"Emmet County",Iowa,IA,7.86601028442
+47119,"Maury County",Tennessee,TN,7.86590166653
+51033,"Caroline County",Virginia,VA,7.86540344026
+28115,"Pontotoc County",Mississippi,MS,7.86525425911
+19109,"Kossuth County",Iowa,IA,7.86447196007
+20111,"Lyon County",Kansas,KS,7.8631987373
+54021,"Gilmer County","West Virginia",WV,7.86256251335
+20081,"Haskell County",Kansas,KS,7.86201739311
+46039,"Deuel County","South Dakota",SD,7.86177827835
+22039,"Evangeline Parish",Louisiana,LA,7.86097036468
+29053,"Cooper County",Missouri,MO,7.86093391312
+28011,"Bolivar County",Mississippi,MS,7.86060741673
+29021,"Buchanan County",Missouri,MO,7.86041281773
+46009,"Bon Homme County","South Dakota",SD,7.85905159087
+45023,"Chester County","South Carolina",SC,7.85825770696
+40007,"Beaver County",Oklahoma,OK,7.85667198499
+46077,"Kingsbury County","South Dakota",SD,7.85579190652
+12115,"Sarasota County",Florida,FL,7.85576284633
+48213,"Henderson County",Texas,TX,7.85512797038
+12019,"Clay County",Florida,FL,7.85451372046
+21237,"Wolfe County",Kentucky,KY,7.85447774615
+42111,"Somerset County",Pennsylvania,PA,7.8539686501
+20071,"Greeley County",Kansas,KS,7.85207921982
+20083,"Hodgeman County",Kansas,KS,7.85176982198
+19001,"Adair County",Iowa,IA,7.85169374943
+05121,"Randolph County",Arkansas,AR,7.8516755665
+55111,"Sauk County",Wisconsin,WI,7.85109180671
+19147,"Palo Alto County",Iowa,IA,7.85021028519
+31035,"Clay County",Nebraska,NE,7.84884543419
+37101,"Johnston County","North Carolina",NC,7.84628631671
+27065,"Kanabec County",Minnesota,MN,7.84609200954
+40153,"Woodward County",Oklahoma,OK,7.84570185343
+28113,"Pike County",Mississippi,MS,7.84451532364
+47109,"McNairy County",Tennessee,TN,7.84416850408
+26031,"Cheboygan County",Michigan,MI,7.84367421366
+46099,"Minnehaha County","South Dakota",SD,7.84161232199
+34035,"Somerset County","New Jersey",NJ,7.84093063528
+54099,"Wayne County","West Virginia",WV,7.84031910366
+27147,"Steele County",Minnesota,MN,7.8388864994
+32011,"Eureka County",Nevada,NV,7.83738418787
+34029,"Ocean County","New Jersey",NJ,7.83727186605
+51107,"Loudoun County",Virginia,VA,7.83690473012
+13305,"Wayne County",Georgia,GA,7.83589993025
+29141,"Morgan County",Missouri,MO,7.83508795784
+27033,"Cottonwood County",Minnesota,MN,7.83247276306
+29039,"Cedar County",Missouri,MO,7.8324195226
+48099,"Coryell County",Texas,TX,7.82912895896
+24009,"Calvert County",Maryland,MD,7.82841984431
+37063,"Durham County","North Carolina",NC,7.82573572795
+38049,"McHenry County","North Dakota",ND,7.82481022487
+28059,"Jackson County",Mississippi,MS,7.82446659179
+37007,"Anson County","North Carolina",NC,7.82345506549
+45045,"Greenville County","South Carolina",SC,7.82335879586
+55135,"Waupaca County",Wisconsin,WI,7.82167367935
+24015,"Cecil County",Maryland,MD,7.81858363518
+12067,"Lafayette County",Florida,FL,7.81836976324
+54045,"Logan County","West Virginia",WV,7.81778522638
+29143,"New Madrid County",Missouri,MO,7.81716104176
+12101,"Pasco County",Florida,FL,7.81521293095
+31125,"Nance County",Nebraska,NE,7.81462189356
+40129,"Roger Mills County",Oklahoma,OK,7.81402381729
+29049,"Clinton County",Missouri,MO,7.81375825405
+26127,"Oceana County",Michigan,MI,7.81144412359
+47027,"Clay County",Tennessee,TN,7.80835872226
+37157,"Rockingham County","North Carolina",NC,7.80532277425
+21119,"Knott County",Kentucky,KY,7.80426327387
+13001,"Appling County",Georgia,GA,7.80302732331
+05135,"Sharp County",Arkansas,AR,7.80200094335
+26111,"Midland County",Michigan,MI,7.80165785551
+28017,"Chickasaw County",Mississippi,MS,7.80158706506
+08075,"Logan County",Colorado,CO,7.80132749251
+22109,"Terrebonne Parish",Louisiana,LA,7.79980893816
+51141,"Patrick County",Virginia,VA,7.79901463645
+46067,"Hutchinson County","South Dakota",SD,7.79893384377
+46087,"McCook County","South Dakota",SD,7.79851531982
+22009,"Avoyelles Parish",Louisiana,LA,7.7972898674
+31181,"Webster County",Nebraska,NE,7.7970192035
+28081,"Lee County",Mississippi,MS,7.79521080164
+20175,"Seward County",Kansas,KS,7.79353957706
+29069,"Dunklin County",Missouri,MO,7.79179447038
+37193,"Wilkes County","North Carolina",NC,7.7916545105
+12125,"Union County",Florida,FL,7.7915772438
+24510,"Baltimore city",Maryland,MD,7.79006878535
+31109,"Lancaster County",Nebraska,NE,7.78995699883
+51035,"Carroll County",Virginia,VA,7.78994538234
+12111,"St. Lucie County",Florida,FL,7.7895635287
+55017,"Chippewa County",Wisconsin,WI,7.78937385976
+38029,"Emmons County","North Dakota",ND,7.78882108064
+19173,"Taylor County",Iowa,IA,7.78826160431
+34033,"Salem County","New Jersey",NJ,7.78783217343
+29017,"Bollinger County",Missouri,MO,7.78758621216
+39137,"Putnam County",Ohio,OH,7.78621180852
+54105,"Wirt County","West Virginia",WV,7.78480046136
+55095,"Polk County",Wisconsin,WI,7.78428562756
+51061,"Fauquier County",Virginia,VA,7.78127295971
+48361,"Orange County",Texas,TX,7.77930143901
+28003,"Alcorn County",Mississippi,MS,7.77912755013
+38101,"Ward County","North Dakota",ND,7.77896808216
+27047,"Freeborn County",Minnesota,MN,7.77643928925
+54019,"Fayette County","West Virginia",WV,7.77584209442
+54035,"Jackson County","West Virginia",WV,7.77471217513
+54091,"Taylor County","West Virginia",WV,7.77451968193
+54081,"Raleigh County","West Virginia",WV,7.77381427665
+19177,"Van Buren County",Iowa,IA,7.77251128589
+54107,"Wood County","West Virginia",WV,7.77231216431
+38037,"Grant County","North Dakota",ND,7.77162917716
+47101,"Lewis County",Tennessee,TN,7.77104467154
+27127,"Redwood County",Minnesota,MN,7.76927209854
+26029,"Charlevoix County",Michigan,MI,7.76917523146
+19029,"Cass County",Iowa,IA,7.76870355606
+19145,"Page County",Iowa,IA,7.76660456377
+22057,"Lafourche Parish",Louisiana,LA,7.76495799753
+48487,"Wilbarger County",Texas,TX,7.76403224468
+37145,"Person County","North Carolina",NC,7.76210680604
+45079,"Richland County","South Carolina",SC,7.76115508307
+05021,"Clay County",Arkansas,AR,7.7601287961
+20165,"Rush County",Kansas,KS,7.75990714629
+24003,"Anne Arundel County",Maryland,MD,7.75965085396
+54007,"Braxton County","West Virginia",WV,7.7584297657
+48295,"Lipscomb County",Texas,TX,7.7577499946
+42023,"Cameron County",Pennsylvania,PA,7.7574301633
+41033,"Josephine County",Oregon,OR,7.7558474681
+22095,"St. John the Baptist Parish",Louisiana,LA,7.75316013609
+12083,"Marion County",Florida,FL,7.75088348621
+21165,"Menifee County",Kentucky,KY,7.7508281299
+55103,"Richland County",Wisconsin,WI,7.74866499901
+19195,"Worth County",Iowa,IA,7.74792190393
+21133,"Letcher County",Kentucky,KY,7.74790839354
+31121,"Merrick County",Nebraska,NE,7.74771963225
+46097,"Miner County","South Dakota",SD,7.7452381134
+12107,"Putnam County",Florida,FL,7.74481256803
+48207,"Haskell County",Texas,TX,7.74034814835
+37033,"Caswell County","North Carolina",NC,7.73946050803
+08047,"Gilpin County",Colorado,CO,7.73748457432
+45069,"Marlboro County","South Carolina",SC,7.73705203717
+29085,"Hickory County",Missouri,MO,7.73590581758
+39053,"Gallia County",Ohio,OH,7.73462642323
+48275,"Knox County",Texas,TX,7.73246467113
+48245,"Jefferson County",Texas,TX,7.73035523199
+05061,"Howard County",Arkansas,AR,7.72917538881
+39131,"Pike County",Ohio,OH,7.72723652766
+12097,"Osceola County",Florida,FL,7.72660790171
+28045,"Hancock County",Mississippi,MS,7.72616162667
+28147,"Walthall County",Mississippi,MS,7.72590231895
+05149,"Yell County",Arkansas,AR,7.72554167679
+27139,"Scott County",Minnesota,MN,7.72519847325
+12041,"Gilchrist County",Florida,FL,7.72310161591
+55029,"Door County",Wisconsin,WI,7.72169303894
+37077,"Granville County","North Carolina",NC,7.72139164805
+37005,"Alleghany County","North Carolina",NC,7.72057356153
+38085,"Sioux County","North Dakota",ND,7.72048519933
+22083,"Richland Parish",Louisiana,LA,7.71787868227
+47087,"Jackson County",Tennessee,TN,7.71487877104
+12027,"DeSoto County",Florida,FL,7.71396446228
+48441,"Taylor County",Texas,TX,7.71218776703
+16077,"Power County",Idaho,ID,7.71183321211
+54109,"Wyoming County","West Virginia",WV,7.70901021957
+47133,"Overton County",Tennessee,TN,7.70793346258
+40149,"Washita County",Oklahoma,OK,7.7067628479
+38047,"Logan County","North Dakota",ND,7.70496020052
+42079,"Luzerne County",Pennsylvania,PA,7.70307601293
+40009,"Beckham County",Oklahoma,OK,7.70270149524
+31061,"Franklin County",Nebraska,NE,7.70248715083
+42123,"Warren County",Pennsylvania,PA,7.70171584402
+05097,"Montgomery County",Arkansas,AR,7.70121707235
+48235,"Irion County",Texas,TX,7.70113947732
+28117,"Prentiss County",Mississippi,MS,7.70004781087
+01091,"Marengo County",Alabama,AL,7.70000969447
+54059,"Mingo County","West Virginia",WV,7.69999063932
+26049,"Genesee County",Michigan,MI,7.69975168565
+38009,"Bottineau County","North Dakota",ND,7.69949126925
+29131,"Miller County",Missouri,MO,7.69922190905
+20163,"Rooks County",Kansas,KS,7.69759163857
+48161,"Freestone County",Texas,TX,7.69705519309
+12009,"Brevard County",Florida,FL,7.69566279366
+47071,"Hardin County",Tennessee,TN,7.69560620659
+46061,"Hanson County","South Dakota",SD,7.69547375043
+27173,"Yellow Medicine County",Minnesota,MN,7.69531374964
+27101,"Murray County",Minnesota,MN,7.69508786996
+45085,"Sumter County","South Carolina",SC,7.69498881427
+41021,"Gilliam County",Oregon,OR,7.69441793182
+47009,"Blount County",Tennessee,TN,7.69365178837
+45027,"Clarendon County","South Carolina",SC,7.69359124334
+47107,"McMinn County",Tennessee,TN,7.69358521241
+34001,"Atlantic County","New Jersey",NJ,7.69163785261
+13137,"Habersham County",Georgia,GA,7.6915067264
+37069,"Franklin County","North Carolina",NC,7.69137652715
+47141,"Putnam County",Tennessee,TN,7.69126025113
+48155,"Foard County",Texas,TX,7.69113984315
+27117,"Pipestone County",Minnesota,MN,7.69010204077
+48257,"Kaufman County",Texas,TX,7.68459173044
+29135,"Moniteau County",Missouri,MO,7.68116364112
+31081,"Hamilton County",Nebraska,NE,7.67958034409
+19003,"Adams County",Iowa,IA,7.67953592936
+51101,"King William County",Virginia,VA,7.6792889701
+16007,"Bear Lake County",Idaho,ID,7.67921464973
+54053,"Mason County","West Virginia",WV,7.67871170044
+36047,"Kings County","New York",NY,7.67854976654
+30057,"Madison County",Montana,MT,7.67826223767
+06065,"Riverside County",California,CA,7.67792259164
+51133,"Northumberland County",Virginia,VA,7.67676935196
+47145,"Roane County",Tennessee,TN,7.67434732731
+40043,"Dewey County",Oklahoma,OK,7.67360056937
+54041,"Lewis County","West Virginia",WV,7.67354752467
+29169,"Pulaski County",Missouri,MO,7.67295093007
+42103,"Pike County",Pennsylvania,PA,7.6717933019
+27061,"Itasca County",Minnesota,MN,7.67172236018
+45057,"Lancaster County","South Carolina",SC,7.66691827774
+27049,"Goodhue County",Minnesota,MN,7.66598180488
+26047,"Emmet County",Michigan,MI,7.66516718268
+35061,"Valencia County","New Mexico",NM,7.66449206875
+39163,"Vinton County",Ohio,OH,7.66300979027
+51177,"Spotsylvania County",Virginia,VA,7.66179690361
+12055,"Highlands County",Florida,FL,7.66056695129
+06085,"Santa Clara County",California,CA,7.65897247119
+51097,"King and Queen County",Virginia,VA,7.6583463192
+12061,"Indian River County",Florida,FL,7.65595567226
+39073,"Hocking County",Ohio,OH,7.65528575579
+45033,"Dillon County","South Carolina",SC,7.65307426453
+13161,"Jeff Davis County",Georgia,GA,7.65029960208
+20181,"Sherman County",Kansas,KS,7.64764541898
+24031,"Montgomery County",Maryland,MD,7.64719074965
+45055,"Kershaw County","South Carolina",SC,7.6463898023
+12065,"Jefferson County",Florida,FL,7.64475581381
+20147,"Phillips County",Kansas,KS,7.6445382754
+12127,"Volusia County",Florida,FL,7.6413719207
+45061,"Lee County","South Carolina",SC,7.63882918791
+48027,"Bell County",Texas,TX,7.63839197159
+06075,"San Francisco County",California,CA,7.63778686523
+20075,"Hamilton County",Kansas,KS,7.6376691965
+12103,"Pinellas County",Florida,FL,7.63629454374
+40079,"Le Flore County",Oklahoma,OK,7.63582835879
+51085,"Hanover County",Virginia,VA,7.63503496987
+39079,"Jackson County",Ohio,OH,7.63398170471
+12029,"Dixie County",Florida,FL,7.6323142767
+05141,"Van Buren County",Arkansas,AR,7.63206119123
+48253,"Jones County",Texas,TX,7.63200553258
+48217,"Hill County",Texas,TX,7.62611625876
+21153,"Magoffin County",Kentucky,KY,7.62394089169
+45015,"Berkeley County","South Carolina",SC,7.62236666679
+45041,"Florence County","South Carolina",SC,7.62184234287
+16011,"Bingham County",Idaho,ID,7.62084690039
+21099,"Hart County",Kentucky,KY,7.61998930844
+13065,"Clinch County",Georgia,GA,7.61873208393
+55091,"Pepin County",Wisconsin,WI,7.61429786682
+05087,"Madison County",Arkansas,AR,7.61294394448
+51087,"Henrico County",Virginia,VA,7.61204640071
+12085,"Martin County",Florida,FL,7.61158436223
+12075,"Levy County",Florida,FL,7.61134526037
+12003,"Baker County",Florida,FL,7.61127758026
+51089,"Henry County",Virginia,VA,7.61070885658
+48197,"Hardeman County",Texas,TX,7.60914208672
+30081,"Ravalli County",Montana,MT,7.6090901575
+45031,"Darlington County","South Carolina",SC,7.60836932238
+20051,"Ellis County",Kansas,KS,7.60801235835
+21159,"Martin County",Kentucky,KY,7.60593708356
+34031,"Passaic County","New Jersey",NJ,7.60422267914
+27081,"Lincoln County",Minnesota,MN,7.60417312384
+21135,"Lewis County",Kentucky,KY,7.60383664645
+22073,"Ouachita Parish",Louisiana,LA,7.60358817954
+12007,"Bradford County",Florida,FL,7.6028553115
+20055,"Finney County",Kansas,KS,7.60202438831
+08095,"Phillips County",Colorado,CO,7.60145628894
+30029,"Flathead County",Montana,MT,7.60067913546
+28141,"Tishomingo County",Mississippi,MS,7.59997348785
+31183,"Wheeler County",Nebraska,NE,7.59802172184
+26165,"Wexford County",Michigan,MI,7.5967505455
+29181,"Ripley County",Missouri,MO,7.59585742517
+37163,"Sampson County","North Carolina",NC,7.59542850086
+22055,"Lafayette Parish",Louisiana,LA,7.59317499399
+48349,"Navarro County",Texas,TX,7.59034196792
+19137,"Montgomery County",Iowa,IA,7.59024150555
+45089,"Williamsburg County","South Carolina",SC,7.58979219657
+45067,"Marion County","South Carolina",SC,7.58961430192
+51690,"Martinsville city",Virginia,VA,7.58782958984
+54033,"Harrison County","West Virginia",WV,7.58769094027
+54067,"Nicholas County","West Virginia",WV,7.58710323061
+12119,"Sumter County",Florida,FL,7.58695969862
+49013,"Duchesne County",Utah,UT,7.58668114157
+31001,"Adams County",Nebraska,NE,7.58606395125
+12069,"Lake County",Florida,FL,7.58597536648
+31077,"Greeley County",Nebraska,NE,7.58419399261
+42081,"Lycoming County",Pennsylvania,PA,7.58273158929
+51770,"Roanoke city",Virginia,VA,7.58136796951
+12123,"Taylor County",Florida,FL,7.58126115799
+05065,"Izard County",Arkansas,AR,7.58036532402
+28069,"Kemper County",Mississippi,MS,7.57858589717
+53023,"Garfield County",Washington,WA,7.57808379332
+28109,"Pearl River County",Mississippi,MS,7.57785358032
+05137,"Stone County",Arkansas,AR,7.57665636804
+21071,"Floyd County",Kentucky,KY,7.57472081979
+48211,"Hemphill County",Texas,TX,7.57372298241
+53063,"Spokane County",Washington,WA,7.57193089838
+46079,"Lake County","South Dakota",SD,7.56563925743
+55001,"Adams County",Wisconsin,WI,7.56408262253
+37181,"Vance County","North Carolina",NC,7.56276005507
+30099,"Teton County",Montana,MT,7.56237923117
+19005,"Allamakee County",Iowa,IA,7.56143798326
+51590,"Danville city",Virginia,VA,7.56115531921
+38075,"Renville County","North Dakota",ND,7.55985691236
+22079,"Rapides Parish",Louisiana,LA,7.55935366154
+21009,"Barren County",Kentucky,KY,7.55913485014
+34009,"Cape May County","New Jersey",NJ,7.55869742802
+41063,"Wallowa County",Oregon,OR,7.55561378899
+21195,"Pike County",Kentucky,KY,7.55468630791
+30073,"Pondera County",Montana,MT,7.55299088106
+01059,"Franklin County",Alabama,AL,7.55116732915
+01033,"Colbert County",Alabama,AL,7.55041608214
+12089,"Nassau County",Florida,FL,7.55014663272
+48105,"Crockett County",Texas,TX,7.54912443419
+09009,"New Haven County",Connecticut,CT,7.5489133488
+46111,"Sanborn County","South Dakota",SD,7.54695634842
+55083,"Oconto County",Wisconsin,WI,7.54070082307
+31083,"Harlan County",Nebraska,NE,7.54057016373
+26055,"Grand Traverse County",Michigan,MI,7.53890015097
+45019,"Charleston County","South Carolina",SC,7.53839120865
+20101,"Lane County",Kansas,KS,7.53466084003
+05033,"Crawford County",Arkansas,AR,7.53411850333
+55115,"Shawano County",Wisconsin,WI,7.52708801542
+39167,"Washington County",Ohio,OH,7.52632726563
+51155,"Pulaski County",Virginia,VA,7.52546904304
+53077,"Yakima County",Washington,WA,7.52543469552
+48483,"Wheeler County",Texas,TX,7.52521042824
+31099,"Kearney County",Nebraska,NE,7.52506725788
+05047,"Franklin County",Arkansas,AR,7.52405603727
+42083,"McKean County",Pennsylvania,PA,7.52368938923
+54077,"Preston County","West Virginia",WV,7.52366900444
+27083,"Lyon County",Minnesota,MN,7.52260797024
+45051,"Horry County","South Carolina",SC,7.52177281813
+37017,"Bladen County","North Carolina",NC,7.52027292605
+31093,"Howard County",Nebraska,NE,7.51905708313
+05131,"Sebastian County",Arkansas,AR,7.51797538996
+16047,"Gooding County",Idaho,ID,7.51776420153
+53005,"Benton County",Washington,WA,7.51557076155
+20135,"Ness County",Kansas,KS,7.51498828615
+13257,"Stephens County",Georgia,GA,7.51455104351
+26011,"Arenac County",Michigan,MI,7.51408063041
+05127,"Scott County",Arkansas,AR,7.50969922954
+19191,"Winneshiek County",Iowa,IA,7.50848667622
+20023,"Cheyenne County",Kansas,KS,7.5072961671
+20065,"Graham County",Kansas,KS,7.50655581156
+51063,"Floyd County",Virginia,VA,7.50603687763
+08099,"Prowers County",Colorado,CO,7.50526735896
+08093,"Park County",Colorado,CO,7.50350447435
+40057,"Harmon County",Oklahoma,OK,7.50309742822
+12129,"Wakulla County",Florida,FL,7.50014829636
+16051,"Jefferson County",Idaho,ID,7.49336383149
+47105,"Loudon County",Tennessee,TN,7.4874677062
+30035,"Glacier County",Montana,MT,7.48686135477
+08013,"Boulder County",Colorado,CO,7.48479173581
+54097,"Upshur County","West Virginia",WV,7.48385949135
+45025,"Chesterfield County","South Carolina",SC,7.48317146301
+08025,"Crowley County",Colorado,CO,7.48276374737
+46035,"Davison County","South Dakota",SD,7.48062375188
+48353,"Nolan County",Texas,TX,7.47959394455
+34037,"Sussex County","New Jersey",NJ,7.47703670053
+12095,"Orange County",Florida,FL,7.47668867726
+54055,"Mercer County","West Virginia",WV,7.47607653482
+28023,"Clarke County",Mississippi,MS,7.47420768738
+46005,"Beadle County","South Dakota",SD,7.47306851546
+39119,"Muskingum County",Ohio,OH,7.47306010723
+21115,"Johnson County",Kentucky,KY,7.47060620785
+30011,"Carter County",Montana,MT,7.47032640775
+29149,"Oregon County",Missouri,MO,7.46833179394
+20093,"Kearny County",Kansas,KS,7.4681674242
+31079,"Hall County",Nebraska,NE,7.4674718082
+51103,"Lancaster County",Virginia,VA,7.46711883545
+47123,"Monroe County",Tennessee,TN,7.46558716297
+51127,"New Kent County",Virginia,VA,7.46444313867
+26145,"Saginaw County",Michigan,MI,7.46428116437
+54047,"McDowell County","West Virginia",WV,7.46312405268
+21205,"Rowan County",Kentucky,KY,7.46249904633
+48357,"Ochiltree County",Texas,TX,7.46207873027
+19131,"Mitchell County",Iowa,IA,7.46133495967
+40055,"Greer County",Oklahoma,OK,7.46105577832
+47181,"Wayne County",Tennessee,TN,7.46053239015
+01077,"Lauderdale County",Alabama,AL,7.45898644129
+09003,"Hartford County",Connecticut,CT,7.45841442108
+51197,"Wythe County",Virginia,VA,7.45720243454
+20171,"Scott County",Kansas,KS,7.45604927063
+29029,"Camden County",Missouri,MO,7.45595948592
+24027,"Howard County",Maryland,MD,7.45476973057
+19089,"Howard County",Iowa,IA,7.4533399264
+54001,"Barbour County","West Virginia",WV,7.45091704528
+48075,"Childress County",Texas,TX,7.44999584198
+38025,"Dunn County","North Dakota",ND,7.44967075075
+12015,"Charlotte County",Florida,FL,7.44915207227
+21127,"Lawrence County",Kentucky,KY,7.4475740989
+34003,"Bergen County","New Jersey",NJ,7.44672811031
+06097,"Sonoma County",California,CA,7.4464538146
+29223,"Wayne County",Missouri,MO,7.44362290089
+40135,"Sequoyah County",Oklahoma,OK,7.44352267918
+51021,"Bland County",Virginia,VA,7.44181525707
+46101,"Moody County","South Dakota",SD,7.44176869392
+51071,"Giles County",Virginia,VA,7.43883466721
+13003,"Atkinson County",Georgia,GA,7.43854465485
+47073,"Hawkins County",Tennessee,TN,7.43840103883
+20203,"Wichita County",Kansas,KS,7.43575046539
+48293,"Limestone County",Texas,TX,7.43570465088
+12021,"Collier County",Florida,FL,7.4333334576
+20063,"Gove County",Kansas,KS,7.43155184814
+54089,"Summers County","West Virginia",WV,7.43114549463
+48087,"Collingsworth County",Texas,TX,7.42911885182
+38021,"Dickey County","North Dakota",ND,7.42856839895
+21089,"Greenup County",Kentucky,KY,7.42828273773
+21175,"Morgan County",Kentucky,KY,7.42779449316
+16031,"Cassia County",Idaho,ID,7.42637517534
+35013,"Doña Ana County","New Mexico",NM,7.42449367798
+56005,"Campbell County",Wyoming,WY,7.42012692668
+51077,"Grayson County",Virginia,VA,7.41505505057
+13229,"Pierce County",Georgia,GA,7.4147716869
+12093,"Okeechobee County",Florida,FL,7.41357268606
+45043,"Georgetown County","South Carolina",SC,7.41305433273
+10003,"New Castle County",Delaware,DE,7.41147845586
+20137,"Norton County",Kansas,KS,7.41092875799
+01027,"Clay County",Alabama,AL,7.40861776471
+06071,"San Bernardino County",California,CA,7.40801900054
+20195,"Trego County",Kansas,KS,7.40773743391
+30101,"Toole County",Montana,MT,7.40771151604
+39127,"Perry County",Ohio,OH,7.40616559982
+55097,"Portage County",Wisconsin,WI,7.39885116507
+48229,"Hudspeth County",Texas,TX,7.39587701269
+05049,"Fulton County",Arkansas,AR,7.39513650307
+41049,"Morrow County",Oregon,OR,7.39100327492
+22105,"Tangipahoa Parish",Louisiana,LA,7.38948794774
+48101,"Cottle County",Texas,TX,7.3876423469
+51119,"Middlesex County",Virginia,VA,7.38738787174
+56041,"Uinta County",Wyoming,WY,7.38544149399
+38051,"McIntosh County","North Dakota",ND,7.3844872117
+39145,"Scioto County",Ohio,OH,7.38346791267
+39003,"Allen County",Ohio,OH,7.38340129852
+51195,"Wise County",Virginia,VA,7.38270171483
+26033,"Chippewa County",Michigan,MI,7.38105878234
+27035,"Crow Wing County",Minnesota,MN,7.38039809902
+31163,"Sherman County",Nebraska,NE,7.37945336103
+20179,"Sheridan County",Kansas,KS,7.3793364048
+31019,"Buffalo County",Nebraska,NE,7.37874932587
+38061,"Mountrail County","North Dakota",ND,7.37868643552
+55123,"Vernon County",Wisconsin,WI,7.37220439044
+51067,"Franklin County",Virginia,VA,7.37198890959
+51117,"Mecklenburg County",Virginia,VA,7.37158865678
+36029,"Erie County","New York",NY,7.37088951468
+48145,"Falls County",Texas,TX,7.36956877936
+13291,"Union County",Georgia,GA,7.36880364418
+51027,"Buchanan County",Virginia,VA,7.36864999362
+29047,"Clay County",Missouri,MO,7.36379597404
+37047,"Columbus County","North Carolina",NC,7.36259845451
+42069,"Lackawanna County",Pennsylvania,PA,7.36189770699
+30065,"Musselshell County",Montana,MT,7.35990724564
+13025,"Brantley County",Georgia,GA,7.35932033712
+30051,"Liberty County",Montana,MT,7.3553142207
+40065,"Jackson County",Oklahoma,OK,7.35472057082
+51145,"Powhatan County",Virginia,VA,7.35355356761
+41001,"Baker County",Oregon,OR,7.35342174258
+22117,"Washington Parish",Louisiana,LA,7.35267806053
+20109,"Logan County",Kansas,KS,7.35093523775
+51075,"Goochland County",Virginia,VA,7.35036108229
+54101,"Webster County","West Virginia",WV,7.34802195605
+39105,"Meigs County",Ohio,OH,7.34692107714
+34027,"Morris County","New Jersey",NJ,7.3462334315
+36081,"Queens County","New York",NY,7.34452199936
+31137,"Phelps County",Nebraska,NE,7.34161729813
+20193,"Thomas County",Kansas,KS,7.33962345123
+36005,"Bronx County","New York",NY,7.33929491043
+05083,"Logan County",Arkansas,AR,7.33922481537
+51051,"Dickenson County",Virginia,VA,7.33897638321
+46043,"Douglas County","South Dakota",SD,7.33883065444
+08011,"Bent County",Colorado,CO,7.33552717027
+24045,"Wicomico County",Maryland,MD,7.33159140746
+10005,"Sussex County",Delaware,DE,7.3306453824
+16053,"Jerome County",Idaho,ID,7.3271200392
+36085,"Richmond County","New York",NY,7.32464075089
+09013,"Tolland County",Connecticut,CT,7.32367164438
+37191,"Wayne County","North Carolina",NC,7.31918752193
+06081,"San Mateo County",California,CA,7.31912498474
+31057,"Dundy County",Nebraska,NE,7.31779783964
+34011,"Cumberland County","New Jersey",NJ,7.31612205505
+27039,"Dodge County",Minnesota,MN,7.31506916881
+40141,"Tillman County",Oklahoma,OK,7.30663452148
+22089,"St. Charles Parish",Louisiana,LA,7.30193032159
+36061,"New York County","New York",NY,7.29665613174
+37185,"Warren County","North Carolina",NC,7.29593746479
+25027,"Worcester County",Massachusetts,MA,7.29580865083
+48151,"Fisher County",Texas,TX,7.2956111908
+42049,"Erie County",Pennsylvania,PA,7.29480028152
+51111,"Lunenburg County",Virginia,VA,7.29342617307
+16025,"Camas County",Idaho,ID,7.29257440567
+55005,"Barron County",Wisconsin,WI,7.29222983122
+51121,"Montgomery County",Virginia,VA,7.29089780649
+48433,"Stonewall County",Texas,TX,7.29045480092
+40031,"Comanche County",Oklahoma,OK,7.28963771131
+51185,"Tazewell County",Virginia,VA,7.28951451182
+51073,"Gloucester County",Virginia,VA,7.28928157261
+25021,"Norfolk County",Massachusetts,MA,7.28764514923
+51041,"Chesterfield County",Virginia,VA,7.28658448733
+51570,"Colonial Heights city",Virginia,VA,7.28402519226
+38041,"Hettinger County","North Dakota",ND,7.27939556894
+16083,"Twin Falls County",Idaho,ID,7.27424817789
+45077,"Pickens County","South Carolina",SC,7.27228651047
+51095,"James City County",Virginia,VA,7.27034444809
+13005,"Bacon County",Georgia,GA,7.26884788937
+42105,"Potter County",Pennsylvania,PA,7.26860431035
+54063,"Monroe County","West Virginia",WV,7.26556836642
+51143,"Pittsylvania County",Virginia,VA,7.26454056226
+09001,"Fairfield County",Connecticut,CT,7.26435282014
+51083,"Halifax County",Virginia,VA,7.25776674271
+36009,"Cattaraugus County","New York",NY,7.25759596295
+51730,"Petersburg city",Virginia,VA,7.2575545311
+44001,"Bristol County","Rhode Island",RI,7.2548866272
+08119,"Teller County",Colorado,CO,7.25165626407
+55011,"Buffalo County",Wisconsin,WI,7.25161819458
+51135,"Nottoway County",Virginia,VA,7.24925690889
+51053,"Dinwiddie County",Virginia,VA,7.24780928294
+48269,"King County",Texas,TX,7.24367918968
+37161,"Rutherford County","North Carolina",NC,7.24351305432
+29215,"Texas County",Missouri,MO,7.24287969926
+42127,"Wayne County",Pennsylvania,PA,7.24110555649
+36121,"Wyoming County","New York",NY,7.24101846868
+51109,"Louisa County",Virginia,VA,7.24054232766
+36063,"Niagara County","New York",NY,7.23957782984
+48329,"Midland County",Texas,TX,7.23847244581
+26109,"Menominee County",Michigan,MI,7.23806561364
+48431,"Sterling County",Texas,TX,7.23758172989
+55063,"La Crosse County",Wisconsin,WI,7.23758121332
+51161,"Roanoke County",Virginia,VA,7.23463010788
+51710,"Norfolk city",Virginia,VA,7.2344121933
+51810,"Virginia Beach city",Virginia,VA,7.23390376568
+51036,"Charles City County",Virginia,VA,7.23007631302
+44007,"Providence County","Rhode Island",RI,7.22965522607
+22075,"Plaquemines Parish",Louisiana,LA,7.22929895335
+48393,"Roberts County",Texas,TX,7.2288588206
+51007,"Amelia County",Virginia,VA,7.22777648767
+12071,"Lee County",Florida,FL,7.22372666995
+51047,"Culpeper County",Virginia,VA,7.2232601826
+51520,"Bristol city",Virginia,VA,7.22321462631
+26085,"Lake County",Michigan,MI,7.22310066223
+51025,"Brunswick County",Virginia,VA,7.22287262187
+29023,"Butler County",Missouri,MO,7.21728858081
+51181,"Surry County",Virginia,VA,7.21535857519
+25013,"Hampden County",Massachusetts,MA,7.21498360634
+37149,"Polk County","North Carolina",NC,7.21397763491
+48135,"Ector County",Texas,TX,7.21376443946
+30049,"Lewis and Clark County",Montana,MT,7.21311146393
+51115,"Mathews County",Virginia,VA,7.21281433105
+46115,"Spink County","South Dakota",SD,7.21241347644
+36037,"Genesee County","New York",NY,7.21062293419
+12086,"Miami-Dade County",Florida,FL,7.21029763872
+20067,"Grant County",Kansas,KS,7.20592075586
+51183,"Sussex County",Virginia,VA,7.20543404988
+36073,"Orleans County","New York",NY,7.20206651688
+30047,"Lake County",Montana,MT,7.20111228652
+55075,"Marinette County",Wisconsin,WI,7.2009974122
+09007,"Middlesex County",Connecticut,CT,7.20063708045
+31065,"Furnas County",Nebraska,NE,7.19965998332
+51131,"Northampton County",Virginia,VA,7.19941631953
+37027,"Caldwell County","North Carolina",NC,7.19885070507
+12043,"Glades County",Florida,FL,7.19447333237
+51187,"Warren County",Virginia,VA,7.19342676799
+37039,"Cherokee County","North Carolina",NC,7.18980404536
+47155,"Sevier County",Tennessee,TN,7.18787333545
+20039,"Decatur County",Kansas,KS,7.18770634333
+51199,"York County",Virginia,VA,7.18591054281
+47139,"Polk County",Tennessee,TN,7.18546812875
+13069,"Coffee County",Georgia,GA,7.1824972755
+51149,"Prince George County",Virginia,VA,7.18144482374
+55119,"Taylor County",Wisconsin,WI,7.18100335048
+24039,"Somerset County",Maryland,MD,7.18095429738
+47099,"Lawrence County",Tennessee,TN,7.17977526188
+51550,"Chesapeake city",Virginia,VA,7.1783393383
+12117,"Seminole County",Florida,FL,7.17580016454
+42113,"Sullivan County",Pennsylvania,PA,7.1743221283
+53017,"Douglas County",Washington,WA,7.17368992892
+29167,"Polk County",Missouri,MO,7.16918947583
+51740,"Portsmouth city",Virginia,VA,7.16853761673
+24047,"Worcester County",Maryland,MD,7.16826636975
+38001,"Adams County","North Dakota",ND,7.16637519786
+38053,"McKenzie County","North Dakota",ND,7.16478027488
+30007,"Broadwater County",Montana,MT,7.16012691368
+48191,"Hall County",Texas,TX,7.15906124115
+48383,"Reagan County",Texas,TX,7.1566956679
+51173,"Smyth County",Virginia,VA,7.15573573112
+25025,"Suffolk County",Massachusetts,MA,7.15533971786
+20153,"Rawlins County",Kansas,KS,7.15522460937
+54027,"Hampshire County","West Virginia",WV,7.15305242084
+51001,"Accomack County",Virginia,VA,7.15157345931
+16029,"Caribou County",Idaho,ID,7.15132501669
+01133,"Winston County",Alabama,AL,7.14976498816
+12051,"Hendry County",Florida,FL,7.14850119444
+46019,"Butte County","South Dakota",SD,7.14435857921
+51167,"Russell County",Virginia,VA,7.14180898666
+27071,"Koochiching County",Minnesota,MN,7.14130986065
+38013,"Burke County","North Dakota",ND,7.13984041629
+08041,"El Paso County",Colorado,CO,7.13859008607
+51081,"Greensville County",Virginia,VA,7.13666892052
+30013,"Cascade County",Montana,MT,7.13393036167
+29091,"Howell County",Missouri,MO,7.13325241634
+46023,"Charles Mix County","South Dakota",SD,7.13038430494
+25005,"Bristol County",Massachusetts,MA,7.12952150239
+56011,"Crook County",Wyoming,WY,7.1287326155
+05015,"Carroll County",Arkansas,AR,7.12381132025
+46003,"Aurora County","South Dakota",SD,7.1235880661
+55057,"Juneau County",Wisconsin,WI,7.11844927614
+22051,"Jefferson Parish",Louisiana,LA,7.11682538986
+51093,"Isle of Wight County",Virginia,VA,7.11596803665
+51045,"Craig County",Virginia,VA,7.11547544267
+25003,"Berkshire County",Massachusetts,MA,7.10993952411
+28075,"Lauderdale County",Mississippi,MS,7.10973815918
+25011,"Franklin County",Massachusetts,MA,7.10947399554
+51037,"Charlotte County",Virginia,VA,7.10880668347
+36003,"Allegany County","New York",NY,7.10533794676
+31175,"Valley County",Nebraska,NE,7.10365416209
+46031,"Corson County","South Dakota",SD,7.10347342211
+30015,"Chouteau County",Montana,MT,7.10046967824
+51700,"Newport News city",Virginia,VA,7.10012316704
+51169,"Scott County",Virginia,VA,7.09936345251
+06111,"Ventura County",California,CA,7.09851331531
+36105,"Sullivan County","New York",NY,7.09789021313
+25023,"Plymouth County",Massachusetts,MA,7.09714557727
+08115,"Sedgwick County",Colorado,CO,7.09585730235
+26089,"Leelanau County",Michigan,MI,7.09573433616
+46063,"Harding County","South Dakota",SD,7.09263022534
+51175,"Southampton County",Virginia,VA,7.09165003425
+37075,"Graham County","North Carolina",NC,7.08838313818
+51800,"Suffolk city",Virginia,VA,7.08792088249
+55078,"Menominee County",Wisconsin,WI,7.08587825298
+48179,"Gray County",Texas,TX,7.08549291293
+51049,"Cumberland County",Virginia,VA,7.08545679516
+36013,"Chautauqua County","New York",NY,7.08344047497
+16033,"Clark County",Idaho,ID,7.08233192049
+46021,"Campbell County","South Dakota",SD,7.08229353428
+01023,"Choctaw County",Alabama,AL,7.08170520465
+36055,"Monroe County","New York",NY,7.08167982101
+26097,"Mackinac County",Michigan,MI,7.07868095636
+24011,"Caroline County",Maryland,MD,7.07846507159
+37009,"Ashe County","North Carolina",NC,7.07773936879
+22087,"St. Bernard Parish",Louisiana,LA,7.07681822777
+29209,"Stone County",Missouri,MO,7.07370012999
+48461,"Upton County",Texas,TX,7.07308442063
+12053,"Hernando County",Florida,FL,7.07277236666
+55141,"Wood County",Wisconsin,WI,7.06884815012
+12001,"Alachua County",Florida,FL,7.06863074643
+41015,"Curry County",Oregon,OR,7.06596647842
+01079,"Lawrence County",Alabama,AL,7.06442939151
+29105,"Laclede County",Missouri,MO,7.06341131874
+12011,"Broward County",Florida,FL,7.06324114519
+51650,"Hampton city",Virginia,VA,7.06251096725
+54025,"Greenbrier County","West Virginia",WV,7.06117902696
+51147,"Prince Edward County",Virginia,VA,7.05831036568
+29059,"Dallas County",Missouri,MO,7.05825956051
+51735,"Poquoson city",Virginia,VA,7.05668449402
+48129,"Donley County",Texas,TX,7.05634311835
+51191,"Washington County",Virginia,VA,7.05466407537
+20127,"Morris County",Kansas,KS,7.05211760781
+36051,"Livingston County","New York",NY,7.0454023225
+01119,"Sumter County",Alabama,AL,7.04006547928
+48103,"Crane County",Texas,TX,7.0389139002
+37127,"Nash County","North Carolina",NC,7.03643027474
+53013,"Columbia County",Washington,WA,7.03606449068
+40001,"Adair County",Oklahoma,OK,7.03533983231
+08089,"Otero County",Colorado,CO,7.034650392
+40075,"Kiowa County",Oklahoma,OK,7.03271707892
+30067,"Park County",Montana,MT,7.02927831045
+48335,"Mitchell County",Texas,TX,7.02823734283
+27099,"Mower County",Minnesota,MN,7.02689593179
+46089,"McPherson County","South Dakota",SD,7.02270873388
+13281,"Towns County",Georgia,GA,7.02227144241
+48173,"Glasscock County",Texas,TX,7.02138635635
+51065,"Fluvanna County",Virginia,VA,7.0198725462
+20189,"Stevens County",Kansas,KS,7.01958669316
+21043,"Carter County",Kentucky,KY,7.01902396862
+32007,"Elko County",Nevada,NV,7.01889794989
+55073,"Marathon County",Wisconsin,WI,7.01700592041
+21061,"Edmonson County",Kentucky,KY,7.01631895701
+46011,"Brookings County","South Dakota",SD,7.01534475599
+37195,"Wilson County","North Carolina",NC,7.01514496803
+51137,"Orange County",Virginia,VA,7.01470384598
+35029,"Luna County","New Mexico",NM,7.0138984165
+46105,"Perkins County","South Dakota",SD,7.00551179924
+39059,"Guernsey County",Ohio,OH,7.00426701938
+30059,"Meagher County",Montana,MT,7.00178698606
+12017,"Citrus County",Florida,FL,7.00024439307
+42015,"Bradford County",Pennsylvania,PA,6.9988293788
+46073,"Jerauld County","South Dakota",SD,6.9987908545
+55019,"Clark County",Wisconsin,WI,6.99786627293
+55107,"Rusk County",Wisconsin,WI,6.99622676179
+31089,"Holt County",Nebraska,NE,6.99607284252
+47163,"Sullivan County",Tennessee,TN,6.98756027222
+45073,"Oconee County","South Carolina",SC,6.98633449078
+37061,"Duplin County","North Carolina",NC,6.9829306221
+48345,"Motley County",Texas,TX,6.98088027954
+05113,"Polk County",Arkansas,AR,6.98001266409
+30041,"Hill County",Montana,MT,6.97623076704
+13299,"Ware County",Georgia,GA,6.97311986576
+41031,"Jefferson County",Oregon,OR,6.9681459641
+27157,"Wabasha County",Minnesota,MN,6.96601045132
+38089,"Stark County","North Dakota",ND,6.96575812076
+36069,"Ontario County","New York",NY,6.9649592638
+37043,"Clay County","North Carolina",NC,6.96191136042
+29207,"Stoddard County",Missouri,MO,6.96128339353
+16063,"Lincoln County",Idaho,ID,6.95970869064
+37029,"Camden County","North Carolina",NC,6.95829221937
+53075,"Whitman County",Washington,WA,6.95798664093
+46081,"Lawrence County","South Dakota",SD,6.95500780855
+42131,"Wyoming County",Pennsylvania,PA,6.95220189095
+31029,"Chase County",Nebraska,NE,6.95158664882
+24029,"Kent County",Maryland,MD,6.95139380864
+37053,"Currituck County","North Carolina",NC,6.95124224254
+08101,"Pueblo County",Colorado,CO,6.94343215991
+37131,"Northampton County","North Carolina",NC,6.94337247547
+48443,"Terrell County",Texas,TX,6.9417665077
+51003,"Albemarle County",Virginia,VA,6.94131542387
+46013,"Brown County","South Dakota",SD,6.93979310989
+30037,"Golden Valley County",Montana,MT,6.9383155081
+37073,"Gates County","North Carolina",NC,6.93577065468
+27055,"Houston County",Minnesota,MN,6.93416658315
+31015,"Boyd County",Nebraska,NE,6.93185362816
+36059,"Nassau County","New York",NY,6.92966692788
+46093,"Meade County","South Dakota",SD,6.92543213983
+24019,"Dorchester County",Maryland,MD,6.92377239115
+31073,"Gosper County",Nebraska,NE,6.92370446523
+48309,"McLennan County",Texas,TX,6.91827001572
+48263,"Kent County",Texas,TX,6.91797416687
+31071,"Garfield County",Nebraska,NE,6.90868008137
+55121,"Trempealeau County",Wisconsin,WI,6.9071128472
+26041,"Delta County",Michigan,MI,6.90678781012
+39121,"Noble County",Ohio,OH,6.90483801705
+12087,"Monroe County",Florida,FL,6.90039150715
+36117,"Wayne County","New York",NY,6.89485670271
+48195,"Hansford County",Texas,TX,6.89444961548
+30045,"Judith Basin County",Montana,MT,6.89420780715
+06079,"San Luis Obispo County",California,CA,6.8884290723
+37019,"Brunswick County","North Carolina",NC,6.88746188084
+22103,"St. Tammany Parish",Louisiana,LA,6.88739538193
+24041,"Talbot County",Maryland,MD,6.8848688943
+51029,"Buckingham County",Virginia,VA,6.88288536072
+48415,"Scurry County",Texas,TX,6.88177154462
+42115,"Susquehanna County",Pennsylvania,PA,6.88042765004
+37139,"Pasquotank County","North Carolina",NC,6.87341912587
+26017,"Bay County",Michigan,MI,6.87304348416
+31033,"Cheyenne County",Nebraska,NE,6.87136416435
+05005,"Baxter County",Arkansas,AR,6.87004716056
+48317,"Martin County",Texas,TX,6.8600165685
+24001,"Allegany County",Maryland,MD,6.85305849711
+30017,"Custer County",Montana,MT,6.85293982178
+37107,"Lenoir County","North Carolina",NC,6.84971042113
+21063,"Elliott County",Kentucky,KY,6.84919071198
+27001,"Aitkin County",Minnesota,MN,6.84603077268
+36071,"Orange County","New York",NY,6.84484480045
+06041,"Marin County",California,CA,6.8442662557
+36107,"Tioga County","New York",NY,6.84416597768
+24035,"Queen Anne's County",Maryland,MD,6.84358505408
+48125,"Dickens County",Texas,TX,6.84152736664
+09015,"Windham County",Connecticut,CT,6.83948040009
+37023,"Burke County","North Carolina",NC,6.83098838064
+13241,"Rabun County",Georgia,GA,6.83091324026
+29229,"Wright County",Missouri,MO,6.83080465317
+20187,"Stanton County",Kansas,KS,6.82314753532
+36007,"Broome County","New York",NY,6.82122673591
+27045,"Fillmore County",Minnesota,MN,6.8193894795
+16037,"Custer County",Idaho,ID,6.81730218287
+31087,"Hitchcock County",Nebraska,NE,6.81590671009
+04021,"Pinal County",Arizona,AZ,6.81434615453
+51165,"Rockingham County",Virginia,VA,6.81209879655
+48377,"Presidio County",Texas,TX,6.81161138186
+25015,"Hampshire County",Massachusetts,MA,6.8109041055
+37091,"Hertford County","North Carolina",NC,6.80983010205
+36079,"Putnam County","New York",NY,6.80621788237
+53043,"Lincoln County",Washington,WA,6.80443278674
+48003,"Andrews County",Texas,TX,6.80384615792
+39009,"Athens County",Ohio,OH,6.79519459605
+46045,"Edmunds County","South Dakota",SD,6.79217824069
+16019,"Bonneville County",Idaho,ID,6.79116836935
+47029,"Cocke County",Tennessee,TN,6.78875817571
+42117,"Tioga County",Pennsylvania,PA,6.78703745818
+12099,"Palm Beach County",Florida,FL,6.7856699449
+31145,"Red Willow County",Nebraska,NE,6.78165925874
+39115,"Morgan County",Ohio,OH,6.78139140056
+36123,"Yates County","New York",NY,6.7808787028
+30107,"Wheatland County",Montana,MT,6.78081542969
+37079,"Greene County","North Carolina",NC,6.77767875459
+55053,"Jackson County",Wisconsin,WI,6.76806895356
+05115,"Pope County",Arkansas,AR,6.76713385789
+30025,"Fallon County",Montana,MT,6.76709280176
+41039,"Lane County",Oregon,OR,6.765246617
+48243,"Jeff Davis County",Texas,TX,6.76343855262
+35035,"Otero County","New Mexico",NM,6.7582429791
+55081,"Monroe County",Wisconsin,WI,6.75739344529
+13111,"Fannin County",Georgia,GA,6.75143651962
+53039,"Klickitat County",Washington,WA,6.74706141438
+47059,"Greene County",Tennessee,TN,6.74294753075
+38011,"Bowman County","North Dakota",ND,6.73986408927
+55013,"Burnett County",Wisconsin,WI,6.73433742216
+48233,"Hutchinson County",Texas,TX,6.7316884613
+36099,"Seneca County","New York",NY,6.73133189338
+04012,"La Paz County",Arizona,AZ,6.72858031203
+20017,"Chase County",Kansas,KS,6.72764217377
+47179,"Washington County",Tennessee,TN,6.7264647007
+40139,"Texas County",Oklahoma,OK,6.72008465396
+51011,"Appomattox County",Virginia,VA,6.71820545197
+36021,"Columbia County","New York",NY,6.71674158356
+36015,"Chemung County","New York",NY,6.71442089081
+37083,"Halifax County","North Carolina",NC,6.70881768635
+48227,"Howard County",Texas,TX,6.70379070282
+36109,"Tompkins County","New York",NY,6.70198037889
+09005,"Litchfield County",Connecticut,CT,6.69351108372
+16065,"Madison County",Idaho,ID,6.69265305201
+08117,"Summit County",Colorado,CO,6.6894024743
+37143,"Perquimans County","North Carolina",NC,6.68924862146
+09011,"New London County",Connecticut,CT,6.68798401139
+36103,"Suffolk County","New York",NY,6.67975562619
+51031,"Campbell County",Virginia,VA,6.67559591929
+26095,"Luce County",Michigan,MI,6.67486330668
+31105,"Kimball County",Nebraska,NE,6.67443057263
+08043,"Fremont County",Colorado,CO,6.67427692811
+47091,"Johnson County",Tennessee,TN,6.67377710342
+49015,"Emery County",Utah,UT,6.67282677064
+48495,"Winkler County",Texas,TX,6.67232712832
+37103,"Jones County","North Carolina",NC,6.67135407374
+29225,"Webster County",Missouri,MO,6.66689912478
+38105,"Williams County","North Dakota",ND,6.66646077292
+36027,"Dutchess County","New York",NY,6.66201877594
+04025,"Yavapai County",Arizona,AZ,6.66183347905
+48371,"Pecos County",Texas,TX,6.65606444119
+48045,"Briscoe County",Texas,TX,6.65543400447
+51005,"Alleghany County",Virginia,VA,6.64920881816
+36119,"Westchester County","New York",NY,6.64436486789
+55069,"Lincoln County",Wisconsin,WI,6.64354290281
+51171,"Shenandoah County",Virginia,VA,6.64284989238
+36097,"Schuyler County","New York",NY,6.6296312809
+37133,"Onslow County","North Carolina",NC,6.62281755968
+53025,"Grant County",Washington,WA,6.62063288934
+54075,"Pocahontas County","West Virginia",WV,6.62006996473
+37041,"Chowan County","North Carolina",NC,6.61678640048
+36111,"Ulster County","New York",NY,6.61636197261
+25017,"Middlesex County",Massachusetts,MA,6.61221569379
+51023,"Botetourt County",Virginia,VA,6.61028328538
+36101,"Steuben County","New York",NY,6.6102584309
+33005,"Cheshire County","New Hampshire",NH,6.60576057434
+25009,"Essex County",Massachusetts,MA,6.60247070649
+51019,"Bedford County",Virginia,VA,6.60244452953
+51125,"Nelson County",Virginia,VA,6.60133475524
+46049,"Faulk County","South Dakota",SD,6.60062519312
+36011,"Cayuga County","New York",NY,6.59827974319
+29067,"Douglas County",Missouri,MO,6.58979482121
+36025,"Delaware County","New York",NY,6.58754020929
+37147,"Pitt County","North Carolina",NC,6.58358179896
+26153,"Schoolcraft County",Michigan,MI,6.58284135965
+37015,"Bertie County","North Carolina",NC,6.5752485139
+41011,"Coos County",Oregon,OR,6.57517188203
+48475,"Ward County",Texas,TX,6.57437144793
+55099,"Price County",Wisconsin,WI,6.56927807387
+31049,"Deuel County",Nebraska,NE,6.56638942824
+53007,"Chelan County",Washington,WA,6.56442695145
+46059,"Hand County","South Dakota",SD,6.56322780921
+30097,"Sweet Grass County",Montana,MT,6.56293013221
+05129,"Searcy County",Arkansas,AR,6.56090335846
+48165,"Gaines County",Texas,TX,6.54594869084
+51680,"Lynchburg city",Virginia,VA,6.54275798798
+37049,"Craven County","North Carolina",NC,6.54078907437
+26003,"Alger County",Michigan,MI,6.5378866811
+48065,"Carson County",Texas,TX,6.53593284607
+29077,"Greene County",Missouri,MO,6.53354562653
+16013,"Blaine County",Idaho,ID,6.5271806212
+48011,"Armstrong County",Texas,TX,6.52694721222
+27115,"Pine County",Minnesota,MN,6.52604972323
+05071,"Johnson County",Arkansas,AR,6.52521846692
+08009,"Baca County",Colorado,CO,6.52389259462
+48033,"Borden County",Texas,TX,6.52190947533
+51157,"Rappahannock County",Virginia,VA,6.51874089241
+38023,"Divide County","North Dakota",ND,6.51812397915
+36023,"Cortland County","New York",NY,6.5145239234
+24023,"Garrett County",Maryland,MD,6.51392724991
+35057,"Torrance County","New Mexico",NM,6.51385306386
+50021,"Rutland County",Vermont,VT,6.51122359931
+30095,"Stillwater County",Montana,MT,6.50998733838
+46129,"Walworth County","South Dakota",SD,6.50831920129
+29043,"Christian County",Missouri,MO,6.5050655206
+51015,"Augusta County",Virginia,VA,6.50019854307
+37113,"Macon County","North Carolina",NC,6.49746821721
+36017,"Chenango County","New York",NY,6.49703752583
+48115,"Dawson County",Texas,TX,6.49176049232
+55067,"Langlade County",Wisconsin,WI,6.48254402479
+54083,"Randolph County","West Virginia",WV,6.48250753649
+48153,"Floyd County",Texas,TX,6.48058899244
+32003,"Clark County",Nevada,NV,6.47866776387
+10001,"Kent County",Delaware,DE,6.47493470343
+56045,"Weston County",Wyoming,WY,6.47445986189
+30003,"Big Horn County",Montana,MT,6.4709913579
+44005,"Newport County","Rhode Island",RI,6.46733967463
+16067,"Minidoka County",Idaho,ID,6.46374287972
+37141,"Pender County","North Carolina",NC,6.4631917278
+22071,"Orleans Parish",Louisiana,LA,6.46207761765
+48169,"Garza County",Texas,TX,6.46037826538
+54031,"Hardy County","West Virginia",WV,6.45166809419
+41055,"Sherman County",Oregon,OR,6.45164915494
+46103,"Pennington County","South Dakota",SD,6.44766098064
+13123,"Gilmer County",Georgia,GA,6.44597438404
+27169,"Winona County",Minnesota,MN,6.44277263823
+37117,"Martin County","North Carolina",NC,6.44124794006
+46015,"Brule County","South Dakota",SD,6.44074935913
+49027,"Millard County",Utah,UT,6.430055703
+26043,"Dickinson County",Michigan,MI,6.42259662492
+48501,"Yoakum County",Texas,TX,6.41887468338
+29153,"Ozark County",Missouri,MO,6.40873912403
+36039,"Greene County","New York",NY,6.40042473021
+32017,"Lincoln County",Nevada,NV,6.39647234859
+56023,"Lincoln County",Wyoming,WY,6.393823734
+49047,"Uintah County",Utah,UT,6.39363538796
+41061,"Union County",Oregon,OR,6.39093049594
+46053,"Gregory County","South Dakota",SD,6.38961353022
+37189,"Watauga County","North Carolina",NC,6.38541087237
+44003,"Kent County","Rhode Island",RI,6.3831990242
+13049,"Charlton County",Georgia,GA,6.37883637349
+48107,"Crosby County",Texas,TX,6.37683560054
+31047,"Dawson County",Nebraska,NE,6.37522143126
+38087,"Slope County","North Dakota",ND,6.36886604973
+54057,"Mineral County","West Virginia",WV,6.36669816971
+30109,"Wibaux County",Montana,MT,6.36643221719
+36083,"Rensselaer County","New York",NY,6.36521041961
+47019,"Carter County",Tennessee,TN,6.36497979164
+36067,"Onondaga County","New York",NY,6.36482913971
+26019,"Benzie County",Michigan,MI,6.34760574194
+26105,"Mason County",Michigan,MI,6.34351330537
+48445,"Terry County",Texas,TX,6.33855894407
+36075,"Oswego County","New York",NY,6.32837807748
+48389,"Reeves County",Texas,TX,6.32306893248
+47171,"Unicoi County",Tennessee,TN,6.32236242294
+36001,"Albany County","New York",NY,6.31767810186
+05089,"Marion County",Arkansas,AR,6.31668546465
+46137,"Ziebach County","South Dakota",SD,6.3141062657
+31063,"Frontier County",Nebraska,NE,6.30597988764
+06069,"San Benito County",California,CA,6.30420141685
+27109,"Olmsted County",Minnesota,MN,6.30143461227
+35025,"Lea County","New Mexico",NM,6.28715064449
+30079,"Prairie County",Montana,MT,6.28701082865
+48305,"Lynn County",Texas,TX,6.284057827
+51017,"Bath County",Virginia,VA,6.28375094732
+38033,"Golden Valley County","North Dakota",ND,6.28189358711
+37173,"Swain County","North Carolina",NC,6.27813461423
+20129,"Morton County",Kansas,KS,6.27563016415
+33015,"Rockingham County","New Hampshire",NH,6.27502847672
+55113,"Sawyer County",Wisconsin,WI,6.27454625236
+04019,"Pima County",Arizona,AZ,6.2682226155
+31135,"Perkins County",Nebraska,NE,6.26799493366
+51009,"Amherst County",Virginia,VA,6.26576862335
+16023,"Butte County",Idaho,ID,6.26348920064
+37129,"New Hanover County","North Carolina",NC,6.26164979935
+51091,"Highland County",Virginia,VA,6.26121971824
+31085,"Hayes County",Nebraska,NE,6.25297751029
+48437,"Swisher County",Texas,TX,6.24502700806
+30103,"Treasure County",Montana,MT,6.24382324517
+48303,"Lubbock County",Texas,TX,6.23697946548
+13213,"Murray County",Georgia,GA,6.23274197578
+55129,"Washburn County",Wisconsin,WI,6.23123890559
+30071,"Phillips County",Montana,MT,6.23095213175
+08103,"Rio Blanco County",Colorado,CO,6.23024708446
+48189,"Hale County",Texas,TX,6.22948339462
+36093,"Schenectady County","New York",NY,6.22928830556
+41059,"Umatilla County",Oregon,OR,6.2206008264
+37021,"Buncombe County","North Carolina",NC,6.21572771527
+37013,"Beaufort County","North Carolina",NC,6.21280191342
+48375,"Potter County",Texas,TX,6.21079524358
+48341,"Moore County",Texas,TX,6.20710487366
+51079,"Greene County",Virginia,VA,6.20260035992
+48381,"Randall County",Texas,TX,6.20061608156
+55037,"Florence County",Wisconsin,WI,6.19842571682
+48219,"Hockley County",Texas,TX,6.19337663651
+37115,"Madison County","North Carolina",NC,6.1913104852
+37089,"Henderson County","North Carolina",NC,6.19096465544
+48301,"Loving County",Texas,TX,6.18668188368
+36095,"Schoharie County","New York",NY,6.18520559583
+30033,"Garfield County",Montana,MT,6.18278607358
+26103,"Marquette County",Michigan,MI,6.18237439413
+37199,"Yancey County","North Carolina",NC,6.1729771826
+05009,"Boone County",Arkansas,AR,6.16304764152
+37111,"McDowell County","North Carolina",NC,6.15920202549
+37031,"Carteret County","North Carolina",NC,6.15584250859
+37065,"Edgecombe County","North Carolina",NC,6.15577150981
+48421,"Sherman County",Texas,TX,6.15180333455
+36087,"Rockland County","New York",NY,6.14777787526
+36045,"Jefferson County","New York",NY,6.13670420647
+08069,"Larimer County",Colorado,CO,6.13312003246
+37099,"Jackson County","North Carolina",NC,6.12359609604
+30009,"Carbon County",Montana,MT,6.12258346171
+30021,"Dawson County",Montana,MT,6.11130345288
+46017,"Buffalo County","South Dakota",SD,6.11086216569
+36091,"Saratoga County","New York",NY,6.10799791195
+48279,"Lamb County",Texas,TX,6.10639476776
+37187,"Washington County","North Carolina",NC,6.10239986579
+48079,"Cochran County",Texas,TX,6.09446338654
+30027,"Fergus County",Montana,MT,6.09035317726
+31069,"Garden County",Nebraska,NE,6.08474349093
+29213,"Taney County",Missouri,MO,6.08265556892
+48069,"Castro County",Texas,TX,6.08140935898
+37137,"Pamlico County","North Carolina",NC,6.0773861625
+36077,"Otsego County","New York",NY,6.07540881249
+55041,"Forest County",Wisconsin,WI,6.06607017517
+55085,"Oneida County",Wisconsin,WI,6.06596455367
+30069,"Petroleum County",Montana,MT,6.06184845135
+49009,"Daggett County",Utah,UT,6.05335802502
+55003,"Ashland County",Wisconsin,WI,6.05164866014
+30105,"Valley County",Montana,MT,6.05030727694
+35051,"Sierra County","New Mexico",NM,6.04873017867
+06087,"Santa Cruz County",California,CA,6.0459394455
+36053,"Madison County","New York",NY,6.03470976456
+37121,"Mitchell County","North Carolina",NC,6.03319433757
+30005,"Blaine County",Montana,MT,6.03031566786
+38007,"Billings County","North Dakota",ND,6.02764185497
+06015,"Del Norte County",California,CA,6.0219355471
+26071,"Iron County",Michigan,MI,6.01903045177
+53037,"Kittitas County",Washington,WA,6.00553381145
+48109,"Culberson County",Texas,TX,6.00301533179
+46041,"Dewey County","South Dakota",SD,6.00215955214
+30083,"Richland County",Montana,MT,5.98934688816
+36115,"Washington County","New York",NY,5.98733349769
+08071,"Las Animas County",Colorado,CO,5.98541188409
+30087,"Rosebud County",Montana,MT,5.98169685107
+36057,"Montgomery County","New York",NY,5.98035039902
+54071,"Pendleton County","West Virginia",WV,5.97588754737
+23011,"Kennebec County",Maine,ME,5.97570313513
+44009,"Washington County","Rhode Island",RI,5.9743209362
+53071,"Walla Walla County",Washington,WA,5.97367043828
+48043,"Brewster County",Texas,TX,5.95006009902
+48117,"Deaf Smith County",Texas,TX,5.94315106339
+48359,"Oldham County",Texas,TX,5.92851655748
+50001,"Addison County",Vermont,VT,5.91559131329
+31149,"Rock County",Nebraska,NE,5.91481225193
+49041,"Sevier County",Utah,UT,5.91219494173
+40025,"Cimarron County",Oklahoma,OK,5.91184549332
+16043,"Fremont County",Idaho,ID,5.91097918011
+56021,"Laramie County",Wyoming,WY,5.90477565357
+53001,"Adams County",Washington,WA,5.88813789429
+23001,"Androscoggin County",Maine,ME,5.88754600949
+25019,"Nantucket County",Massachusetts,MA,5.88709910711
+36035,"Fulton County","New York",NY,5.88379526138
+50027,"Windsor County",Vermont,VT,5.88177291809
+06083,"Santa Barbara County",California,CA,5.88136735747
+26101,"Manistee County",Michigan,MI,5.88118809745
+33017,"Strafford County","New Hampshire",NH,5.87939596176
+31101,"Keith County",Nebraska,NE,5.87842902905
+48017,"Bailey County",Texas,TX,5.8733962604
+23031,"York County",Maine,ME,5.87255854905
+41065,"Wasco County",Oregon,OR,5.87204846775
+55051,"Iron County",Wisconsin,WI,5.86699687518
+08081,"Moffat County",Colorado,CO,5.8529659907
+31115,"Loup County",Nebraska,NE,5.84884409904
+35006,"Cibola County","New Mexico",NM,5.84718324136
+33019,"Sullivan County","New Hampshire",NH,5.8398563332
+51113,"Madison County",Virginia,VA,5.83886397969
+56033,"Sheridan County",Wyoming,WY,5.83313120666
+36049,"Lewis County","New York",NY,5.83257328078
+06053,"Monterey County",California,CA,5.8323871096
+41043,"Linn County",Oregon,OR,5.8217248611
+51163,"Rockbridge County",Virginia,VA,5.81777334213
+48369,"Parmer County",Texas,TX,5.8033981514
+35019,"Guadalupe County","New Mexico",NM,5.79961052418
+36113,"Warren County","New York",NY,5.77742718061
+48205,"Hartley County",Texas,TX,5.77475921843
+31103,"Keya Paha County",Nebraska,NE,5.75294916718
+31041,"Custer County",Nebraska,NE,5.74877367491
+55125,"Vilas County",Wisconsin,WI,5.74461537249
+46102,"Oglala Lakota County","South Dakota",SD,5.74176941812
+08049,"Grand County",Colorado,CO,5.74065049908
+48111,"Dallam County",Texas,TX,5.73270347383
+35015,"Eddy County","New Mexico",NM,5.7285537119
+41047,"Marion County",Oregon,OR,5.72749559879
+35049,"Santa Fe County","New Mexico",NM,5.7177100346
+37055,"Dare County","North Carolina",NC,5.7175116539
+08077,"Mesa County",Colorado,CO,5.70592494444
+56003,"Big Horn County",Wyoming,WY,5.70506706238
+30055,"McCone County",Montana,MT,5.7039815817
+50013,"Grand Isle County",Vermont,VT,5.70043449402
+35043,"Sandoval County","New Mexico",NM,5.69299755193
+26053,"Gogebic County",Michigan,MI,5.68998975754
+46033,"Custer County","South Dakota",SD,5.6787474788
+46069,"Hyde County","South Dakota",SD,5.67732833862
+26013,"Baraga County",Michigan,MI,5.67028133571
+31123,"Morrill County",Nebraska,NE,5.66421303219
+49021,"Iron County",Utah,UT,5.6563185215
+56019,"Johnson County",Wyoming,WY,5.65542229503
+23015,"Lincoln County",Maine,ME,5.65076879355
+08015,"Chaffee County",Colorado,CO,5.63727605343
+23005,"Cumberland County",Maine,ME,5.62617960284
+08029,"Delta County",Colorado,CO,5.62036808117
+05101,"Newton County",Arkansas,AR,5.61688574155
+46055,"Haakon County","South Dakota",SD,5.60999341597
+31005,"Arthur County",Nebraska,NE,5.60927481121
+16081,"Teton County",Idaho,ID,5.60461164923
+31161,"Sheridan County",Nebraska,NE,5.59019440696
+31045,"Dawes County",Nebraska,NE,5.58598639244
+35041,"Roosevelt County","New Mexico",NM,5.58458366394
+36041,"Hamilton County","New York",NY,5.5817357204
+46107,"Potter County","South Dakota",SD,5.5800408572
+51139,"Page County",Virginia,VA,5.57976086934
+33013,"Merrimack County","New Hampshire",NH,5.57735073566
+35047,"San Miguel County","New Mexico",NM,5.57681385096
+36065,"Oneida County","New York",NY,5.57675489187
+25001,"Barnstable County",Massachusetts,MA,5.5688497339
+56027,"Niobrara County",Wyoming,WY,5.56839633542
+53021,"Franklin County",Washington,WA,5.5612475872
+31075,"Grant County",Nebraska,NE,5.5611780371
+36043,"Herkimer County","New York",NY,5.55787391866
+56015,"Goshen County",Wyoming,WY,5.5461663209
+50007,"Chittenden County",Vermont,VT,5.54575636076
+36089,"St. Lawrence County","New York",NY,5.53383375769
+35011,"De Baca County","New Mexico",NM,5.53102132252
+55007,"Bayfield County",Wisconsin,WI,5.53028890322
+37177,"Tyrrell County","North Carolina",NC,5.5263759613
+50017,"Orange County",Vermont,VT,5.51960629225
+35009,"Curry County","New Mexico",NM,5.50719790025
+46007,"Bennett County","South Dakota",SD,5.50087707471
+46123,"Tripp County","South Dakota",SD,5.4848536253
+41071,"Yamhill County",Oregon,OR,5.48063079834
+35005,"Chaves County","New Mexico",NM,5.47704328606
+32033,"White Pine County",Nevada,NV,5.47686795001
+31007,"Banner County",Nebraska,NE,5.47539324988
+37087,"Haywood County","North Carolina",NC,5.45262005925
+46071,"Jackson County","South Dakota",SD,5.44826388014
+23023,"Sagadahoc County",Maine,ME,5.44501965387
+49019,"Grand County",Utah,UT,5.43470142768
+31013,"Box Butte County",Nebraska,NE,5.42509004944
+41067,"Washington County",Oregon,OR,5.4242379482
+54093,"Tucker County","West Virginia",WV,5.42230008199
+04007,"Gila County",Arizona,AZ,5.41292980249
+35053,"Socorro County","New Mexico",NM,5.40656460505
+54023,"Grant County","West Virginia",WV,5.40466199602
+49053,"Washington County",Utah,UT,5.39250975667
+56037,"Sweetwater County",Wyoming,WY,5.38969504764
+53035,"Kitsap County",Washington,WA,5.38947490283
+31111,"Lincoln County",Nebraska,NE,5.38831708648
+26131,"Ontonagon County",Michigan,MI,5.38714077075
+41053,"Polk County",Oregon,OR,5.37359373386
+56017,"Hot Springs County",Wyoming,WY,5.37239693894
+56031,"Platte County",Wyoming,WY,5.37009894053
+23007,"Franklin County",Maine,ME,5.36870257329
+31165,"Sioux County",Nebraska,NE,5.36725393931
+33011,"Hillsborough County","New Hampshire",NH,5.3666484091
+35037,"Quay County","New Mexico",NM,5.36372746243
+56043,"Washakie County",Wyoming,WY,5.35614261074
+35059,"Union County","New Mexico",NM,5.34979644514
+35023,"Hidalgo County","New Mexico",NM,5.34505595253
+37011,"Avery County","North Carolina",NC,5.3442089217
+56013,"Fremont County",Wyoming,WY,5.34306931264
+41057,"Tillamook County",Oregon,OR,5.34223299026
+46047,"Fall River County","South Dakota",SD,5.33376297517
+50025,"Windham County",Vermont,VT,5.32497639656
+50003,"Bennington County",Vermont,VT,5.32293073698
+49001,"Beaver County",Utah,UT,5.3070086184
+50023,"Washington County",Vermont,VT,5.26820553433
+46121,"Todd County","South Dakota",SD,5.26651109349
+36031,"Essex County","New York",NY,5.25578109045
+35021,"Harding County","New Mexico",NM,5.25056276321
+08055,"Huerfano County",Colorado,CO,5.25028245345
+04003,"Cochise County",Arizona,AZ,5.24436239799
+50011,"Franklin County",Vermont,VT,5.2420706749
+41051,"Multnomah County",Oregon,OR,5.2302664121
+23017,"Oxford County",Maine,ME,5.21867879441
+36019,"Clinton County","New York",NY,5.21814223882
+27137,"St. Louis County",Minnesota,MN,5.20144609594
+08027,"Custer County",Colorado,CO,5.19078888064
+30019,"Daniels County",Montana,MT,5.1865829019
+41003,"Benton County",Oregon,OR,5.18616288049
+23013,"Knox County",Maine,ME,5.17535187981
+26061,"Houghton County",Michigan,MI,5.17077650168
+41041,"Lincoln County",Oregon,OR,5.15977452142
+46095,"Mellette County","South Dakota",SD,5.1571521759
+31031,"Cherry County",Nebraska,NE,5.14585442066
+08065,"Lake County",Colorado,CO,5.13497779586
+25007,"Dukes County",Massachusetts,MA,5.1327419281
+30085,"Roosevelt County",Montana,MT,5.10535235685
+33001,"Belknap County","New Hampshire",NH,5.10239839554
+30091,"Sheridan County",Montana,MT,5.10113639832
+08045,"Garfield County",Colorado,CO,5.09647325107
+35033,"Mora County","New Mexico",NM,5.07977283918
+41007,"Clatsop County",Oregon,OR,5.07511493683
+31017,"Brown County",Nebraska,NE,5.04990904506
+04009,"Graham County",Arizona,AZ,5.04926695273
+56001,"Albany County",Wyoming,WY,5.04806498514
+46085,"Lyman County","South Dakota",SD,5.03776383785
+53061,"Snohomish County",Washington,WA,5.03717566588
+50019,"Orleans County",Vermont,VT,5.03703457659
+53011,"Clark County",Washington,WA,5.03405996323
+33009,"Grafton County","New Hampshire",NH,5.02563282847
+50005,"Caledonia County",Vermont,VT,5.02495798198
+31117,"McPherson County",Nebraska,NE,5.01933190936
+23025,"Somerset County",Maine,ME,5.01882658542
+36033,"Franklin County","New York",NY,5.01505102191
+31157,"Scotts Bluff County",Nebraska,NE,5.00401456015
+56029,"Park County",Wyoming,WY,4.99323673291
+04015,"Mohave County",Arizona,AZ,4.9879305739
+56039,"Teton County",Wyoming,WY,4.98133738953
+35031,"McKinley County","New Mexico",NM,4.97480614778
+37175,"Transylvania County","North Carolina",NC,4.96696420149
+55031,"Douglas County",Wisconsin,WI,4.96212053299
+31091,"Hooker County",Nebraska,NE,4.96003580093
+49031,"Piute County",Utah,UT,4.89812980652
+56009,"Converse County",Wyoming,WY,4.87984511368
+41009,"Columbia County",Oregon,OR,4.86967335577
+50015,"Lamoille County",Vermont,VT,4.85820636749
+27017,"Carlton County",Minnesota,MN,4.84238939732
+41005,"Clackamas County",Oregon,OR,4.84142267893
+35017,"Grant County","New Mexico",NM,4.83617910658
+08085,"Montrose County",Colorado,CO,4.82927942929
+35027,"Lincoln County","New Mexico",NM,4.82697714215
+53053,"Pierce County",Washington,WA,4.82141860744
+53067,"Thurston County",Washington,WA,4.80944459255
+53045,"Mason County",Washington,WA,4.80608907113
+23027,"Waldo County",Maine,ME,4.79641594206
+37095,"Hyde County","North Carolina",NC,4.7922175307
+56035,"Sublette County",Wyoming,WY,4.76027219932
+46075,"Jones County","South Dakota",SD,4.75766204085
+50009,"Essex County",Vermont,VT,4.75471955254
+27075,"Lake County",Minnesota,MN,4.74639028235
+53057,"Skagit County",Washington,WA,4.71110081327
+46117,"Stanley County","South Dakota",SD,4.71091672549
+53069,"Wahkiakum County",Washington,WA,4.69979116652
+53015,"Cowlitz County",Washington,WA,4.67511918094
+53049,"Pacific County",Washington,WA,4.66526335683
+35007,"Colfax County","New Mexico",NM,4.64417494758
+08037,"Eagle County",Colorado,CO,4.58693833993
+33003,"Carroll County","New Hampshire",NH,4.58437875112
+56007,"Carbon County",Wyoming,WY,4.57441449075
+46119,"Sully County","South Dakota",SD,4.56426781577
+31009,"Blaine County",Nebraska,NE,4.55981924136
+53033,"King County",Washington,WA,4.54485484316
+26083,"Keweenaw County",Michigan,MI,4.51724299263
+23021,"Piscataquis County",Maine,ME,4.50138586636
+53027,"Grays Harbor County",Washington,WA,4.50077372628
+31113,"Logan County",Nebraska,NE,4.45450487137
+08057,"Jackson County",Colorado,CO,4.44129460685
+53059,"Skamania County",Washington,WA,4.44037650399
+53055,"San Juan County",Washington,WA,4.43979048729
+35003,"Catron County","New Mexico",NM,4.41115768363
+23003,"Aroostook County",Maine,ME,4.40561302736
+46065,"Hughes County","South Dakota",SD,4.39198978742
+56025,"Natrona County",Wyoming,WY,4.3869791708
+53029,"Island County",Washington,WA,4.37888000011
+35055,"Taos County","New Mexico",NM,4.34274038928
+53031,"Jefferson County",Washington,WA,4.30226580776
+27031,"Cook County",Minnesota,MN,4.30060680438
+35039,"Rio Arriba County","New Mexico",NM,4.29294325331
+31171,"Thomas County",Nebraska,NE,4.26917525132
+08051,"Gunnison County",Colorado,CO,4.2680536285
+49055,"Wayne County",Utah,UT,4.2533792066
+08109,"Saguache County",Colorado,CO,4.20441402019
+04005,"Coconino County",Arizona,AZ,4.16174944014
+53041,"Lewis County",Washington,WA,4.15385437299
+33007,"Coos County","New Hampshire",NH,4.1305161847
+23019,"Penobscot County",Maine,ME,4.12878411431
+41027,"Hood River County",Oregon,OR,4.08892852068
+49025,"Kane County",Utah,UT,4.0765937667
+04011,"Greenlee County",Arizona,AZ,4.07382835082
+35045,"San Juan County","New Mexico",NM,4.05917063832
+35028,"Los Alamos County","New Mexico",NM,4.04937207699
+49017,"Garfield County",Utah,UT,4.03700331118
+49037,"San Juan County",Utah,UT,3.99527496819
+53073,"Whatcom County",Washington,WA,3.99505482849
+08091,"Ouray County",Colorado,CO,3.97115461967
+08113,"San Miguel County",Colorado,CO,3.95460929522
+53009,"Clallam County",Washington,WA,3.9014064944
+08023,"Costilla County",Colorado,CO,3.89846970818
+23009,"Hancock County",Maine,ME,3.88274258038
+08021,"Conejos County",Colorado,CO,3.84976698371
+08067,"La Plata County",Colorado,CO,3.83534531593
+08107,"Routt County",Colorado,CO,3.8250765599
+04017,"Navajo County",Arizona,AZ,3.7995572807
+08105,"Rio Grande County",Colorado,CO,3.70742558611
+08033,"Dolores County",Colorado,CO,3.62886536444
+08053,"Hinsdale County",Colorado,CO,3.61000893962
+08003,"Alamosa County",Colorado,CO,3.59930830342
+23029,"Washington County",Maine,ME,3.58676493452
+08079,"Mineral County",Colorado,CO,3.58322210147
+08007,"Archuleta County",Colorado,CO,3.56092225539
+08097,"Pitkin County",Colorado,CO,3.5234624109
+08083,"Montezuma County",Colorado,CO,3.36221004369
+04001,"Apache County",Arizona,AZ,3.34209945714
+08111,"San Juan County",Colorado,CO,3.0274480673
+08014,"Broomfield County",Colorado,CO,0
+51510,"Alexandria city",Virginia,VA,0
+51530,"Buena Vista city",Virginia,VA,0
+51540,"Charlottesville city",Virginia,VA,0
+51580,"Covington city",Virginia,VA,0
+51595,"Emporia city",Virginia,VA,0
+51610,"Falls Church city",Virginia,VA,0
+51620,"Franklin city",Virginia,VA,0
+51630,"Fredericksburg city",Virginia,VA,0
+51640,"Galax city",Virginia,VA,0
+51660,"Harrisonburg city",Virginia,VA,0
+51670,"Hopewell city",Virginia,VA,0
+51678,"Lexington city",Virginia,VA,0
+51683,"Manassas city",Virginia,VA,0
+51685,"Manassas Park city",Virginia,VA,0
+51720,"Norton city",Virginia,VA,0
+51750,"Radford city",Virginia,VA,0
+51775,"Salem city",Virginia,VA,0
+51790,"Staunton city",Virginia,VA,0
+51820,"Waynesboro city",Virginia,VA,0
+51830,"Williamsburg city",Virginia,VA,0
+51840,"Winchester city",Virginia,VA,0

@@ -1,0 +1,78 @@
+Measure,General Area,Focus Area,Description,Source
+Premature death*,HEALTH OUTCOMES,Length of Life,"Years of potential life lost before age 75 per 100,000 population (age-adjusted).",National Center for Health Statistics - Mortality Files
+Poor or fair health,HEALTH OUTCOMES,Quality of Life,Percentage of adults reporting fair or poor health (age-adjusted).,Behavioral Risk Factor Surveillance System
+Poor physical health days,HEALTH OUTCOMES,Quality of Life,Average number of physically unhealthy days reported in past 30 days (age-adjusted).,Behavioral Risk Factor Surveillance System
+Poor mental health days,HEALTH OUTCOMES,Quality of Life,Average number of mentally unhealthy days reported in past 30 days (age-adjusted).,Behavioral Risk Factor Surveillance System
+Low birthweight*,HEALTH OUTCOMES,Quality of Life,"Percentage of live births with low birthweight (< 2,500 grams).",National Center for Health Statistics - Natality files
+Adult smoking,HEALTH FACTORS / HEALTH BEHAVIORS,Tobacco Use,Percentage of adults who are current smokers.,Behavioral Risk Factor Surveillance System
+Adult obesity,HEALTH FACTORS / HEALTH BEHAVIORS,Diet and Exercise,Percentage of the adult population (age 20 and older) that reports a body mass index (BMI) greater than or equal to 30 kg/m2.,United States Diabetes Surveillance System
+Food environment index,HEALTH FACTORS / HEALTH BEHAVIORS,Diet and Exercise,"Index of factors that contribute to a healthy food environment, from 0 (worst) to 10 (best).","USDA Food Environment Atlas, Map the Meal Gap from Feeding America"
+Physical inactivity,HEALTH FACTORS / HEALTH BEHAVIORS,Diet and Exercise,Percentage of adults age 20 and over reporting no leisure-time physical activity.,United States Diabetes Surveillance System
+Access to exercise opportunities,HEALTH FACTORS / HEALTH BEHAVIORS,Diet and Exercise,Percentage of population with adequate access to locations for physical activity.,"Business Analyst, Delorme map data, ESRI, & US Census Tigerline Files"
+Excessive drinking,HEALTH FACTORS / HEALTH BEHAVIORS,Alcohol and Drug Use,Percentage of adults reporting binge or heavy drinking.,Behavioral Risk Factor Surveillance System
+Alcohol-impaired driving deaths,HEALTH FACTORS / HEALTH BEHAVIORS,Alcohol and Drug Use,Percentage of driving deaths with alcohol involvement.,Fatality Analysis Reporting System
+Sexually transmitted infections,HEALTH FACTORS / HEALTH BEHAVIORS,Sexual Activity,"Number of newly diagnosed chlamydia cases per 100,000 population.","National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention"
+Teen births*,HEALTH FACTORS / HEALTH BEHAVIORS,Sexual Activity,"Number of births per 1,000 female population ages 15-19.",National Center for Health Statistics - Natality files
+Uninsured,CLINICAL CARE,Access to Care,Percentage of population under age 65 without health insurance.,Small Area Health Insurance Estimates
+Primary care physicians,CLINICAL CARE,Access to Care,Ratio of population to primary care physicians.,Area Health Resource File/American Medical Association
+Dentists,CLINICAL CARE,Access to Care,Ratio of population to dentists.,Area Health Resource File/National Provider Identification file
+Mental health providers,CLINICAL CARE,Access to Care,Ratio of population to mental health providers.,"CMS, National Provider Identification"
+Preventable hospital stays*,CLINICAL CARE,Quality of Care,"Rate of hospital stays for ambulatory-care sensitive conditions per 100,000 Medicare enrollees.",Mapping Medicare Disparities Tool
+Mammography screening*,CLINICAL CARE,Quality of Care,Percentage of female Medicare enrollees ages 65-74 that received an annual mammography screening.,Mapping Medicare Disparities Tool
+Flu vaccinations*,CLINICAL CARE,Quality of Care,Percentage of fee-for-service (FFS) Medicare enrollees that had an annual flu vaccination.,Mapping Medicare Disparities Tool
+High school graduation,SOCIAL & ECONOMIC FACTORS,Education,Percentage of ninth-grade cohort that graduates in four years.,State-specific sources & EDFacts
+Some college,SOCIAL & ECONOMIC FACTORS,Education,Percentage of adults ages 25-44 with some post-secondary education.,"American Community Survey, 5-year estimates"
+Unemployment,SOCIAL & ECONOMIC FACTORS,Employment,Percentage of population ages 16 and older unemployed but seeking work.,Bureau of Labor Statistics
+Children in poverty*,SOCIAL & ECONOMIC FACTORS,Income,Percentage of people under age 18 in poverty.,Small Area Income and Poverty Estimates
+Income inequality,SOCIAL & ECONOMIC FACTORS,Income,Ratio of household income at the 80th percentile to income at the 20th percentile.,"American Community Survey, 5-year estimates"
+Children in single-parent households,SOCIAL & ECONOMIC FACTORS,Family and Social Support,Percentage of children that live in a household headed by single parent.,"American Community Survey, 5-year estimates"
+Social associations,SOCIAL & ECONOMIC FACTORS,Family and Social Support,"Number of membership associations per 10,000 population.",County Business Patterns
+Violent crime,SOCIAL & ECONOMIC FACTORS,Community Safety,"Number of reported violent crime offenses per 100,000 population.",Uniform Crime Reporting - FBI
+Injury deaths*,SOCIAL & ECONOMIC FACTORS,Community Safety,"Number of deaths due to injury per 100,000 population.",National Center for Health Statistics - Mortality Files
+Air pollution - particulate matter+,PHYSICAL ENVIRONMENT,Air and Water Quality,Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5).,Environmental Public Health Tracking Network
+Drinking water violations,PHYSICAL ENVIRONMENT,Air and Water Quality,"Indicator of the presence of health-related drinking water violations. 'Yes' indicates the presence of a violation, 'No' indicates no violation.",Safe Drinking Water Information System
+Severe housing problems,PHYSICAL ENVIRONMENT,Housing and Transit,"Percentage of households with at least 1 of 4 housing problems: overcrowding, high housing costs, lack of kitchen facilities, or lack of plumbing facilities.",Comprehensive Housing Affordability Strategy (CHAS) data
+Driving alone to work*,PHYSICAL ENVIRONMENT,Housing and Transit,Percentage of the workforce that drives alone to work.,"American Community Survey, 5-year estimates"
+Long commute - driving alone,PHYSICAL ENVIRONMENT,Housing and Transit,"Among workers who commute in their car alone, the percentage that commute more than 30 minutes.","American Community Survey, 5-year estimates"
+Life expectancy*,HEALTH OUTCOMES,Length of Life,Average number of years a person can expect to live.,National Center for Health Statistics - Mortality Files
+Premature age-adjusted mortality*,HEALTH OUTCOMES,Length of Life,"Number of deaths among residents under age 75 per 100,000 population (age-adjusted).",National Center for Health Statistics - Mortality Files
+Child mortality*,HEALTH OUTCOMES,Length of Life,"Number of deaths among children under age 18 per 100,000 population.",National Center for Health Statistics - Mortality Files
+Infant mortality*,HEALTH OUTCOMES,Length of Life,"Number of all infant deaths (within 1 year), per 1,000 live births.",National Center for Health Statistics - Mortality Files
+Frequent physical distress,HEALTH OUTCOMES,Quality of Life,Percentage of adults reporting 14 or more days of poor physical health per month.,Behavioral Risk Factor Surveillance System
+Frequent mental distress,HEALTH OUTCOMES,Quality of Life,Percentage of adults reporting 14 or more days of poor mental health per month.,Behavioral Risk Factor Surveillance System
+Diabetes prevalence,HEALTH OUTCOMES,Quality of Life,Percentage of adults aged 20 and above with diagnosed diabetes.,United States Diabetes Surveillance System
+HIV prevalence,HEALTH OUTCOMES,Quality of Life,"Number of people aged 13 years and older living with a diagnosis of human immunodeficiency virus (HIV) infection per 100,000 population.","National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention"
+Food insecurity,HEALTH FACTORS / HEALTH BEHAVIORS,Diet and Exercise,Percentage of population who lack adequate access to food.,Map the Meal Gap
+Limited access to healthy foods,HEALTH FACTORS / HEALTH BEHAVIORS,Diet and Exercise,Percentage of population who are low-income and do not live close to a grocery store.,USDA Food Environment Atlas
+Drug overdose deaths*,HEALTH FACTORS / HEALTH BEHAVIORS,Alcohol and Drug Use,"Number of drug poisoning deaths per 100,000 population.",National Center for Health Statistics - Mortality Files
+Motor vehicle crash deaths*,HEALTH FACTORS / HEALTH BEHAVIORS,Alcohol and Drug Use,"Number of motor vehicle crash deaths per 100,000 population.",National Center for Health Statistics - Mortality Files
+Insufficient sleep,HEALTH FACTORS / HEALTH BEHAVIORS,Other Health Behaviors,Percentage of adults who report fewer than 7 hours of sleep on average.,Behavioral Risk Factor Surveillance System
+Uninsured adults,CLINICAL CARE,Access to Care,Percentage of adults under age 65 without health insurance.,Small Area Health Insurance Estimates
+Uninsured children,CLINICAL CARE,Access to Care,Percentage of children under age 19 without health insurance.,Small Area Health Insurance Estimates
+Other primary care providers,CLINICAL CARE,Access to Care,Ratio of population to primary care providers other than physicians.,"CMS, National Provider Identification"
+Disconnected youth,SOCIAL & ECONOMIC FACTORS,Education,Percentage of teens and young adults ages 16-19 who are neither working nor in school.,"American Community Survey, 5-year estimates"
+Reading scores*+,SOCIAL & ECONOMIC FACTORS,Education,Average grade level performance for 3rd graders on English Language Arts standardized tests,Stanford Education Data Archive
+Math scores*+,SOCIAL & ECONOMIC FACTORS,Education,Average grade level performance for 3rd graders on math standardized tests,Stanford Education Data Archive
+Median household income*,SOCIAL & ECONOMIC FACTORS,Income,The income where half of households in a county earn more and half of households earn less.,Small Area Income and Poverty Estimates
+Children eligible for free or reduced price lunch,SOCIAL & ECONOMIC FACTORS,Income,Percentage of children enrolled in public schools that are eligible for free or reduced price lunch.,National Center for Education Statistics
+Residential segregation - Black/White,SOCIAL & ECONOMIC FACTORS,Family and Social Support,Index of dissimilarity where higher values indicate greater residential segregation between Black and White county residents.,"American Community Survey, 5-year estimates"
+Residential segregation - non-White/White,SOCIAL & ECONOMIC FACTORS,Family and Social Support,Index of dissimilarity where higher values indicate greater residential segregation between non-White and White county residents.,"American Community Survey, 5-year estimates"
+Homicides*,SOCIAL & ECONOMIC FACTORS,Community Safety,"Number of deaths due to homicide per 100,000 population.",National Center for Health Statistics - Mortality Files
+Suicides*,SOCIAL & ECONOMIC FACTORS,Community Safety,"Number of deaths due to suicide per 100,000 population.",National Center for Health Statistics - Mortality Files
+Firearm fatalities*,SOCIAL & ECONOMIC FACTORS,Community Safety,"Number of deaths due to firearms per 100,000 population.",National Center for Health Statistics - Mortality Files
+Juvenile arrests+,SOCIAL & ECONOMIC FACTORS,Community Safety,"Rate of delinquency cases per 1,000 juveniles",Easy Access to State and County Juvenile Court Case Counts
+Traffic volume,PHYSICAL ENVIRONMENT,Housing and Transit,Average traffic volume per meter of major roadways in the county.,EJSCREEN: Environmental Justice Screening and Mapping Tool
+Homeownership,PHYSICAL ENVIRONMENT,Housing and Transit,Percentage of occupied housing units that are owned.,"American Community Survey, 5-year estimates"
+Severe housing cost burden,PHYSICAL ENVIRONMENT,Housing and Transit,Percentage of households that spend 50% or more of their household income on housing.,"American Community Survey, 5-year estimates"
+Population,DEMOGRAPHICS,All,Resident population.,Census Population Estimates
+% below 18 years of age,DEMOGRAPHICS,All,Percentage of population below 18 years of age.,Census Population Estimates
+% 65 and older,DEMOGRAPHICS,All,Percentage of population ages 65 and older.,Census Population Estimates
+% Non-Hispanic Black,DEMOGRAPHICS,All,Percentage of population that is non-Hispanic Black or African American.,Census Population Estimates
+% American Indian & Alaska Native,DEMOGRAPHICS,All,Percentage of population that is American Indian or Alaska Native.,Census Population Estimates
+% Asian,DEMOGRAPHICS,All,Percentage of population that is Asian.,Census Population Estimates
+% Native Hawaiian/Other Pacific Islander,DEMOGRAPHICS,All,Percentage of population that is Native Hawaiian or Other Pacific Islander.,Census Population Estimates
+% Hispanic,DEMOGRAPHICS,All,Percentage of population that is Hispanic.,Census Population Estimates
+% Non-Hispanic White,DEMOGRAPHICS,All,Percentage of population that is non-Hispanic White.,Census Population Estimates
+% not proficient in English,DEMOGRAPHICS,All,Percentage of population that is not proficient in English.,"American Community Survey, 5-year estimates"
+% Females,DEMOGRAPHICS,All,Percentage of population that is female.,Census Population Estimates
+% Rural,DEMOGRAPHICS,All,Percentage of population living in a rural area.,Census Population Estimates
