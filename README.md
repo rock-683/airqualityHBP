@@ -28,7 +28,7 @@ This project examined the spatial relationship between PM2.5 air quality exposur
 
 ## Data Structure Overview
 
-Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](geoaq.sql) and python code linked.
+Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](geoaq.sql) and [python](data_source_and_carpentry.ipynb) code linked.
 
 ## Insights Deep Dive
 
@@ -39,7 +39,7 @@ Further details on data sources, cleaning and preparation for analysis are provi
 - Furthermore, several eastern states contain clusters of counties with high poor air quality averages, including Pennsylvania, Georgia, Oklahoma, Kansas, and Kentucky. In Indiana and Illinois, just east of the central longitude, over 90% of counties fall above the national air quality median. These patterns in East U.S. indicate region-wide exposure rather than isolated county or even state-level conditions,—potentially driven by shared environmental and structural factors such as manufacturing density, urban traffic, and industrial activity. In parts of the West, environmental drivers such as wildfire smoke may play a larger role.
 - Statistically significant High–High (HH) and Low–Low (LL) clusters confirm strong spatial dependence in PM2.5 exposure (Moran’s I = 0.89, p = .001), reinforcing the importance of spatially informed methods when assessing environmental health risk and prioritizing interventions.
 
-**Airquality: [Exploratory data analysis](https://github.com/rock-683/nitrogenMidWest/blob/main/ExploratoryDataAnalysis_LB.py) and [Geospatial autocorrelation](https://github.com/rock-683/nitrogenMidWest/blob/main/SpatialAutocorrelation_LB.py) (Hot spot analysis)**
+**Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](https://github.com/rock-683/nitrogenMidWest/blob/main/SpatialAutocorrelation_LB.py) (Hot spot analysis)**
 
 **[picture of air quality tri-fecta here with north south and east west bar graphs]**
 
