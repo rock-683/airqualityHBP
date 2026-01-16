@@ -28,7 +28,7 @@ This project examined the spatial relationship between PM2.5 air quality exposur
 
 ## Data Structure Overview
 
-Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](https://github.com/rock-683/airqualityHBP/geoaq.sql) and python code linked.
+Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](geoaq.sql) and python code linked.
 
 ## Insights Deep Dive
 
