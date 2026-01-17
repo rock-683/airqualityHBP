@@ -41,7 +41,10 @@ Further details on data sources, cleaning and preparation for analysis are provi
 
 **Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_airquality.ipynb) (Hot spot analysis)**
 
-**[picture of air quality tri-fecta here with north south and east west bar graphs]**
+![](images/aq4.png)
+
+<br/>
+<br/>
 
 ### High Blood Pressure
 
@@ -51,7 +54,10 @@ Further details on data sources, cleaning and preparation for analysis are provi
 
 **High Blood Pressure: [Exploratory data analysis](exploratory_data_analysis/EDA_highbloodpressure.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_hbp.ipynb) (Hot spot analysis)**
 
-**[picture of high blood pressure tri-fecta here with north south and east west bar graphs]**
+![](images/hbp4.png)
+
+<br/>
+<br/>
 
 ### Link between air quality and high blood pressure
 
