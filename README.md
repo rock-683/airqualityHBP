@@ -56,6 +56,7 @@ Further details on data sources, cleaning and preparation for analysis are provi
 
 **Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_airquality.ipynb) (Hot spot analysis)**
 <br/>
+<br/>
 ![](images/aq4.png)
 
 <br/>
@@ -69,6 +70,7 @@ Further details on data sources, cleaning and preparation for analysis are provi
 - Statistically significant High–High (HH) clusters of high blood pressure prevalence align with areas of elevated PM2.5 clustering, reinforcing the plausibility of an environmental contribution to cardiovascular risk. In contrast, large Low–Low (LL) clusters dominate much of the West, where both air quality exposure and hypertension prevalence tend to be lower or more localized (Moran’s *I* = 0.89; *p* = .001).
 
 **High Blood Pressure: [Exploratory data analysis](exploratory_data_analysis/EDA_highbloodpressure.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_hbp.ipynb) (Hot spot analysis)**
+<br/>
 <br/>
 ![](images/hbp4.png)
 
