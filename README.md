@@ -26,9 +26,23 @@ Building on this literature, this project focuses specifically on examining the 
 
 This project examined the spatial relationship between PM2.5 air quality exposure and high blood pressure prevalence across U.S. counties to inform environmental health risk prioritization. Spatial and regression analyses Results show that PM2.5 exposure and hypertension prevalence are geographically clustered~~,~~ with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
 
+![](images/summarymap_expanded.png)
+
+<br/>
+<br/>
+
 ## Data Structure Overview
 
+TerraHealth's finailized project database structure as seen below consists of three tables: geodata_shp, county_airquality, and county_health. All can be joined using each county’s  Federal Information Processing Standard (FIPS) code.
+
+![](images/ERD.png)
+
+<br/>
+<br/>
+
 Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](geoaq.sql) and [python](data_source_and_carpentry.ipynb) code linked.
+
+
 
 ## Insights Deep Dive
 
