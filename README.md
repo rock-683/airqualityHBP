@@ -50,22 +50,13 @@ Further details on data sources, cleaning and preparation for analysis are provi
 
 - Regional differences in PM2.5 concentrations/air quality are notable, with the West exhibiting more localized high-exposure hotspots and states east of the U.S. central longitude experiencing more widespread above-median exposure.
 - So, while the West includes some of the highest state-level PM2.5 averages—particularly California (9.9) and Nevada (9.5)—only 15% of western counties exceed the national PM2.5 median, compared to 31% of counties east of the central longitude.
-  <br/>
-![](images/aqpoint1.png)
-  <br/>
 - Furthermore, several eastern states contain clusters of counties with high poor air quality averages, including Pennsylvania, Georgia, Oklahoma, Kansas, and Kentucky. In Indiana and Illinois, just east of the central longitude, over 90% of counties fall above the national air quality median. These patterns in East U.S. indicate region-wide exposure rather than isolated county or even state-level conditions,—potentially driven by shared environmental and structural factors such as manufacturing density, urban traffic, and industrial activity. In parts of the West, environmental drivers such as wildfire smoke may play a larger role.
-   <br/>
-![](images/aqpoint2.png)
-  <br/>
 - Statistically significant High–High (HH) and Low–Low (LL) clusters confirm strong spatial dependence in PM2.5 exposure (Moran’s I = 0.89, p = .001), reinforcing the importance of spatially informed methods when assessing environmental health risk and prioritizing interventions.
-   <br/>
-![](images/aqpoint3.png)
-  <br/>
 
 **Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_airquality.ipynb) (Hot spot analysis)**
 <br/>
 <br/>
-
+![](images/aq4.png)
 <br/>
 <br/>
 
