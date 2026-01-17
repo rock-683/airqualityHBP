@@ -49,7 +49,7 @@ Further details on data sources, cleaning and preparation for analysis are provi
 - These two trends taken together show a pronounced concentration of high blood pressure prevalence across the southeast, with the highest average rates in states such as Mississippi (43), Alabama (39), Louisiana (39), Georgia (38), and Arkansas (38).
 - Statistically significant High–High (HH) clusters of high blood pressure prevalence align with areas of elevated PM2.5 clustering, reinforcing the plausibility of an environmental contribution to cardiovascular risk. In contrast, large Low–Low (LL) clusters dominate much of the West, where both air quality exposure and hypertension prevalence tend to be lower or more localized (Moran’s *I* = 0.89; *p* = .001).
 
-**High Blood Pressure: [Exploratory data analysis](https://github.com/rock-683/nitrogenMidWest/blob/main/ExploratoryDataAnalysis_Nitrogen.py) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_hbp.ipynb) (Hot spot analysis)**
+**High Blood Pressure: [Exploratory data analysis](exploratory_data_analysis/EDA_highbloodpressure.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_hbp.ipynb) (Hot spot analysis)**
 
 **[picture of high blood pressure tri-fecta here with north south and east west bar graphs]**
 
