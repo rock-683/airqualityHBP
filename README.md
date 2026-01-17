@@ -63,7 +63,6 @@ Further details on data sources, cleaning and preparation for analysis are provi
 ### High Blood Pressure
 
 - Similar to air quality, a higher proportion of counties in the east (59%) had high blood pressure above the median when compared to counties in the west (just 21%). The difference is even more pronounced across the U.S. central latitude where 83% of counties south of the middle latitude line had high blood pressure prevalence above the median, compared to 27% in the North.
-![](images/NEWShbp.png)
 - These two trends taken together show a pronounced concentration of high blood pressure prevalence across the southeast, with the highest average rates in states such as Mississippi (43), Alabama (39), Louisiana (39), Georgia (38), and Arkansas (38).
 - Statistically significant High–High (HH) clusters of high blood pressure prevalence align with areas of elevated PM2.5 clustering, reinforcing the plausibility of an environmental contribution to cardiovascular risk. In contrast, large Low–Low (LL) clusters dominate much of the West, where both air quality exposure and hypertension prevalence tend to be lower or more localized (Moran’s *I* = 0.89; *p* = .001).
 
@@ -80,7 +79,7 @@ Further details on data sources, cleaning and preparation for analysis are provi
 - The spatial overlap between PM2.5 exposure and high blood pressure prevalence supports targeting air quality as part of environmental health risk mitigation, particularly when prioritizing regions for hypertension intervention.
 - Geographically weighted regression (GWR) results support a localized association between PM2.5 exposure and high blood pressure prevalence, even after accounting for key health and community factors, indicating that the relationship varies by region.
 
-  **Explore feature selection and spatial model analysis [here](gwrLinkTree.ipynb)**
+  **Explore feature selection and spatial model analysis [here](gwrLinkTree.ipynb).**
 
 - A positive association between PM2.5 concentrations and high blood pressure prevalence is observed across the central United States, particularly the Great Plains (e.g. Montana, North Dakota) and central Midwest (Missouri, Kansas), and extends into parts of the Southeast, including Georgia and neighboring states. In these regions, higher PM2.5 concentrations are associated with increased high blood pressure prevalence.
 - In contrast, parts of the Northeast, including Pennsylvania, Maryland, New Jersey, New York, and Massachusetts, exhibit an inverse relationship, while parts of the U.S. West (including California, Nevada, and Oregon) show no significant association. In these regions, higher PM2.5 concentrations are not associated with increased high blood pressure prevalence. This heterogeneity underscores the importance of regional context when interpreting environmental health relationships.
