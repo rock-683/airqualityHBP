@@ -101,3 +101,5 @@ Further details on data sources, cleaning and preparation for analysis are provi
 that emphasize broad, region-wide strategies, rather than isolated local fixes.
 - In the Central and Southeastern U.S., where air quality exposure is widespread, environmental and policy-level interventions—such as industrial emissions reduction and transportation-related exposure mitigation—are especially warranted.
 - Complementing these efforts with community-based exposure reduction and hypertension prevention strategies, including indoor air quality improvements, air filtration in schools and workplaces, and targeted blood pressure screening, supports a comprehensive, multi-level approach to reducing cardiovascular risk.
+
+![](images/focusarea6.png)
