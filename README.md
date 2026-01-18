@@ -73,9 +73,6 @@ Further details on data sources, cleaning and preparation for analysis are provi
 
 <br/>
 <br/>
-![](images/ERD.png)
-
-
 
 ### Link between air quality and high blood pressure
 
