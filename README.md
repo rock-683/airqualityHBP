@@ -12,7 +12,7 @@ The relationship between poor air quality and high blood pressure prevalence is 
 
 To develop a county-level air quality health risk assessment by identifying spatial patterns between air pollution exposure and high blood pressure prevalence and enhance outreach program impact and fund allocation by recommending key intervention locations.   
 
-An interactive PowerBI dashboard summarizing findings can be viewed [here](https://github.com/rock-683/nitrogenMidWest/blob/main/source_and_carpentry.py).
+**An interactive PowerBI dashboard summarizing findings can be viewed [here](https://github.com/rock-683/nitrogenMidWest/blob/main/source_and_carpentry.py).**
 
 ### Literature Review:
 
@@ -24,9 +24,9 @@ Building on this literature, this project focuses specifically on examining the 
 
 ## Executive Summary
 
-This project examined the spatial relationship between PM2.5 air quality exposure and high blood pressure prevalence across U.S. counties to inform environmental health risk prioritization. Spatial and regression analyses Results show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
+This project examined the spatial relationship between PM2.5 air quality exposure and high blood pressure prevalence across U.S. counties to inform environmental health risk prioritization. Spatial and regression analyses Results show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
 
-![](images/summarymap_expanded.png)
+![](images/summarymap_expanded2.png)
 
 <br/>
 <br/>
@@ -40,7 +40,7 @@ TerraHealth's finailized project database structure as seen below consists of th
 <br/>
 <br/>
 
-Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](geoaq.sql) and [python](data_source_and_carpentry.ipynb) code linked.
+**Further details on data sources, cleaning and preparation for analysis are provided in the [SQL](geoaq.sql) and [python](data_source_and_carpentry.ipynb) code linked.**
 
 
 
@@ -53,9 +53,8 @@ Further details on data sources, cleaning and preparation for analysis are provi
 - Furthermore, several eastern states contain clusters of counties with high poor air quality averages, including Pennsylvania, Georgia, Oklahoma, Kansas, and Kentucky. In Indiana and Illinois, just east of the central longitude, over 90% of counties fall above the national air quality median. These patterns in East U.S. indicate region-wide exposure rather than isolated county or even state-level conditions,—potentially driven by shared environmental and structural factors such as manufacturing density, urban traffic, and industrial activity. In parts of the West, environmental drivers such as wildfire smoke may play a larger role.
 - Statistically significant High–High (HH) and Low–Low (LL) clusters confirm strong spatial dependence in PM2.5 exposure (Moran’s I = 0.89, p = .001), reinforcing the importance of spatially informed methods when assessing environmental health risk and prioritizing interventions.
 
-**Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_airquality.ipynb) (Hot spot analysis)**
-<br/>
-<br/>
+  **Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_airquality.ipynb) (Hot spot analysis)**
+
 ![](images/aq4.png)
 <br/>
 <br/>
@@ -66,9 +65,8 @@ Further details on data sources, cleaning and preparation for analysis are provi
 - These two trends taken together show a pronounced concentration of high blood pressure prevalence across the southeast, with the highest average rates in states such as Mississippi (43), Alabama (39), Louisiana (39), Georgia (38), and Arkansas (38).
 - Statistically significant High–High (HH) clusters of high blood pressure prevalence align with areas of elevated PM2.5 clustering, reinforcing the plausibility of an environmental contribution to cardiovascular risk. In contrast, large Low–Low (LL) clusters dominate much of the West, where both air quality exposure and hypertension prevalence tend to be lower or more localized (Moran’s *I* = 0.89; *p* = .001).
 
-**High Blood Pressure: [Exploratory data analysis](exploratory_data_analysis/EDA_highbloodpressure.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_hbp.ipynb) (Hot spot analysis)**
-<br/>
-<br/>
+  **High Blood Pressure: [Exploratory data analysis](exploratory_data_analysis/EDA_highbloodpressure.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_hbp.ipynb) (Hot spot analysis)**
+
 ![](images/hbp4.png)
 
 <br/>
@@ -90,16 +88,16 @@ Further details on data sources, cleaning and preparation for analysis are provi
 
 ![](images/blue2.png)
 <br/>
-- When focusing specifically on counties with significant positive association, high PM2.5 concentrations, and elevated high blood pressure prevalence, key priority areas emerge in the Central and Southeastern United States, particularly in Georgia, Oklahoma, and parts of Kansas, Arkansas, and Texas, where poor air quality is consistently associated with increased hypertension risk.
+- When focusing specifically on counties with significant positive association, high PM2.5 concentrations, and elevated high blood pressure prevalence, key priority areas emerge in the Central and Southeastern United States, particularly in Georgia, Oklahoma, and parts of Alabama, Kansas, Arkansas, and Texas, where poor air quality is consistently associated with increased hypertension risk.
 
 
 ## Recommendations
 
-- In the Central and Southeastern United States—particularly Georgia, Oklahoma, and parts of Kansas, Arkansas, and Texas—poor air quality is associated with higher rates of high blood pressure. These regions emerge as priority areas for air quality interventions aimed at reducing hypertension prevalence.
+- In the Central and Southeastern United States—particularly Georgia, Oklahoma, and parts of Alabama, Kansas, Arkansas, and Texas—poor air quality is associated with higher rates of high blood pressure. These regions emerge as priority areas for air quality interventions aimed at reducing hypertension prevalence.
 - The relationship between air quality and high blood pressure varies by region, reflecting spatially clustered risk rather than random distribution. This pattern suggests that shared environmental practices, infrastructure, and policy contexts likely contribute to this link.
 - Given these regional patterns, TerraHealth would benefit from funding multi-level interventions 
 that emphasize broad, region-wide strategies, rather than isolated local fixes.
 - In the Central and Southeastern U.S., where air quality exposure is widespread, environmental and policy-level interventions—such as industrial emissions reduction and transportation-related exposure mitigation—are especially warranted.
 - Complementing these efforts with community-based exposure reduction and hypertension prevention strategies, including indoor air quality improvements, air filtration in schools and workplaces, and targeted blood pressure screening, supports a comprehensive, multi-level approach to reducing cardiovascular risk.
 
-![](images/focusarea6.png)
+![](images/focusareas_full.png)
