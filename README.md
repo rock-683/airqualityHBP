@@ -89,4 +89,4 @@ TerraHealth's finailized project database structure as seen below consists of th
 - In the Central and Southeastern U.S., where air quality exposure is widespread, environmental and policy-level interventions—such as industrial emissions reduction and transportation-related exposure mitigation—are especially warranted.
 - Complementing these efforts with community-based exposure reduction and hypertension prevention strategies, including indoor air quality improvements, air filtration in schools and workplaces, and targeted blood pressure screening, supports a comprehensive, multi-level approach to reducing cardiovascular risk.
 
-![](images/focusareas_full.png)
+![](images/focusareas_full4.png)
