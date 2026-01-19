@@ -2,29 +2,21 @@
 
 ## Project Background
 
-TerraHealth is a mock public health organization that funds and evaluates health initiatives. In partnership with program leadership, I synthesized and analyzed national environmental and health data to assess the relationship between air quality and high blood pressure prevalence across U.S. counties and to inform data-driven allocation of public health resources.
-
-### **Problem:**
-
-The relationship between poor air quality and high blood pressure prevalence is not well quantified at the county level in the contiguous United States, limiting the ability to prioritize and target interventions effectively.
-
-### **Goal:**
-
-To develop a county-level air quality health risk assessment by identifying spatial patterns between air pollution exposure and high blood pressure prevalence and enhance outreach program impact and fund allocation by recommending key intervention locations.   
+TerraHealth is a mock public health organization focused on funding and evaluating health initiatives. This project analyzed national environmental and health data to assess county-level associations between air quality and high blood pressure across the contiguous United States, identifying spatial risk patterns to support data-driven targeting of public health interventions.  
 
 **An interactive PowerBI dashboard summarizing findings can be viewed [here](https://github.com/rock-683/nitrogenMidWest/blob/main/source_and_carpentry.py).**
 
 ### Literature Review:
 
-Air pollution has become a serious threat to global health, specifically fine particulate matter (particles that are 2.5 microns or less in diameter (PM2.5)  which pose the greatest problems, because they can get deep into lungs, and sometimes into the bloodstream. 
+Air pollution, especially fine particulate matter (PM2.5, particles ≤2.5 microns in diameter), poses a major global health risk due to its ability to penetrate deep into the lungs and enter the bloodstream.
 
-According to WHO (2020a,b), close to 8 million premature deaths worldwide were attributable to outdoor (4.2 million) and household (3.8 million) air pollution, mainly from respiratory and cardiovascular diseases. A growing body of evidence  have shown significant correlations between fine particulate matter (PM2.5) and respiratory diseases such as coronary heart disease (ischemic heart disease), high blood pressure, stroke, and chronic obstructive pulmonary disease (COPD) (Al-Kindi et al., 2020; Manisalidis et al., 2020; Simkovich et al., 2019; Rajagopalan et al., 2018; Henning, 2024; WHO). 
+The World Health Organization estimates that air pollution contributes to nearly **8 million premature deaths annually**, driven primarily by respiratory and cardiovascular conditions (WHO, 2020a,b). Prior research consistently links PM2.5 exposure to adverse health outcomes, including coronary heart disease**, high blood pressure**, stroke, and chronic obstructive pulmonary disease (COPD) (Al-Kindi et al., 2020; Manisalidis et al., 2020; Simkovich et al., 2019; Rajagopalan et al., 2018; Henning, 2024).
 
-Building on this literature, this project focuses specifically on examining the relationship between **air quality (PM2.5 exposure)** and **high blood pressure prevalence** across the United States and providing key areas where air pollution intervention would be most impactful on community health.
+Building on this literature, this project focuses on the relationship between PM2.5 air quality exposure and high blood pressure prevalence across the United States, highlighting priority areas for targeted environmental health interventions.
 
 ## Executive Summary
 
-This project examined the spatial relationship between PM2.5 air quality exposure and high blood pressure prevalence across U.S. counties to inform environmental health risk prioritization. Spatial and regression analyses Results show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
+Spatial and regression analyses Results show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
 
 ![](images/summarymap_expanded2.png)
 
