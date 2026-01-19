@@ -4,7 +4,7 @@
 
 TerraHealth is a mock public health organization focused on funding and evaluating health initiatives. This project analyzed national environmental and health data to assess county-level associations between air quality and high blood pressure across the contiguous United States, identifying spatial risk patterns to support data-driven targeting of public health interventions.  
 
-**An interactive PowerBI dashboard summarizing findings can be viewed [here](https://github.com/rock-683/nitrogenMidWest/blob/main/source_and_carpentry.py).**
+**An interactive PowerBI dashboard summarizing findings can be viewed [here](https://app.powerbi.com/view?r=eyJrIjoiNWYyMDQ1ODEtODBkYi00NDIyLTkwZTctNTcyY2FjMjc2NmY3IiwidCI6IjA2MTM4ZTY4LWJmOGItNDUwYS1iMmJmLWYyNTljMjczYWYxNiJ9).**
 
 ### Literature Review:
 
@@ -16,7 +16,7 @@ Building on this literature, this project focuses on the relationship between PM
 
 ## Executive Summary
 
-Spatial and regression analyses Results show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
+County health spatial analysis show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
 
 ![](images/summarymap_expanded2.png)
 
