@@ -16,7 +16,7 @@ Building on this literature, this project focuses on the relationship between PM
 
 ## Executive Summary
 
-County health spatial analysis show that PM2.5 exposure and hypertension prevalence are geographically clustered, with substantial regional variation. The strongest positive associations are observed across the **Central and Southeastern United States**, while parts of the **Northeast and much of the West** exhibit inverse or non-significant relationships, underscoring the importance of regional context. Overall, counties in the **Central and Southeastern U.S.—particularly Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas—emerge as priority areas**, where poor air quality is consistently associated with increased hypertension prevalence and where targeted air quality interventions may yield the greatest public health impact.
+County-level spatial analysis indicates that PM2.5 exposure and high blood pressure (HBP) prevalence are not evenly distributed across the U.S., but instead cluster geographically. Counties east of the U.S. central longitude are twice as likely to exceed the national PM2.5 median (31% vs. 15% in the West), and 59% of eastern counties report HBP prevalence above the national median, compared to 21% in the West. The strongest link between poor air quality and elevated HBP rates occurs in the Central and **Southeastern United States, particularly in Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas**, where higher PM2.5 concentrations consistently align with higher hypertension prevalence. Given these patterns, TerraHealth should prioritize region-wide interventions in the Central and Southeastern U.S., where air quality exposure is widespread and environmental conditions affect many neighboring counties simultaneously.
 
 ![](images/summarymap_expanded2.png)
 
@@ -40,10 +40,10 @@ TerraHealth's finailized project database structure as seen below consists of th
 
 ### Air Quality
 
-- Regional differences in PM2.5 concentrations/air quality are notable, with the West exhibiting more localized high-exposure hotspots and states east of the U.S. central longitude experiencing more widespread above-median exposure.
-- So, while the West includes some of the highest state-level PM2.5 averages—particularly California (9.9) and Nevada (9.5)—only 15% of western counties exceed the national PM2.5 median, compared to 31% of counties east of the central longitude.
-- Furthermore, several eastern states contain clusters of counties with high poor air quality averages, including Pennsylvania, Georgia, Oklahoma, Kansas, and Kentucky. In Indiana and Illinois, just east of the central longitude, over 90% of counties fall above the national air quality median. These patterns in East U.S. indicate region-wide exposure rather than isolated county or even state-level conditions,—potentially driven by shared environmental and structural factors such as manufacturing density, urban traffic, and industrial activity. In parts of the West, environmental drivers such as wildfire smoke may play a larger role.
-- Statistically significant High–High (HH) and Low–Low (LL) clusters confirm strong spatial dependence in PM2.5 exposure (Moran’s I = 0.89, p = .001), reinforcing the importance of spatially informed methods when assessing environmental health risk and prioritizing interventions.
+- Regional differences in PM2.5 concentrations are notable, with the West exhibiting more localized high-exposure hotspots and states east of the U.S. central longitude experiencing more widespread above-median exposure.
+- While the West includes some of the highest state-level PM2.5 averages—particularly California (9.9) and Nevada (9.5)—only 15% of western counties exceed the national PM2.5 median, compared to 31% of counties east of the central longitude.
+- Several eastern states contain clusters of counties with high average PM2.5 concentrations, including Pennsylvania, Georgia, Oklahoma, Kansas, and Kentucky. In **I**ndiana and Illinois, just east of the central longitude, over 90% of counties fall above the national air quality median. These patterns in the eastern U.S. indicate region-wide exposure rather than isolated county- or state-level conditions, likely driven by shared environmental and structural factors such as manufacturing density, urban traffic, and industrial activity. In contrast, in parts of the West, environmental drivers such as wildfire smoke may play a larger role.
+- Statistically significant High–High (HH) and Low–Low (LL) clusters confirm strong spatial dependence in PM2.5 exposure (Moran’s I = 0.89, *p* = .001), reinforcing the importance of spatially informed methods when assessing environmental health risk and prioritizing interventions.
 
   **Airquality: [Exploratory data analysis](exploratory_data_analysis/EDA_airquality.ipynb) and [Geospatial autocorrelation](gwr/SpatialAutocorrelation_airquality.ipynb) (Hot spot analysis)**
 
@@ -80,15 +80,12 @@ TerraHealth's finailized project database structure as seen below consists of th
 
 ![](images/blue2.png)
 <br/>
-- When focusing specifically on counties with significant positive association, high PM2.5 concentrations, and elevated high blood pressure prevalence, key priority areas emerge in the Central and Southeastern United States, particularly in Georgia, Oklahoma, and parts of Alabama, Kansas, Arkansas, and Texas, where poor air quality is consistently associated with increased hypertension risk.
 
 
 ## Recommendations
 
-- In the Central and Southeastern United States—particularly Georgia, Oklahoma, and parts of Alabama, Kansas, Arkansas, and Texas—poor air quality is associated with higher rates of high blood pressure. These regions emerge as priority areas for air quality interventions aimed at reducing hypertension prevalence.
-- The relationship between air quality and high blood pressure varies by region, reflecting spatially clustered risk rather than random distribution. This pattern suggests that shared environmental practices, infrastructure, and policy contexts likely contribute to this link.
-- Given these regional patterns, TerraHealth would benefit from funding multi-level interventions 
-that emphasize broad, region-wide strategies, rather than isolated local fixes.
+- In the Central and Southeastern United States—particularly Georgia, Oklahoma, and parts of Alabama, Kansas, Arkansas, and Texas—poor air quality is associated with elevated rates of high blood pressure. These regions represent priority areas for air quality interventions aimed at reducing hypertension prevalence.
+- The relationship between air quality and high blood pressure varies by region, reflecting spatially clustered risk rather than random distribution. This pattern suggests that shared environmental practices, infrastructure, and policy contexts likely contribute to this link. Given these regional patterns, TerraHealth would benefit from funding multi-level interventions that emphasize broad, region-wide strategies, rather than isolated local fixes.
 - In the Central and Southeastern U.S., where air quality exposure is widespread, environmental and policy-level interventions—such as industrial emissions reduction and transportation-related exposure mitigation—are especially warranted.
 - Complementing these efforts with community-based exposure reduction and hypertension prevention strategies, including indoor air quality improvements, air filtration in schools and workplaces, and targeted blood pressure screening, supports a comprehensive, multi-level approach to reducing cardiovascular risk.
 
