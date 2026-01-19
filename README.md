@@ -10,7 +10,7 @@ TerraHealth is a mock public health organization focused on funding and evaluati
 
 Air pollution, especially fine particulate matter (PM2.5, particles ≤2.5 microns in diameter), poses a major global health risk due to its ability to penetrate deep into the lungs and enter the bloodstream.
 
-The World Health Organization estimates that air pollution contributes to nearly **8 million premature deaths annually**, driven primarily by respiratory and cardiovascular conditions (WHO, 2020a,b). Prior research consistently links PM2.5 exposure to adverse health outcomes, including coronary heart disease**, high blood pressure**, stroke, and chronic obstructive pulmonary disease (COPD) (Al-Kindi et al., 2020; Manisalidis et al., 2020; Simkovich et al., 2019; Rajagopalan et al., 2018; Henning, 2024).
+The World Health Organization estimates that air pollution contributes to nearly **8 million premature deaths annually**, driven primarily by respiratory and cardiovascular conditions (WHO, 2020a,b). Prior research consistently links PM2.5 exposure to adverse health outcomes, including coronary heart disease, **high blood pressure**, stroke, and chronic obstructive pulmonary disease (COPD) (Al-Kindi et al., 2020; Manisalidis et al., 2020; Simkovich et al., 2019; Rajagopalan et al., 2018; Henning, 2024).
 
 Building on this literature, this project focuses on the relationship between PM2.5 air quality exposure and high blood pressure prevalence across the United States, highlighting priority areas for targeted environmental health interventions.
 
