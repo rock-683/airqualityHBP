@@ -8,15 +8,15 @@ TerraHealth is a mock public health organization focused on funding and evaluati
 
 ### Literature Review:
 
-Air pollution, especially fine particulate matter (PM2.5, particles ≤2.5 microns in diameter), poses a major global health risk due to its ability to penetrate deep into the lungs and enter the bloodstream.
-
-The World Health Organization estimates that air pollution contributes to nearly **8 million premature deaths annually**, driven primarily by respiratory and cardiovascular conditions (WHO, 2020a,b). Prior research consistently links PM2.5 exposure to adverse health outcomes, including coronary heart disease, **high blood pressure**, stroke, and chronic obstructive pulmonary disease (COPD) (Al-Kindi et al., 2020; Manisalidis et al., 2020; Simkovich et al., 2019; Rajagopalan et al., 2018; Henning, 2024).
+Air pollution, especially fine particulate matter (PM2.5, particles ≤2.5 microns in diameter), poses a major global health risk due to its ability to penetrate deep into the lungs and enter the bloodstream. The World Health Organization estimates that air pollution contributes to nearly **8 million premature deaths annually**, driven primarily by respiratory and cardiovascular conditions (WHO, 2020a,b). Prior research consistently links PM2.5 exposure to adverse health outcomes, including coronary heart disease, **high blood pressure**, stroke, and chronic obstructive pulmonary disease (COPD) (Al-Kindi et al., 2020; Manisalidis et al., 2020; Simkovich et al., 2019; Rajagopalan et al., 2018; Henning, 2024). 
 
 Building on this literature, this project focuses on the relationship between PM2.5 air quality exposure and high blood pressure prevalence across the United States, highlighting priority areas for targeted environmental health interventions.
 
 ## Executive Summary
 
-County-level spatial analysis indicates that PM2.5 exposure and high blood pressure (HBP) prevalence are not evenly distributed across the U.S., but instead cluster geographically. Counties east of the U.S. central longitude are twice as likely to exceed the national PM2.5 median (31% vs. 15% in the West), and 59% of eastern counties report HBP prevalence above the national median, compared to 21% in the West. The strongest link between poor air quality and elevated HBP rates occurs in the Central and **Southeastern United States, particularly in Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas**, where higher PM2.5 concentrations consistently align with higher hypertension prevalence. Given these patterns, TerraHealth should prioritize region-wide interventions in the Central and Southeastern U.S., where air quality exposure is widespread and environmental conditions affect many neighboring counties simultaneously.
+County-level spatial analysis indicates that PM2.5 exposure and high blood pressure (HBP) prevalence are not evenly distributed across the U.S., but instead cluster geographically. Counties east of the U.S. central longitude are twice as likely to exceed the national PM2.5 median (31% vs. 15% in the West), and 59% of eastern counties report HBP prevalence above the national median, compared to 21% in the West. 
+
+The strongest link between poor air quality and elevated HBP rates occurs in the Central and **Southeastern United States, particularly in Georgia, Oklahoma, and parts of Kansas, Alabama, Arkansas, and Texas**, where higher PM2.5 concentrations consistently align with higher hypertension prevalence. Given these patterns, TerraHealth should prioritize region-wide interventions in the Central and Southeastern U.S., where air quality exposure is widespread and environmental conditions affect many neighboring counties simultaneously.
 
 ![](images/summarymap_expanded2.png)
 
